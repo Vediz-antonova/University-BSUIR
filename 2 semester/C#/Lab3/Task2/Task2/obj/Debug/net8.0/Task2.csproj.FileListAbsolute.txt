@@ -1,0 +1,14 @@
+D:\University\C#_2 sem\Lab3\Task2\Task2\bin\Debug\net8.0\Task2.exe
+D:\University\C#_2 sem\Lab3\Task2\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\University\C#_2 sem\Lab3\Task2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\University\C#_2 sem\Lab3\Task2\Task2\bin\Debug\net8.0\Task2.dll
+D:\University\C#_2 sem\Lab3\Task2\Task2\bin\Debug\net8.0\Task2.pdb
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\Task2.dll
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\Task2.pdb
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\University\C#_2 sem\Lab3\Task2\Task2\obj\Debug\net8.0\ref\Task2.dll

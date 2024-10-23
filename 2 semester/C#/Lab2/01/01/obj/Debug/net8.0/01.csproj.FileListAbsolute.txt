@@ -1,0 +1,14 @@
+D:\University\C#_2 sem\Lab2\01\01\bin\Debug\net8.0\01.exe
+D:\University\C#_2 sem\Lab2\01\01\bin\Debug\net8.0\01.deps.json
+D:\University\C#_2 sem\Lab2\01\01\bin\Debug\net8.0\01.runtimeconfig.json
+D:\University\C#_2 sem\Lab2\01\01\bin\Debug\net8.0\01.dll
+D:\University\C#_2 sem\Lab2\01\01\bin\Debug\net8.0\01.pdb
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\01.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\01.AssemblyInfoInputs.cache
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\01.AssemblyInfo.cs
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\01.csproj.CoreCompileInputs.cache
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\01.dll
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\refint\01.dll
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\01.pdb
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\01.genruntimeconfig.cache
+D:\University\C#_2 sem\Lab2\01\01\obj\Debug\net8.0\ref\01.dll

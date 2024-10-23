@@ -1,0 +1,13 @@
+ ORG $8000
+ LDAA #%00010111  ; invert: 11101000, invers:01000010
+ LDX #4
+ CLRB
+
+copy_loop:
+ RORA
+ ROLB
+ EORB #%00000001
+ RORA
+ ROLB
+ DEX 
+ BNE copy_loop

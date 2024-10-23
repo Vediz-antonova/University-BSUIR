@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\consoleapp1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\consoleapp1\\depositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\depositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\consoleapp1\\iintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\consoleapp1\\fixedintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\fixedintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|d:\\university\\c#_2 sem\\lab8\\consoleapp1\\consoleapp1\\bonusdepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bonusdepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\consoleapp1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{019DC6B6-FC03-41B8-A05E-8915E1275E71}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BonusDepositor.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\BonusDepositor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BonusDepositor.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\BonusDepositor.cs",
+              "RelativeToolTip": "ConsoleApp1\\BonusDepositor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:54:14.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Bank.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Bank.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Bank.cs",
+              "RelativeToolTip": "ConsoleApp1\\Bank.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:49:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ClassDiagram1.cd",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ConsoleApp1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-20T14:45:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInterestStrategy.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\IInterestStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IInterestStrategy.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\IInterestStrategy.cs",
+              "RelativeToolTip": "ConsoleApp1\\IInterestStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:41:26.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FixedInterestStrategy.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\FixedInterestStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FixedInterestStrategy.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\FixedInterestStrategy.cs",
+              "RelativeToolTip": "ConsoleApp1\\FixedInterestStrategy.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:41:01.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Deposit.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Deposit.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Deposit.cs",
+              "RelativeToolTip": "ConsoleApp1\\Deposit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:40:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Depositor.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Depositor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Depositor.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Depositor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Depositor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:40:01.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:05:11.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\deliveryservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\deliveryservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\deliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\deliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\cardelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cardelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\dhldelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dhldelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\autolightexpressdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\autolightexpressdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\someservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\someservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\dhldeliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dhldeliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\iinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\deliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\deliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|d:\\university\\c#_2 sem\\lab9\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\autolightexpressdeliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\autolightexpressdeliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\cardeliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cardeliverybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\idelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\idelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\consoleapp1\\itracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11F145-E7D7-40DA-9F26-2CD6E78C164C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\itracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\Director.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Director.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\Director.cs",
+              "RelativeToolTip": "ConsoleApp1\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:06:50.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoLightExpressDeliveryBuilder.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\AutoLightExpressDeliveryBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AutoLightExpressDeliveryBuilder.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\AutoLightExpressDeliveryBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\AutoLightExpressDeliveryBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:03:22.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DHLDeliveryBuilder.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DHLDeliveryBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DHLDeliveryBuilder.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DHLDeliveryBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\DHLDeliveryBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:02:31.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarDeliveryBuilder.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\CarDeliveryBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CarDeliveryBuilder.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\CarDeliveryBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\CarDeliveryBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:01:20.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ClassDiagram1.cd",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ConsoleApp1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-31T01:48:09.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoLightExpressDelivery.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\AutoLightExpressDelivery.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AutoLightExpressDelivery.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\AutoLightExpressDelivery.cs",
+              "RelativeToolTip": "ConsoleApp1\\AutoLightExpressDelivery.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:44:35.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DHLDelivery.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DHLDelivery.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DHLDelivery.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DHLDelivery.cs",
+              "RelativeToolTip": "ConsoleApp1\\DHLDelivery.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:43:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDelivery.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\IDelivery.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IDelivery.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\IDelivery.cs",
+              "RelativeToolTip": "ConsoleApp1\\IDelivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:39:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDelivery.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\CarDelivery.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CarDelivery.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\CarDelivery.cs",
+              "RelativeToolTip": "ConsoleApp1\\CarDelivery.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:38:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SomeService.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\SomeService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SomeService.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\SomeService.cs",
+              "RelativeToolTip": "ConsoleApp1\\SomeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:32:16.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryBuilder.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DeliveryBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DeliveryBuilder.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DeliveryBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\DeliveryBuilder.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:21:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeliveryServiceBase.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DeliveryServiceBase.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DeliveryServiceBase.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DeliveryServiceBase.cs",
+              "RelativeToolTip": "ConsoleApp1\\DeliveryServiceBase.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:46:55.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\IService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IService.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\IService.cs",
+              "RelativeToolTip": "ConsoleApp1\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:42:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInsurance.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\IInsurance.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IInsurance.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\IInsurance.cs",
+              "RelativeToolTip": "ConsoleApp1\\IInsurance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:41:31.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITracking.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\ITracking.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ITracking.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\ITracking.cs",
+              "RelativeToolTip": "ConsoleApp1\\ITracking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:26:55.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeliveryType.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DeliveryType.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DeliveryType.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\DeliveryType.cs",
+              "RelativeToolTip": "ConsoleApp1\\DeliveryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:25:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\University\\C#_2 sem\\Lab9\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:45:26.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_353504_Antonava_Lab2.Collections.ItemNotFoundException">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collections\MyCustomCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353504_Antonava_Lab2.Collections.MyCustomCollection&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="_353504_Antonava_Lab2.Collections.MyCustomCollection&lt;T&gt;.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Collections\MyCustomCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAgAAABBAADACABAQAgAgAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Collections\MyCustomCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_353504_Antonava_Lab2.Entities.BankSystem" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="_353504_Antonava_Lab2.Entities.BankSystem.ClientEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\BankSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="_353504_Antonava_Lab2.Entities.BankSystem.DepositEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\BankSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <AssociationLine Name="clients" Type="_353504_Antonava_Lab2.Entities.Client">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.05" Y="0.094" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAQAAIAAAAAACkAAAAAAAABAACAAAAAAE=</HashCode>
+      <FileName>Entities\BankSystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="clients" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_353504_Antonava_Lab2.Entities.Client">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Deposits" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="_353504_Antonava_Lab2.Entities.Deposit">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAACAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Deposit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353504_Antonava_Lab2.Entities.Journal">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAEIAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Journal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353504_Antonava_Lab2.Program">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_353504_Antonava_Lab2.Contracts.IBankSystem">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Contracts\IBankSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_353504_Antonava_Lab2.Interfaces.ICustomCollection&lt;T&gt;">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAABAAACACABAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICustomCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="InterestRateType">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAABAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Enum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

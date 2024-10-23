@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.26)
+project(3)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(3 01.cpp
+        02.cpp
+        03.cpp
+        04.cpp
+        05.cpp
+        06.cpp
+        07.cpp
+        08.cpp
+        09.cpp
+        ../2/8byComplex.cpp
+        ../2/055.cpp
+        5151.cpp
+        702.cpp)

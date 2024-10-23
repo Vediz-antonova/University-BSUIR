@@ -1,0 +1,4 @@
+D:/University/OAiP/Labs/5/4/cmake-build-debug/CMakeFiles/4.dir
+D:/University/OAiP/Labs/5/4/cmake-build-debug/CMakeFiles/tests4.dir
+D:/University/OAiP/Labs/5/4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/OAiP/Labs/5/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

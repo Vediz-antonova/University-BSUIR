@@ -1,21 +1,18 @@
 # University-BSUIR
  
-### [Первый семестр (2023)](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-1)
-
+### [Первый семестр (2023)]
 - [ОАиП](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-1/OAIP) (Владымцев В.Д.)
 - [ОКГ] (Омелькович Е. В.)
 
-### [Второй семестр (2024)](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-2)
+### [Второй семестр (2024)]
+- [Программирование] (Гламаздин И.И.)
+- [ОАиП] (Владымцев В.Д.)
+- [Курсовая работа ОАиП] (Владымцев В.Д.)
+- [Практика ОАиП] (Владымцев В.Д.)
 
-- [Программирование](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-2/Programming) (Гламаздин И.И.)
-- [ОАиП](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-2/OAIP) (Владымцев В.Д.)
-- [Курсовая работа ОАиП](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-2/OAIP) (Владымцев В.Д.)
-- [Практика ОАиП](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-2/OAIP) (Владымцев В.Д.)
-
-### [Третий семестр (2024)](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-3)
-
+### [Третий семестр (2024)]
 - [Курсовая работа ПЗМА] (Анисимов В.Я.)
-- [ПЗМА](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-3/PZMA) (Калугина М.А.)
-- [МЧА](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-3/MCHA) (Анисимов В.Я.)
-- [КПрог](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-3/KProg) (Романюк М.В.)
-- [ИСП](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-3/ISP) (Гламаздин И.И.)
+- [ПЗМА] (Калугина М.А.)
+- [МЧА] (Анисимов В.Я.)
+- [КПрог] (Романюк М.В.)
+- [ИСП] (Гламаздин И.И.)

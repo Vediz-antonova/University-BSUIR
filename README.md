@@ -1,18 +1,19 @@
 # University-BSUIR
  
-### [Первый семестр (2023)]
-- [ОАиП] (Владымцев В.Д.)
-- [ОКГ] (Омелькович Е. В.)
+### [Первый семестр (2023)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/1%20semester)
+- [ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/1%20semester/OAiP) (Владымцев В.Д.)
+- [ОКГ](https://github.com/Vediz-antonova/University-BSUIR/tree/main/1%20semester/ОКГ) (Омелькович Е.В.)
 
-### [Второй семестр (2024)]
-- [Программирование] (Гламаздин И.И.)
-- [ОАиП] (Владымцев В.Д.)
-- [Курсовая работа ОАиП] (Владымцев В.Д.)
-- [Практика ОАиП] (Владымцев В.Д.)
+### [Второй семестр (2024)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester)
+- [Программирование](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/C%23) (Романюк М.В.)
+- [ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/OAiP) (Владымцев В.Д.)
+- [Курсовая работа ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/Курсач%20OAiP) (Владымцев В.Д.)
+- [Практика ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/RobotArm) (Владымцев В.Д.)
 
-### [Третий семестр (2024)]
+### [Третий семестр (2024)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester)
 - [Курсовая работа ПЗМА] (Анисимов В.Я.)
-- [ПЗМА] (Калугина М.А.)
-- [МЧА] (Анисимов В.Я.)
-- [КПрог] (Романюк М.В.)
-- [ИСП] (Гламаздин И.И.)
+- [ПЗМА](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/ПЗМА) (Калугина М.А.)
+- [МЧА](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/МЧА) (Анисимов В.Я.)
+- [КПрог](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/Assembler) (Романюк М.В.)
+- [ИСП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/C%23) (Гламаздин И.И.)
+- [БЖЧ](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/БЖЧ) (Ильясова М.С.)

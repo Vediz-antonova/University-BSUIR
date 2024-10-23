@@ -11,7 +11,7 @@
 - [Практика ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/RobotArm) (Владымцев В.Д.)
 
 ### [Третий семестр (2024)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester)
-- [Курсовая работа ПЗМА] (Анисимов В.Я.)
+- Курсовая работа ПЗМА (Анисимов В.Я.)
 - [ПЗМА](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/ПЗМА) (Калугина М.А.)
 - [МЧА](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/МЧА) (Анисимов В.Я.)
 - [КПрог](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/Assembler) (Романюк М.В.)

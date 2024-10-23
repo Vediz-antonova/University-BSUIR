@@ -1,7 +1,7 @@
 # University-BSUIR
  
 ### [Первый семестр (2023)]
-- [ОАиП](https://github.com/JankerPlay/BSUIR-Labs/tree/semester-1/OAIP) (Владымцев В.Д.)
+- [ОАиП] (Владымцев В.Д.)
 - [ОКГ] (Омелькович Е. В.)
 
 ### [Второй семестр (2024)]

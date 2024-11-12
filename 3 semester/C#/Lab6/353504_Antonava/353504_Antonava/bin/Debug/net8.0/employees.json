@@ -1,0 +1,32 @@
+[
+  {
+    "Age": 30,
+    "Experience": 5,
+    "IsManager": true,
+    "Name": "John"
+  },
+  {
+    "Age": 25,
+    "Experience": 3,
+    "IsManager": false,
+    "Name": "Jane"
+  },
+  {
+    "Age": 40,
+    "Experience": 10,
+    "IsManager": true,
+    "Name": "Bob"
+  },
+  {
+    "Age": 22,
+    "Experience": 1,
+    "IsManager": false,
+    "Name": "Alice"
+  },
+  {
+    "Age": 35,
+    "Experience": 8,
+    "IsManager": true,
+    "Name": "Tom"
+  }
+]

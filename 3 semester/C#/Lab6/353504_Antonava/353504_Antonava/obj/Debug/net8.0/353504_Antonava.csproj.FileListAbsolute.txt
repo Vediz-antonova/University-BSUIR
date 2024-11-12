@@ -1,0 +1,17 @@
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\353504_Antonava.exe
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\353504_Antonava.deps.json
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\353504_Antonava.runtimeconfig.json
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\353504_Antonava.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\353504_Antonava.pdb
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.AssemblyInfoInputs.cache
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.AssemblyInfo.cs
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.csproj.CoreCompileInputs.cache
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\refint\353504_Antonava.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.pdb
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.genruntimeconfig.cache
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\ref\353504_Antonava.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_Antonava.csproj.AssemblyReference.cache
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\obj\Debug\net8.0\353504_A.1D32E255.Up2Date

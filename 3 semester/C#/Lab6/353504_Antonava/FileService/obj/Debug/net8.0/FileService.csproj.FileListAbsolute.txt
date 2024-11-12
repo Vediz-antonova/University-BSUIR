@@ -1,0 +1,15 @@
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\Debug\net8.0\FileService.deps.json
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\Debug\net8.0\FileService.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\Debug\net8.0\FileService.pdb
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\FileService.AssemblyInfoInputs.cache
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\FileService.AssemblyInfo.cs
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\FileService.csproj.CoreCompileInputs.cache
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\FileService.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\refint\FileService.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\FileService.pdb
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\ref\FileService.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\FileService.deps.json
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\FileService.dll
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\353504_Antonava\bin\Debug\net8.0\FileService.pdb
+D:\University\C#_3 sem\Lab6_1\353504_Antonava\FileService\obj\Debug\net8.0\FileService.csproj.AssemblyReference.cache

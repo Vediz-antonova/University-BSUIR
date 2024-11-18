@@ -4,7 +4,8 @@
 .data     
     num1 dw 0
     num2 dw 0  
-    minus db 0
+    minus db 0  
+    temp dw 0
     res dw 11 dup(0)
     remainder dw 6 dup(0)
     
@@ -79,9 +80,9 @@ start:
     call output   
     
     mov ax, [num1]
-    mov di, [num2]
-    imul di       
-    call checkOverflow
+    mov bx, [num2]
+    imul bx       
+    call checkOverflow 
     call showResult
     
     ; div
@@ -203,7 +204,6 @@ input proc
     mov bx, 0
     mov cx, 0 
     mov dx, 0
-    mov bl, 0 
     mov minus, 0
     
 inputLoop: 
@@ -217,19 +217,33 @@ inputLoop:
     cmp al, '0' 
     jb invalidInput 
     cmp al, '9' 
-    ja invalidInput 
+    ja invalidInput  
     
+    cmp cx, 2
+    jl firstChar
+                
+    mov ah, 0
     sub al, '0' 
-    mov dl, al  
-    mov al, bl
+    mov temp, ax  
+    mov ax, bx
     mov cl, 10
-    mul cl
-    add ax, dx
+    mul cx
+    add ax, temp
         
     inc cx
     mov bx, ax 
     
-    jmp inputLoop    
+    mov ax, 0
+    
+    jmp inputLoop  
+    
+firstChar:
+    sub al, '0' 
+    mov bl, al  
+        
+    mov cx, 10  
+    mov ax, 0 
+    jmp inputLoop 
     
 invalidInput:
     mov ah, 0Eh 
@@ -274,7 +288,7 @@ empty:
     
 convertToStr proc
     mov bx, 10
-    add di, 5       
+    add di, 6       
     mov byte ptr [di], '$'    
     
     mov cx, ax
@@ -311,11 +325,14 @@ showResult:
     ret 
     
 checkOverflow: 
-    jo overflowDetected 
+    jo overflowDetected  
+    ;call showResult
     ret 
     
 overflowDetected: 
     lea dx, msgOverflow 
-    call output 
+    call output  
+    
+    mov res, 0
     ret
 end start    

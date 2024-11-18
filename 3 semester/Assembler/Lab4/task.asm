@@ -6,12 +6,12 @@
     num2 dw 0  
     minus db 0  
     temp dw 0
-    res dw 11 dup(0)
+    res dw 17 dup(0)
     remainder dw 6 dup(0)
     
     ; arithmetic 
-    msgFirst db 'Input first number: $'  
-    msgSecond db 'Input second number: $'
+    msgFirst db 'Input first number from -32768 to 32767: $'  
+    msgSecond db 'Input second number from -32768 to 32767: $'
     msgAddition db 'Addition result: $'
     msgSubtraction db 'Subtraction result: $' 
     msgMultiplication db 'Multiplication result: $'  
@@ -52,7 +52,8 @@ start:
     call input    
                   
     lea dx, Enter
-    call output 
+    call output    
+    
     ;start arithm operations 
     ; add
     lea dx, msgAddition
@@ -104,7 +105,7 @@ start:
     mov ax, [num1]
     mov di, [num2]
     and ax, di
-    call showResult   
+    call showResultByn   
     
     ; OR
     lea dx, msgOR
@@ -113,7 +114,7 @@ start:
     mov ax, [num1]
     mov di, [num2]
     or ax, di
-    call showResult
+    call showResultByn
      
     ; XOR  
     lea dx, msgXOR
@@ -122,20 +123,20 @@ start:
     mov ax, [num1]
     mov di, [num2]
     xor ax, di
-    call showResult
+    call showResultByn
        
     ; NOT  
     lea dx, msgNOT1
     call output   
     mov ax, [num1] 
     not ax
-    call showResult   
+    call showResultByn   
     
     lea dx, msgNOT2
     call output      
     mov ax, [num2] 
-    not ax
-    call showResult 
+    not ax     
+    call showResultByn 
     
 exit:
     mov ax, 4C00h
@@ -228,7 +229,7 @@ inputLoop:
     mov ax, bx
     mov cl, 10
     mul cx
-    add ax, temp
+    add ax, temp 
         
     inc cx
     mov bx, ax 
@@ -334,5 +335,39 @@ overflowDetected:
     call output  
     
     mov res, 0
+    ret   
+    
+overflow: 
+    lea dx, msgOverflow 
+    call output  
+    
+    jmp exit   
+    
+convertToByn proc
+    mov bx, 2
+    add di, 17       
+    mov byte ptr [di], '$'    
+
+convertLoopByn:
+    dec di           
+    mov dx, 0       
+    div bx           
+    add dl, '0'     
+    mov [di], dl
+
+    test ax, ax      
+    jnz convertLoop 
     ret
+convertToByn endp
+    
+showResultByn:
+    lea di, res 
+    call convertToByn
+    mov dx, di       
+    call output  
+    
+    lea dx, Enter
+    call output 
+    ret 
+        
 end start    

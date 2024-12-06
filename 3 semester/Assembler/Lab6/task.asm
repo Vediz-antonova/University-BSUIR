@@ -6,11 +6,11 @@
     
     programName db 'test.com', 0
     
-    commandline db 128 dup(0) 
+    commandline db 128 dup(0)
     char db 0 
     sizeLine db 0 
     EPB dw 0 
-        dw offset commandline, 0 
+        dw offset commandline, 0
         dw 005Ch, 0, 006Ch, 0
  
     msgStart db 'Starting the program...', 0Dh, 0Ah, '$' 
@@ -138,9 +138,9 @@ launchProgram proc
     int 21h      
      
     mov ax, cs
-    mov word ptr EPB + 4, ax 
-    mov word ptr EPB + 8, ax 
-    mov word ptr EPB + 0Ch, ax
+    mov word ptr EPB + 02h, ax 
+    mov word ptr EPB + 06h, ax 
+    mov word ptr EPB + 0Ah, ax
     
     lea dx, msgLaunching 
     call output 

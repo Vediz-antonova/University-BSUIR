@@ -4,14 +4,17 @@
     fileName db 32 dup(0) 
     fileID dw 0           
     
-    programName db 'test.com', 0
-    
-    commandline db 128 dup(0)
+    programName db 'test.exe', 0
+
     char db 0 
     sizeLine db 0 
-    EPB dw 0 
+    EPB dw 0000 
         dw offset commandline, 0
-        dw 005Ch, 0, 006Ch, 0
+        dw 005Ch, 0
+        dw 006Ch, 0
+            
+    commandline db 0
+                db 125 dup(0) 
  
     msgStart db 'Starting the program...', 0Dh, 0Ah, '$' 
     msgReadFile db 'Reading parameters from file...', 0Dh, 0Ah, '$' 
@@ -28,7 +31,7 @@
     
     msgEnter db 0Dh, 0Ah, '$'  
     
-    dsize equ $-programName
+    dsize = $-commandline
 .code
 start:
     mov ax, @data
@@ -87,10 +90,11 @@ openFile:
 openFileError: 
     lea dx, msgErrorOpenFile
     call output
-    call exit
-    
-readFile proc      
-    lea si, commandline+1
+    call exit   
+
+readFile proc   
+    mov sizeLine, 0   
+    lea si, commandline + 1
     mov bx, fileID  
     mov cx, 1     
     lea dx, char   
@@ -101,7 +105,10 @@ nextChar:
     jc exitReadFile  
     
     cmp ax, 0
-    je endOfFile  
+    je endOfFile    
+    
+    cmp sizeLine, 125  
+    je endOfFile 
     
     inc sizeLine 
     mov al, char 
@@ -110,7 +117,7 @@ nextChar:
     jmp nextChar   
     
 endOfFile: 
-    mov byte ptr[si], '$' 
+    mov byte ptr[si], 0Dh   
     
 exitReadFile: 
     cmp sizeLine, 0
@@ -131,21 +138,25 @@ closeFile:
     int 21h       
     ret
  
-launchProgram proc  
+launchProgram proc                 
     mov sp, csize + 100h + 200h            
-    mov ah, 4ah   
+    mov ah, 4Ah   
     mov bx, (csize / 16) + 256 / 16 + (dsize / 16) + 20
     int 21h      
-     
-    mov ax, cs
-    mov word ptr EPB + 02h, ax 
-    mov word ptr EPB + 06h, ax 
-    mov word ptr EPB + 0Ah, ax
     
+    mov ax, cs        
+    mov word ptr EPB + 4, ds 
+    mov word ptr EPB + 8, cs 
+    mov word ptr EPB + 0Ah, cs                                         
+     
     lea dx, msgLaunching 
     call output 
-    
-    mov ax, 4B00h 
+     
+    mov ax, @data 
+    mov es, ax 
+     
+    mov ah, 4Bh
+    mov al, 00h
     lea dx, programName 
     lea bx, EPB 
     int 21h 
@@ -205,5 +216,5 @@ error0Bh:
     call output
     call exit
 
-csize equ $-start     
+csize = $-start     
 end start

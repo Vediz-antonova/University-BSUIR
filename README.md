@@ -7,6 +7,7 @@
 ### [Второй семестр (2024)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester)
 - [Программирование](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/C%23) (Романюк М.В.)
 - [ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/OAiP) (Владымцев В.Д.)
+- [English](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/English) (Ладыженко М.В.)
 - [Курсовая работа ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/Курсач%20OAiP) (Владымцев В.Д.)
 - [Практика ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/2%20semester/RobotArm) (Владымцев В.Д.)
 

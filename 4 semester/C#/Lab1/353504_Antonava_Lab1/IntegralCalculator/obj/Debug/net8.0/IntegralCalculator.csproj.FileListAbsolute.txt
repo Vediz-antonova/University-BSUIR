@@ -1,0 +1,11 @@
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\bin\Debug\net8.0\IntegralCalculator.deps.json
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\bin\Debug\net8.0\IntegralCalculator.dll
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\bin\Debug\net8.0\IntegralCalculator.pdb
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.AssemblyInfoInputs.cache
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.AssemblyInfo.cs
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.csproj.CoreCompileInputs.cache
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.dll
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\refint\IntegralCalculator.dll
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.pdb
+D:\University\C#_4 sem\Lab1\353504_Antonava_Lab1\IntegralCalculator\obj\Debug\net8.0\ref\IntegralCalculator.dll

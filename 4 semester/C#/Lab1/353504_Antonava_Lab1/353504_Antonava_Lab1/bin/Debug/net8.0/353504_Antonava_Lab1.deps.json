@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "353504_Antonava_Lab1/1.0.0": {
+        "dependencies": {
+          "IntegralCalculator": "1.0.0"
+        },
+        "runtime": {
+          "353504_Antonava_Lab1.dll": {}
+        }
+      },
+      "IntegralCalculator/1.0.0": {
+        "runtime": {
+          "IntegralCalculator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "353504_Antonava_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegralCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

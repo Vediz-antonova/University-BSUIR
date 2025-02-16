@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "353504_Antonava_Lab1", "353504_Antonava_Lab1\353504_Antonava_Lab1.csproj", "{280D3CB9-D3E5-44C1-B032-D8B32870ABE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegralCalculator", "IntegralCalculator\IntegralCalculator.csproj", "{F2BC44EC-B46F-4E54-9D8F-C4FD65BCE866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280D3CB9-D3E5-44C1-B032-D8B32870ABE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280D3CB9-D3E5-44C1-B032-D8B32870ABE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280D3CB9-D3E5-44C1-B032-D8B32870ABE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280D3CB9-D3E5-44C1-B032-D8B32870ABE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BC44EC-B46F-4E54-9D8F-C4FD65BCE866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BC44EC-B46F-4E54-9D8F-C4FD65BCE866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BC44EC-B46F-4E54-9D8F-C4FD65BCE866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BC44EC-B46F-4E54-9D8F-C4FD65BCE866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513ADA77-7C8D-4372-A941-F9853BE39754}
+	EndGlobalSection
+EndGlobal

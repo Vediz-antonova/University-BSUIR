@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\C#_4 sem\\Lab1\\353504_Antonava_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BC44EC-B46F-4E54-9D8F-C4FD65BCE866}|IntegralCalculator\\IntegralCalculator.csproj|d:\\university\\c#_4 sem\\lab1\\353504_antonava_lab1\\integralcalculator\\integralcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BC44EC-B46F-4E54-9D8F-C4FD65BCE866}|IntegralCalculator\\IntegralCalculator.csproj|solutionrelative:integralcalculator\\integralcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280D3CB9-D3E5-44C1-B032-D8B32870ABE1}|353504_Antonava_Lab1\\353504_Antonava_Lab1.csproj|d:\\university\\c#_4 sem\\lab1\\353504_antonava_lab1\\353504_antonava_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280D3CB9-D3E5-44C1-B032-D8B32870ABE1}|353504_Antonava_Lab1\\353504_Antonava_Lab1.csproj|solutionrelative:353504_antonava_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegralCalc.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab1\\353504_Antonava_Lab1\\IntegralCalculator\\IntegralCalc.cs",
+              "RelativeDocumentMoniker": "IntegralCalculator\\IntegralCalc.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab1\\353504_Antonava_Lab1\\IntegralCalculator\\IntegralCalc.cs",
+              "RelativeToolTip": "IntegralCalculator\\IntegralCalc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:30:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab1\\353504_Antonava_Lab1\\353504_Antonava_Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "353504_Antonava_Lab1\\Program.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab1\\353504_Antonava_Lab1\\353504_Antonava_Lab1\\Program.cs",
+              "RelativeToolTip": "353504_Antonava_Lab1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:29:33.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

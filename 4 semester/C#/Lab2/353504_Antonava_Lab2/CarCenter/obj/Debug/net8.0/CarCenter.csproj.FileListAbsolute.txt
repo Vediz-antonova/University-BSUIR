@@ -1,0 +1,11 @@
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\bin\Debug\net8.0\CarCenter.deps.json
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\bin\Debug\net8.0\CarCenter.dll
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\bin\Debug\net8.0\CarCenter.pdb
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\CarCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\CarCenter.AssemblyInfoInputs.cache
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\CarCenter.AssemblyInfo.cs
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\CarCenter.csproj.CoreCompileInputs.cache
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\CarCenter.dll
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\refint\CarCenter.dll
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\CarCenter.pdb
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\CarCenter\obj\Debug\net8.0\ref\CarCenter.dll

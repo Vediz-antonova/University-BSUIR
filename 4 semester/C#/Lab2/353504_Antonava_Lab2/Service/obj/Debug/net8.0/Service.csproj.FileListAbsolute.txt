@@ -1,0 +1,11 @@
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\bin\Debug\net8.0\Service.deps.json
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\bin\Debug\net8.0\Service.dll
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\bin\Debug\net8.0\Service.pdb
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\Service.dll
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\refint\Service.dll
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\Service.pdb
+D:\University\C#_4 sem\Lab2\353504_Antonava_Lab2\Service\obj\Debug\net8.0\ref\Service.dll

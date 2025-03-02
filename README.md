@@ -18,3 +18,12 @@
 - [КПрог](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/Assembler) (Романюк М.В.)
 - [ИСП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/C%23) (Гламаздин И.И.)
 - [БЖЧ](https://github.com/Vediz-antonova/University-BSUIR/tree/main/3%20semester/БЖЧ) (Ильясова М.С.)
+
+### [Четвёртый семестр (2025)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester)
+- [Курсовая работа ООП]() (Тушинская Е.В.)
+- [ООП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/OOP) (Тушинская Е.В.)
+- [МЧА](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/МЧА) (Анисимов В.Я.)
+- [АВС](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/АВС) (Калиновская А.А.)
+- [ИСП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/C%23) (Гламаздин И.И.)
+- [ИГИ](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/ИГИ) (Жвакина А.В.)
+- [Метрология](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/Метрология) (Болтак С.В.)

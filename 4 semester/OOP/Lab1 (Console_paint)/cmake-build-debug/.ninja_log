@@ -1,6 +1,4 @@
 # ninja log v6
-2	555	7628819415364860	CMakeFiles/Lab1__Console_paint_.dir/main.cpp.obj	693442f9cc4c1c4c
-557	682	7628819420912949	Lab1__Console_paint_.exe	2b2aea382bd05817
 14	721	7628833078499635	CMakeFiles/Lab1__Console_paint_.dir/main.cpp.obj	693442f9cc4c1c4c
-17	676	7628834691466259	CMakeFiles/Lab1__Console_paint_.dir/Figure.cpp.obj	b5a68bc70691fccd
 676	816	7628834698070729	Lab1__Console_paint_.exe	af83c47cecb9f460
+17	676	7628834691466259	CMakeFiles/Lab1__Console_paint_.dir/Figure.cpp.obj	b5a68bc70691fccd

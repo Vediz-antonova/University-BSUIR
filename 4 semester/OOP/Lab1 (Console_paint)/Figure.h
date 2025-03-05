@@ -6,16 +6,18 @@
 
 class Figure {
 protected:
+    int id;
     int x, y;
     std::string color;
 
 public:
-    Figure(int x, int y, const std::string& color);
+    Figure(int id, int x, int y, const std::string& color);
     virtual ~Figure();
 
     virtual void draw() const = 0;
     virtual void move(int deltaX, int deltaY);
 
+    int getId() const;
     int getX() const;
     int getY() const;
 

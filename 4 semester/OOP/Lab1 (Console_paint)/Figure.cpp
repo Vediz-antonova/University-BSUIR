@@ -1,6 +1,6 @@
 #include "Figure.h"
 
-Figure::Figure(int x, int y, const std::string& color) : x(x), y(y), color(color) {}
+Figure::Figure(int id, int x, int y, const std::string& color) : id(id), x(x), y(y), color(color) {}
 Figure::~Figure() {}
 
 void Figure::move(int deltaX, int deltaY) {
@@ -8,6 +8,9 @@ void Figure::move(int deltaX, int deltaY) {
     y += deltaY;
 }
 
+int Figure::getId() const {
+    return id;
+}
 int Figure::getX() const {
     return x;
 }

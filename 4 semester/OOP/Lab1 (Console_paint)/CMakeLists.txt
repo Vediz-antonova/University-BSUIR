@@ -13,4 +13,6 @@ add_executable(Lab1__Console_paint_ main.cpp
         Triangle.cpp
         Triangle.h
         Rectangle.cpp
-        Rectangle.h)
+        Rectangle.h
+        Canvas.cpp
+        Canvas.h)

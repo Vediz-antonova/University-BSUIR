@@ -5,4 +5,12 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Lab1__Console_paint_ main.cpp
         Figure.cpp
-        Figure.h)
+        Figure.h
+        Square.cpp
+        Square.h
+        Circle.cpp
+        Circle.h
+        Triangle.cpp
+        Triangle.h
+        Rectangle.cpp
+        Rectangle.h)

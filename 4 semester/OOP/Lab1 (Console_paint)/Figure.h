@@ -15,7 +15,7 @@ public:
     virtual ~Figure();
 
     virtual void draw() const = 0;
-    virtual void move(int deltaX, int deltaY);
+    void move(int deltaX, int deltaY);
 
     int getId() const;
     int getX() const;
@@ -24,6 +24,5 @@ public:
     void setColor(const std::string& newColor);
     std::string getColor() const;
 };
-
 
 #endif //LAB1__CONSOLE_PAINT__FIGURE_H

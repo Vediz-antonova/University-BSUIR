@@ -15,4 +15,6 @@ add_executable(Lab1__Console_paint_ main.cpp
         Rectangle.cpp
         Rectangle.h
         Canvas.cpp
-        Canvas.h)
+        Canvas.h
+        CanvasSerializer.cpp
+        CanvasSerializer.h)

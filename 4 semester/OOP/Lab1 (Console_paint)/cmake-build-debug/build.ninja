@@ -91,6 +91,12 @@ build CMakeFiles/Lab1__Console_paint_.dir/Canvas.cpp.obj: CXX_COMPILER__Lab1__Co
   OBJECT_DIR = CMakeFiles\Lab1__Console_paint_.dir
   OBJECT_FILE_DIR = CMakeFiles\Lab1__Console_paint_.dir
 
+build CMakeFiles/Lab1__Console_paint_.dir/CanvasSerializer.cpp.obj: CXX_COMPILER__Lab1__Console_paint__unscanned_Debug D$:/GitHub/University-BSUIR/4$ semester/OOP/Lab1$ (Console_paint)/CanvasSerializer.cpp || cmake_object_order_depends_target_Lab1__Console_paint_
+  DEP_FILE = CMakeFiles\Lab1__Console_paint_.dir\CanvasSerializer.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab1__Console_paint_.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab1__Console_paint_.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Lab1__Console_paint_
@@ -99,7 +105,7 @@ build CMakeFiles/Lab1__Console_paint_.dir/Canvas.cpp.obj: CXX_COMPILER__Lab1__Co
 #############################################
 # Link the executable Lab1__Console_paint_.exe
 
-build Lab1__Console_paint_.exe: CXX_EXECUTABLE_LINKER__Lab1__Console_paint__Debug CMakeFiles/Lab1__Console_paint_.dir/main.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Figure.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Square.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Circle.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Triangle.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Rectangle.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Canvas.cpp.obj
+build Lab1__Console_paint_.exe: CXX_EXECUTABLE_LINKER__Lab1__Console_paint__Debug CMakeFiles/Lab1__Console_paint_.dir/main.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Figure.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Square.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Circle.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Triangle.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Rectangle.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/Canvas.cpp.obj CMakeFiles/Lab1__Console_paint_.dir/CanvasSerializer.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Lab1__Console_paint_.dir

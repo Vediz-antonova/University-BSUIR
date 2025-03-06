@@ -1,5 +1,9 @@
 #include "Canvas.h"
 
+Canvas::Canvas() {
+    figures.clear();
+}
+
 void Canvas::addFigure(std::unique_ptr<Figure> figure) {
     figures.push_back(std::move(figure));
 }
@@ -28,18 +32,14 @@ void Canvas::removeFigure(int id) {
                                return figure->getId() == id;
                            }),
             figures.end());
+
+    drawAll();
 }
 
-void Canvas::saveToFile(const std::string& filename) const {
-    std::ofstream outFile(filename, std::ios::binary);
-    for (const auto& figure : figures) {
-        // сериализация figure
-    }
+const std::vector<std::unique_ptr<Figure>>& Canvas::getFigures() const {
+    return figures;
 }
 
-void Canvas::loadFromFile(const std::string& filename) {
-    std::ifstream inFile(filename, std::ios::binary);
-    while (inFile) {
-        // десериализация figure и добавление на холст
-    }
+void Canvas::clear() {
+    figures.clear();
 }

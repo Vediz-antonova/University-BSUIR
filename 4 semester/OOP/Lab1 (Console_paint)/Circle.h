@@ -9,7 +9,11 @@ private:
     int radius;
 
 public:
+    Circle(int id, int x, int y, const std::string& color, int radius);
 
+    void draw() const override;
+    void setRadius(int newRadius);
+    int getRadius() const;
 };
 
 #endif //LAB1__CONSOLE_PAINT__CIRCLE_H

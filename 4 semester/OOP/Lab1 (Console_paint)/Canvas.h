@@ -13,13 +13,15 @@ private:
     std::vector<std::unique_ptr<Figure>> figures;
 
 public:
+    Canvas();
+
     void addFigure(std::unique_ptr<Figure> figure);
     void drawAll() const;
     void moveFigure(int id, int deltaX, int deltaY);
     void removeFigure(int id);
+    const std::vector<std::unique_ptr<Figure>>& getFigures() const;
 
-    void saveToFile(const std::string& filename) const;
-    void loadFromFile(const std::string& filename);
+    void clear();
 };
 
 #endif //LAB1__CONSOLE_PAINT__CANVAS_H

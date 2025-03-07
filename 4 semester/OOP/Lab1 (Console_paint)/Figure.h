@@ -14,7 +14,7 @@ public:
     Figure(int id, int x, int y, const std::string& color);
     virtual ~Figure();
 
-    virtual void draw() const = 0;
+    virtual void draw(char grid[][40], int height, int width) const = 0;
     void move(int deltaX, int deltaY);
 
     int getId() const;

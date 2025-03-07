@@ -1,16 +1,49 @@
 #include "Canvas.h"
 
 Canvas::Canvas() {
-    figures.clear();
+    clearGrid();
 }
 
 void Canvas::addFigure(std::unique_ptr<Figure> figure) {
     figures.push_back(std::move(figure));
+    repaint();
 }
 
-void Canvas::drawAll() const {
+void Canvas::repaint() {
+    clearGrid();
+
     for (const auto& figure : figures) {
-        figure->draw();
+        figure->draw(grid, height, width);
+    }
+
+    for (int i = 0; i < height; ++i) {
+        for (int j = 0; j < width; ++j) {
+            std::cout << grid[i][j];
+        }
+        std::cout << "\n";
+    }
+}
+
+void Canvas::drawCanvas() {
+    clearGrid();
+
+    for (const auto& figure : figures) {
+        figure->draw(grid, height, width);
+    }
+
+    for (int i = 0; i < height; ++i) {
+        for (int j = 0; j < width; ++j) {
+            std::cout << grid[i][j];
+        }
+        std::cout << "\n";
+    }
+}
+
+void Canvas::clearGrid() {
+    for (int i = 0; i < height; ++i) {
+        for (int j = 0; j < width; ++j) {
+            grid[i][j] = '.';
+        }
     }
 }
 
@@ -22,7 +55,7 @@ void Canvas::moveFigure(int id, int deltaX, int deltaY) {
         }
     }
 
-    drawAll();
+    repaint();
 }
 
 void Canvas::removeFigure(int id) {
@@ -33,7 +66,7 @@ void Canvas::removeFigure(int id) {
                            }),
             figures.end());
 
-    drawAll();
+    repaint();
 }
 
 const std::vector<std::unique_ptr<Figure>>& Canvas::getFigures() const {

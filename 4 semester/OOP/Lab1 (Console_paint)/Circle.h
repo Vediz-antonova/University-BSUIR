@@ -11,7 +11,7 @@ private:
 public:
     Circle(int id, int x, int y, const std::string& color, int radius);
 
-    void draw() const override;
+    void draw(char grid[][40], int height, int width) const override;
     void setRadius(int newRadius);
     int getRadius() const;
 };

@@ -10,7 +10,6 @@ void ConsoleUI::showMenu() const {
     std::cout << "3. Move Figure\n";
     std::cout << "4. Save Canvas\n";
     std::cout << "5. Load Canvas\n";
-    std::cout << "6. Draw Canvas\n";
     std::cout << "0. Exit\n";
     std::cout << "Choose an option: ";
 }
@@ -20,7 +19,7 @@ void ConsoleUI::addFigure() {
     int choice;
     std::cin >> choice;
 
-    if (choice == 1) {
+    if (choice == 1) { // Круг
         int id, x, y, radius;
         std::string color;
 
@@ -36,19 +35,9 @@ void ConsoleUI::addFigure() {
         std::cin >> color;
 
         canvas.addFigure(std::make_unique<Circle>(id, x, y, color, radius));
-        std::cout << "Circle added successfully!\n";
     } else {
         std::cout << "Invalid option!\n";
     }
-}
-
-void ConsoleUI::deleteFigure() {
-    int id;
-    std::cout << "Enter ID of the figure to delete: ";
-    std::cin >> id;
-
-    canvas.removeFigure(id);
-    std::cout << "Figure with ID " << id << " deleted (if it existed).\n";
 }
 
 void ConsoleUI::moveFigure() {
@@ -61,7 +50,14 @@ void ConsoleUI::moveFigure() {
     std::cin >> deltaY;
 
     canvas.moveFigure(id, deltaX, deltaY);
-    std::cout << "Figure with ID " << id << " moved.\n";
+}
+
+void ConsoleUI::deleteFigure() {
+    int id;
+    std::cout << "Enter ID of the figure to delete: ";
+    std::cin >> id;
+
+    canvas.removeFigure(id);
 }
 
 void ConsoleUI::saveCanvas() {
@@ -80,11 +76,6 @@ void ConsoleUI::loadCanvas() {
 
     CanvasSerializer::loadFromFile(canvas, filename);
     std::cout << "Canvas loaded from " << filename << ".\n";
-}
-
-void ConsoleUI::drawCanvas() const {
-    std::cout << "Drawing all figures on the canvas:\n";
-    canvas.drawAll();
 }
 
 void ConsoleUI::run() {
@@ -109,9 +100,6 @@ void ConsoleUI::run() {
                 break;
             case 5:
                 loadCanvas();
-                break;
-            case 6:
-                drawCanvas();
                 break;
             case 0:
                 std::cout << "Exiting program.\n";

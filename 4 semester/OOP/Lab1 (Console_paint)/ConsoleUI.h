@@ -15,7 +15,6 @@ private:
     void moveFigure();
     void saveCanvas();
     void loadCanvas();
-    void drawCanvas() const;
 
 public:
     void run();

@@ -38,3 +38,8 @@
 46	1903	7630257732644323	CMakeFiles/Lab1__Console_paint_.dir/main.cpp.obj	693442f9cc4c1c4c
 34	1455	7630257963116984	CMakeFiles/Lab1__Console_paint_.dir/ConsoleUI.cpp.obj	241ce189bb7cc836
 1456	2140	7630257977338803	Lab1__Console_paint_.exe	87e596bdbdbed80d
+38	949	7630282406093411	CMakeFiles/Lab1__Console_paint_.dir/Rectangle.cpp.obj	71285b1fee516e90
+31	1387	7630282406023370	CMakeFiles/Lab1__Console_paint_.dir/main.cpp.obj	693442f9cc4c1c4c
+43	1583	7630282406153420	CMakeFiles/Lab1__Console_paint_.dir/CanvasSerializer.cpp.obj	14b5a17c95e8bafd
+49	1602	7630282406193407	CMakeFiles/Lab1__Console_paint_.dir/ConsoleUI.cpp.obj	241ce189bb7cc836
+1602	1849	7630282421729941	Lab1__Console_paint_.exe	87e596bdbdbed80d

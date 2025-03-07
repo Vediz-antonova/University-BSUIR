@@ -4,6 +4,7 @@
 #pragma once
 #include "Canvas.h"
 #include "Circle.h"
+#include "Rectangle.h"
 #include <string>
 
 class CanvasSerializer {

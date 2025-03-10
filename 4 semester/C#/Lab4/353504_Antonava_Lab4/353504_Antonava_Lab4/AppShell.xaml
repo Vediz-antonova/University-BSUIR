@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="_353504_Antonava_Lab4.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:_353504_Antonava_Lab4"
+    Shell.FlyoutBehavior="Flyout"
+    Title="_353504_Antonava_Lab4">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Calc"
+        ContentTemplate="{DataTemplate local:Calculator}"
+        Route="Calculator" />
+    <ShellContent
+        Title="Integral"
+        ContentTemplate="{DataTemplate local:IntegralCalculation}"
+        Route="IntegralCalculation" />
+
+
+</Shell>

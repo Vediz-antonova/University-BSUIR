@@ -9,6 +9,13 @@ private:
     int length;
 
 public:
+    Square(int id, int x, int y, const std::string& color, int length);
+
+    void draw(char grid[][40], int heightGrid, int widthGrid) const override;
+
+    void setLength(int newLength);
+
+    int getLength() const;
 
 };
 

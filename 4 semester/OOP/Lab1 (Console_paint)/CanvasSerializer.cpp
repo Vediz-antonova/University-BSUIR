@@ -19,6 +19,8 @@ void CanvasSerializer::saveToFile(const Canvas& canvas, const std::string& filen
         } else if (auto rectangle = dynamic_cast<Rectangle*>(figure.get())) {
             outFile << "RECTANGLE " << rectangle->getWidth() << " "
                     << rectangle->getHeight() << "\n";
+        } else if (auto square = dynamic_cast<Square*>(figure.get())) {
+            outFile << "SQUARE " << square->getLength() << "\n";
         }
     }
 
@@ -41,12 +43,15 @@ void CanvasSerializer::loadFromFile(Canvas& canvas, const std::string& filename)
         if (type == "CIRCLE") {
             int radius;
             inFile >> radius;
-            std::unique_ptr<Circle> circle = std::unique_ptr<Circle>(new Circle(id, x, y, color, radius));
-            canvas.addFigure(std::move(circle));
+            canvas.addFigure(std::make_unique<Circle>(id, x, y, color, radius));
         } else if (type == "RECTANGLE") {
             int width, height;
             inFile >> width >> height;
             canvas.addFigure(std::make_unique<Rectangle>(id, x, y, color, width, height));
+        } else if (type == "SQUARE") {
+            int length;
+            inFile >> length;
+            canvas.addFigure(std::make_unique<Square>(id, x, y, color, length));
         }
     }
 

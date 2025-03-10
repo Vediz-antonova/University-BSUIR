@@ -43,3 +43,12 @@
 43	1583	7630282406153420	CMakeFiles/Lab1__Console_paint_.dir/CanvasSerializer.cpp.obj	14b5a17c95e8bafd
 49	1602	7630282406193407	CMakeFiles/Lab1__Console_paint_.dir/ConsoleUI.cpp.obj	241ce189bb7cc836
 1602	1849	7630282421729941	Lab1__Console_paint_.exe	87e596bdbdbed80d
+282	1700	7630566321970059	CMakeFiles/Lab1__Console_paint_.dir/Square.cpp.obj	b679420e2ccb8f0b
+15	2060	7630566319301356	CMakeFiles/Lab1__Console_paint_.dir/main.cpp.obj	693442f9cc4c1c4c
+299	2292	7630566322125604	CMakeFiles/Lab1__Console_paint_.dir/ConsoleUI.cpp.obj	241ce189bb7cc836
+290	2357	7630566322050273	CMakeFiles/Lab1__Console_paint_.dir/CanvasSerializer.cpp.obj	14b5a17c95e8bafd
+2357	2957	7630566342707917	Lab1__Console_paint_.exe	87e596bdbdbed80d
+53	2266	7630566895892802	CMakeFiles/Lab1__Console_paint_.dir/ConsoleUI.cpp.obj	241ce189bb7cc836
+2267	2542	7630566918034218	Lab1__Console_paint_.exe	87e596bdbdbed80d
+47	1408	7630570130855769	CMakeFiles/Lab1__Console_paint_.dir/Square.cpp.obj	b679420e2ccb8f0b
+1409	1724	7630570144474626	Lab1__Console_paint_.exe	87e596bdbdbed80d

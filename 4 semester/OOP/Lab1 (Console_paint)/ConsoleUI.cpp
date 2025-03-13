@@ -15,7 +15,7 @@ void ConsoleUI::showMenu() const {
 }
 
 void ConsoleUI::addFigure() {
-    std::cout << "Choose figure to add:\n1. Circle\n2. Rectangle\n3. Square\n";
+    std::cout << "Choose figure to add:\n1. Circle\n2. Rectangle\n3. Square\n4. Triangle";
     int choice;
     std::cin >> choice;
 
@@ -69,6 +69,26 @@ void ConsoleUI::addFigure() {
         std::cin >> color;
 
         canvas.addFigure(std::make_unique<Circle>(id, x, y, color, length));
+    } else if (choice == 4) { // Треугольник
+        int id, x, y, sideA, sideB, sideC;
+        std::string color;
+
+        std::cout << "Enter ID: ";
+        std::cin >> id;
+        std::cout << "Enter X (Top-Left): ";
+        std::cin >> x;
+        std::cout << "Enter Y (Top-Left): ";
+        std::cin >> y;
+        std::cout << "Enter sideA: ";
+        std::cin >> sideA;
+        std::cout << "Enter sudeB: ";
+        std::cin >> sideB;
+        std::cout << "Enter sudeC: ";
+        std::cin >> sideC;
+        std::cout << "Enter Color: ";
+        std::cin >> color;
+
+        canvas.addFigure(std::make_unique<Triangle>(id, x, y, color, sideA, sideB, sideC));
     } else {
         std::cout << "Invalid option!\n";
     }

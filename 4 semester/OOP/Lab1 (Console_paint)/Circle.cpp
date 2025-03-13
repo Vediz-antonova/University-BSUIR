@@ -7,15 +7,16 @@ void Circle::draw(char grid[][40], int height, int width) const {
     for (int dy = -radius; dy <= radius; ++dy) {
         for (int dx = -radius; dx <= radius; ++dx) {
             if (dx * dx + dy * dy <= radius * radius) {
-                int newX = x + dx;
-                int newY = y + dy;
+                int newX = getX() + dx;
+                int newY = getY() + dy;
                 if (newX >= 0 && newX < width && newY >= 0 && newY < height) {
-                    grid[newY][newX] = 'O';
+                    grid[newY][newX] = '*';
                 }
             }
         }
     }
 }
+
 
 void Circle::setRadius(int newRadius) {
     radius = newRadius;

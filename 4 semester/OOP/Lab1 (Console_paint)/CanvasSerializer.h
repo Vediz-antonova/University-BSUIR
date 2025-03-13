@@ -6,6 +6,7 @@
 #include "Circle.h"
 #include "Rectangle.h"
 #include "Square.h"
+#include "Triangle.h"
 #include <string>
 
 class CanvasSerializer {

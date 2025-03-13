@@ -37,6 +37,7 @@
             <VerticalStackLayout>
                 <Entry x:Name="DisplayEntry" 
                        HorizontalTextAlignment="End" 
+                       IsReadOnly="True"
                        TextColor="Black"
                        FontSize="75"/>
                 <Label HorizontalTextAlignment="End"

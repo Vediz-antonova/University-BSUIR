@@ -5,6 +5,7 @@ namespace _353504_Antonava_Lab4;
 public partial class IntegralCalculation : ContentPage
 {
     private CancellationTokenSource _cancellationTokenSource;
+    private bool isRunning = false;
 
     public IntegralCalculation()
     {
@@ -13,17 +14,24 @@ public partial class IntegralCalculation : ContentPage
 
     private async void OnStartClicked(object sender, EventArgs e)
     {
+        if (isRunning)
+        {
+            return;
+        }
+
+        isRunning = true;
         _cancellationTokenSource = new CancellationTokenSource();
         StatusLabel.Text = "Вычисление";
 
         try
         {
-            double result = await CalculateIntegralAsync(0, 1, 0.00000001, _cancellationTokenSource.Token);
+            double result = await Task.Run(()=>CalculateIntegralAsync(0, 1, 0.00000001, _cancellationTokenSource.Token));
             StatusLabel.Text = $"Результат: {result}";
         }
         catch (OperationCanceledException)
         {
             StatusLabel.Text = "Задание отменено";
+            isRunning = false;
         }
         catch (Exception ex)
         {
@@ -33,6 +41,7 @@ public partial class IntegralCalculation : ContentPage
         {
             _cancellationTokenSource.Dispose();
             _cancellationTokenSource = null;
+            isRunning = false;
         }
     }
 
@@ -55,15 +64,19 @@ public partial class IntegralCalculation : ContentPage
 
             for (int i = 0; i < 1000; i++)
             {
-                _ = 1.0 * 2.0; 
+                _ = 1.0 * 2.0;
             }
 
             progress += 1;
             if (progress % 1000 == 0)
             {
                 double percentage = progress / totalSteps;
-                Progress.Progress = percentage;
-                ProgressPercentageLabel.Text = $"{Math.Round(percentage * 100, 2)}%";
+
+                MainThread.BeginInvokeOnMainThread(() =>
+                {
+                    Progress.Progress = percentage;
+                    ProgressPercentageLabel.Text = $"{Math.Round(percentage * 100, 2)}%";
+                });
 
                 await Task.Delay(10);
             }

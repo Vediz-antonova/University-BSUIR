@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|solutionrelative:353504_antonava_lab4\\integralcalculation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|d:\\university\\c#_4 sem\\lab4\\353504_antonava_lab4\\353504_antonava_lab4\\integralcalculation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|solutionrelative:353504_antonava_lab4\\integralcalculation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|d:\\university\\c#_4 sem\\lab4\\353504_antonava_lab4\\353504_antonava_lab4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|solutionrelative:353504_antonava_lab4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|d:\\university\\c#_4 sem\\lab4\\353504_antonava_lab4\\353504_antonava_lab4\\calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|solutionrelative:353504_antonava_lab4\\calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|d:\\university\\c#_4 sem\\lab4\\353504_antonava_lab4\\353504_antonava_lab4\\calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|solutionrelative:353504_antonava_lab4\\calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|d:\\university\\c#_4 sem\\lab4\\353504_antonava_lab4\\353504_antonava_lab4\\integralcalculation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|solutionrelative:353504_antonava_lab4\\integralcalculation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|d:\\university\\c#_4 sem\\lab4\\353504_antonava_lab4\\353504_antonava_lab4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1AC4BF-6A35-4F17-881C-2FE487224223}|353504_Antonava_Lab4\\353504_Antonava_Lab4.csproj|solutionrelative:353504_antonava_lab4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\AppShell.xaml",
-              "RelativeDocumentMoniker": "353504_Antonava_Lab4\\AppShell.xaml",
-              "ToolTip": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\AppShell.xaml",
-              "RelativeToolTip": "353504_Antonava_Lab4\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T02:30:28.944Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -53,14 +40,14 @@
               "RelativeDocumentMoniker": "353504_Antonava_Lab4\\IntegralCalculation.xaml.cs",
               "ToolTip": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\IntegralCalculation.xaml.cs",
               "RelativeToolTip": "353504_Antonava_Lab4\\IntegralCalculation.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAowD8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T02:29:24.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IntegralCalculation.xaml",
               "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\IntegralCalculation.xaml",
               "RelativeDocumentMoniker": "353504_Antonava_Lab4\\IntegralCalculation.xaml",
@@ -68,34 +55,43 @@
               "RelativeToolTip": "353504_Antonava_Lab4\\IntegralCalculation.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T02:26:56.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T02:26:56.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Calculator.xaml",
               "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\Calculator.xaml",
               "RelativeDocumentMoniker": "353504_Antonava_Lab4\\Calculator.xaml",
               "ToolTip": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\Calculator.xaml",
               "RelativeToolTip": "353504_Antonava_Lab4\\Calculator.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T02:14:06.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T02:14:06.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Calculator.xaml.cs",
               "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\Calculator.xaml.cs",
               "RelativeDocumentMoniker": "353504_Antonava_Lab4\\Calculator.xaml.cs",
               "ToolTip": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\Calculator.xaml.cs",
               "RelativeToolTip": "353504_Antonava_Lab4\\Calculator.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T02:14:21.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T02:14:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\AppShell.xaml",
+              "RelativeDocumentMoniker": "353504_Antonava_Lab4\\AppShell.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab4\\353504_Antonava_Lab4\\353504_Antonava_Lab4\\AppShell.xaml",
+              "RelativeToolTip": "353504_Antonava_Lab4\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-10T02:30:28.944Z"
             }
           ]
         }

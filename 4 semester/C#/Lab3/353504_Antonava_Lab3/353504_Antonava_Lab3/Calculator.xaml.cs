@@ -6,6 +6,7 @@ namespace _353504_Antonava_Lab3
     public partial class Calculator : ContentPage
     {
         private string input = string.Empty;
+        private string operatorUsed = string.Empty;
         private double firstNumber;
 
         public Calculator()
@@ -26,6 +27,7 @@ namespace _353504_Antonava_Lab3
         {
             if (sender is Button button)
             {
+                operatorUsed = button.Text;
                 if (double.TryParse(input, out firstNumber))
                 {
                     input = string.Empty;
@@ -38,8 +40,15 @@ namespace _353504_Antonava_Lab3
         {
             if (double.TryParse(input, NumberStyles.Any, CultureInfo.InvariantCulture, out double secondNumber))
             {
-                double result = firstNumber % secondNumber;
-
+                double result = operatorUsed switch
+                {
+                    "+" => firstNumber + secondNumber,
+                    "-" => firstNumber - secondNumber,
+                    "*" => firstNumber * secondNumber,
+                    "/" => firstNumber / secondNumber,
+                    "%" => firstNumber % secondNumber,
+                    _ => 0
+                };
                 input = result.ToString(CultureInfo.InvariantCulture);
                 UpdateDisplay(input);
             }
@@ -48,6 +57,7 @@ namespace _353504_Antonava_Lab3
         private void OnClearButtonClicked(object sender, EventArgs e)
         {
             input = string.Empty;
+            operatorUsed = string.Empty;
             firstNumber = 0;
             UpdateDisplay("0");
         }

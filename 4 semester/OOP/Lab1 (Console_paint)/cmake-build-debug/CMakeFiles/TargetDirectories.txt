@@ -1,3 +1,0 @@
-D:/GitHub/University-BSUIR/4 semester/OOP/Lab1 (Console_paint)/cmake-build-debug/CMakeFiles/Lab1__Console_paint_.dir
-D:/GitHub/University-BSUIR/4 semester/OOP/Lab1 (Console_paint)/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/GitHub/University-BSUIR/4 semester/OOP/Lab1 (Console_paint)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

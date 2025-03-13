@@ -1,0 +1,5 @@
+if(EXISTS "C:/OOP_labs/ConsolePaint/cmake-build-debug/MyProject_tests[1]_tests.cmake")
+  include("C:/OOP_labs/ConsolePaint/cmake-build-debug/MyProject_tests[1]_tests.cmake")
+else()
+  add_test(MyProject_tests_NOT_BUILT MyProject_tests_NOT_BUILT)
+endif()

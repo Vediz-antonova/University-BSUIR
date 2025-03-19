@@ -50,6 +50,10 @@ void MainWindow::ParseAndDisplay()
     }
     for (const auto &i : operands)
     {
+        if (i.second == 0) {
+            continue;
+        }
+
         QTableWidgetItem *item1 = new QTableWidgetItem(i.first);
         QTableWidgetItem *item2 = new QTableWidgetItem(QString::number(i.second));
         QTableWidgetItem *item0 = new QTableWidgetItem(QString::number(numOfOperandsRows + 1));
@@ -114,7 +118,7 @@ void MainWindow::on_chooseFileBtn_clicked()
     QString filePath = QFileDialog::getOpenFileName(nullptr, "Выберите .go файл", QDir::homePath());
 
     if (filePath.isEmpty())
-        return; // Если пользователь нажал Отмена
+        return;
 
     QFile file(filePath);
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)) {

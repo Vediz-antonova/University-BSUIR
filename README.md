@@ -1,5 +1,4 @@
 # University-BSUIR
- 
 ### [Первый семестр (2023)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/1%20semester)
 - [ОАиП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/1%20semester/OAiP) (Владымцев В.Д.)
 - [ОКГ](https://github.com/Vediz-antonova/University-BSUIR/tree/main/1%20semester/ОКГ) (Омелькович Е.В.)

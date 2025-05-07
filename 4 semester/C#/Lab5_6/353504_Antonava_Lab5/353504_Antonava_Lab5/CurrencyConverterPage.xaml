@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_353504_Antonava_Lab5.CurrencyConverterPage"
+             Title="CurrencyConverterPage">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+            <Label Text="Конвертер валют" FontSize="24" HorizontalOptions="Center" />
+            <Label Text="Выберите дату:" />
+            <DatePicker x:Name="datePicker"/>
+
+            <Button Text="Загрузить курсы" Clicked="OnLoadRatesClicked" />
+
+            <Label Text="Официальные курсы:" FontAttributes="Bold" />
+            <CollectionView x:Name="ratesCollectionView" HeightRequest="150">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Horizontal" Padding="5">
+                            <Label Text="{Binding Cur_Abbreviation}" WidthRequest="80"/>
+                            <Label Text="{Binding Cur_OfficialRate}" WidthRequest="120"/>
+                            <Label Text=" (за " />
+                            <Label Text="{Binding Cur_Scale}" />
+                            <Label Text=" единиц)" />
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Label Text="Выберите валюту для конвертации:" />
+            <Picker x:Name="currencyPicker" />
+
+            <StackLayout Orientation="Horizontal" Spacing="20">
+                <StackLayout>
+                    <Label Text="Сумма (БР)" />
+                    <Entry x:Name="bynEntry" Keyboard="Numeric" Placeholder="Введите сумму в бел. рублях" />
+                </StackLayout>
+                <StackLayout>
+                    <Label Text="Результат" />
+                    <Entry x:Name="resultEntry" Keyboard="Numeric" IsEnabled="False" />
+                </StackLayout>
+            </StackLayout>
+
+            <Button Text="Пересчитать в иностранную валюту" Clicked="OnConvertToForeignClicked" />
+            <Button Text="Пересчитать в белорусские рубли" Clicked="OnConvertToBynClicked" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

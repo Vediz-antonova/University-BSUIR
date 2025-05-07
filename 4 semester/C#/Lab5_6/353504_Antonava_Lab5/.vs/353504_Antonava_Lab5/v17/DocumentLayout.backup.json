@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|d:\\university\\c#_4 sem\\lab5\\353504_antonava_lab5\\353504_antonava_lab5\\currencyconverterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|solutionrelative:353504_antonava_lab5\\currencyconverterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|d:\\university\\c#_4 sem\\lab5\\353504_antonava_lab5\\353504_antonava_lab5\\currencyconverterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|solutionrelative:353504_antonava_lab5\\currencyconverterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|d:\\university\\c#_4 sem\\lab5\\353504_antonava_lab5\\353504_antonava_lab5\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|solutionrelative:353504_antonava_lab5\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|d:\\university\\c#_4 sem\\lab5\\353504_antonava_lab5\\353504_antonava_lab5\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67CB05A6-431B-4D52-AEE5-75021751C371}|353504_Antonava_Lab5\\353504_Antonava_Lab5.csproj|solutionrelative:353504_antonava_lab5\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyConverterPage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\CurrencyConverterPage.xaml",
+              "RelativeDocumentMoniker": "353504_Antonava_Lab5\\CurrencyConverterPage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\CurrencyConverterPage.xaml*",
+              "RelativeToolTip": "353504_Antonava_Lab5\\CurrencyConverterPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T19:58:27.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyConverterPage.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\CurrencyConverterPage.xaml.cs",
+              "RelativeDocumentMoniker": "353504_Antonava_Lab5\\CurrencyConverterPage.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\CurrencyConverterPage.xaml.cs",
+              "RelativeToolTip": "353504_Antonava_Lab5\\CurrencyConverterPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:21:16.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "353504_Antonava_Lab5\\MauiProgram.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\MauiProgram.cs",
+              "RelativeToolTip": "353504_Antonava_Lab5\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:10:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\AppShell.xaml",
+              "RelativeDocumentMoniker": "353504_Antonava_Lab5\\AppShell.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab5\\353504_Antonava_Lab5\\353504_Antonava_Lab5\\AppShell.xaml",
+              "RelativeToolTip": "353504_Antonava_Lab5\\AppShell.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T15:17:53.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

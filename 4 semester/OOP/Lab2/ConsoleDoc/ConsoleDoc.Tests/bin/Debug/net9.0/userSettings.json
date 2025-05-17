@@ -1,0 +1,17 @@
+{
+  "testuser": {
+    "Username": "testuser",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Black"
+  },
+  "user1": {
+    "Username": "user1",
+    "ForegroundColor": "White",
+    "BackgroundColor": "Black"
+  },
+  "persistUser": {
+    "Username": "persistUser",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Blue"
+  }
+}

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1675px" preserveAspectRatio="none" style="width:3095px;height:1675px;background:#FFFFFF;" version="1.1" viewBox="0 0 3095 1675" width="3095px" zoomAndPan="magnify"><defs/><g><!--MD5=[59b530d44ae785dc18db921986a9c15c]
+class Document--><g id="elem_Document"><rect codeLine="2" fill="#F1F1F1" height="259.8594" id="Document" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="325" x="1391" y="1061"/><ellipse cx="1512.75" cy="1077" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1512.8594,1072.3438 L1511.7031,1077.4219 L1514.0313,1077.4219 L1512.8594,1072.3438 Z M1511.375,1070.1094 L1514.3594,1070.1094 L1517.7188,1082.5 L1515.2656,1082.5 L1514.5,1079.4375 L1511.2188,1079.4375 L1510.4688,1082.5 L1508.0313,1082.5 L1511.375,1070.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="73" x="1533.25" y="1081.8467">Document</text><line style="stroke:#181818;stroke-width:0.5;" x1="1392" x2="1715" y1="1093" y2="1093"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1399" y="1103.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="299" x="1411" y="1109.9951">Permissions : Dictionary&lt;string, UserRole&gt;</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1399" y="1119.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="1411" y="1126.292">name : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1399" y="1136.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="1411" y="1142.5889">type : DocumentType</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1399" y="1152.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="1411" y="1158.8857">content : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1399" y="1168.8359"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="1411" y="1175.1826">createdAt : DateTime</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1399" y="1185.1328"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="1411" y="1191.4795">updatedAt : DateTime</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1399" y="1201.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="1411" y="1207.7764">history : DocumentHistory</text><line style="stroke:#181818;stroke-width:0.5;" x1="1392" x2="1715" y1="1215.0781" y2="1215.0781"/><ellipse cx="1402" cy="1228.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="1411" y="1232.0732">AssignRole() : void</text><ellipse cx="1402" cy="1245.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="1411" y="1248.3701">Open() : void</text><ellipse cx="1402" cy="1261.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="1411" y="1264.667">Edit() : void</text><ellipse cx="1402" cy="1277.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="1411" y="1280.9639">Save() : void</text><ellipse cx="1402" cy="1293.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="1411" y="1297.2607">Format() : void</text><ellipse cx="1402" cy="1310.2109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="1411" y="1313.5576">SaveVersion() : void</text></g><!--MD5=[c4bddd80ab854f905aed5284558f3375]
+class PlainTextDocument--><g id="elem_PlainTextDocument"><rect codeLine="18" fill="#F1F1F1" height="80.5938" id="PlainTextDocument" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167" x="1621" y="1406"/><ellipse cx="1636" cy="1422" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1638.9688,1427.6406 Q1638.3906,1427.9375 1637.75,1428.0781 Q1637.1094,1428.2344 1636.4063,1428.2344 Q1633.9063,1428.2344 1632.5781,1426.5938 Q1631.2656,1424.9375 1631.2656,1421.8125 Q1631.2656,1418.6875 1632.5781,1417.0313 Q1633.9063,1415.375 1636.4063,1415.375 Q1637.1094,1415.375 1637.75,1415.5313 Q1638.4063,1415.6875 1638.9688,1415.9844 L1638.9688,1418.7031 Q1638.3438,1418.125 1637.75,1417.8594 Q1637.1563,1417.5781 1636.5313,1417.5781 Q1635.1875,1417.5781 1634.5,1418.6563 Q1633.8125,1419.7188 1633.8125,1421.8125 Q1633.8125,1423.9063 1634.5,1424.9844 Q1635.1875,1426.0469 1636.5313,1426.0469 Q1637.1563,1426.0469 1637.75,1425.7813 Q1638.3438,1425.5 1638.9688,1424.9219 L1638.9688,1427.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1650" y="1426.8467">PlainTextDocument</text><line style="stroke:#181818;stroke-width:0.5;" x1="1622" x2="1787" y1="1438" y2="1438"/><line style="stroke:#181818;stroke-width:0.5;" x1="1622" x2="1787" y1="1446" y2="1446"/><ellipse cx="1632" cy="1459.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="1641" y="1462.9951">Open() : void</text><ellipse cx="1632" cy="1475.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="1641" y="1479.292">Save() : void</text></g><!--MD5=[1be23d5fd468ef224ac82d39a854eb37]
+class MarkdownDocument--><g id="elem_MarkdownDocument"><rect codeLine="22" fill="#F1F1F1" height="80.5938" id="MarkdownDocument" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="176" x="1822.5" y="1406"/><ellipse cx="1837.5" cy="1422" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1840.4688,1427.6406 Q1839.8906,1427.9375 1839.25,1428.0781 Q1838.6094,1428.2344 1837.9063,1428.2344 Q1835.4063,1428.2344 1834.0781,1426.5938 Q1832.7656,1424.9375 1832.7656,1421.8125 Q1832.7656,1418.6875 1834.0781,1417.0313 Q1835.4063,1415.375 1837.9063,1415.375 Q1838.6094,1415.375 1839.25,1415.5313 Q1839.9063,1415.6875 1840.4688,1415.9844 L1840.4688,1418.7031 Q1839.8438,1418.125 1839.25,1417.8594 Q1838.6563,1417.5781 1838.0313,1417.5781 Q1836.6875,1417.5781 1836,1418.6563 Q1835.3125,1419.7188 1835.3125,1421.8125 Q1835.3125,1423.9063 1836,1424.9844 Q1836.6875,1426.0469 1838.0313,1426.0469 Q1838.6563,1426.0469 1839.25,1425.7813 Q1839.8438,1425.5 1840.4688,1424.9219 L1840.4688,1427.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="1851.5" y="1426.8467">MarkdownDocument</text><line style="stroke:#181818;stroke-width:0.5;" x1="1823.5" x2="1997.5" y1="1438" y2="1438"/><line style="stroke:#181818;stroke-width:0.5;" x1="1823.5" x2="1997.5" y1="1446" y2="1446"/><ellipse cx="1833.5" cy="1459.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="1842.5" y="1462.9951">Open() : void</text><ellipse cx="1833.5" cy="1475.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="1842.5" y="1479.292">Save() : void</text></g><!--MD5=[4d46babb41b6bbd3c6f0b38e9f0611c0]
+class RichTextDocument--><g id="elem_RichTextDocument"><rect codeLine="26" fill="#F1F1F1" height="80.5938" id="RichTextDocument" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="165" x="2034" y="1406"/><ellipse cx="2049" cy="1422" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2051.9688,1427.6406 Q2051.3906,1427.9375 2050.75,1428.0781 Q2050.1094,1428.2344 2049.4063,1428.2344 Q2046.9063,1428.2344 2045.5781,1426.5938 Q2044.2656,1424.9375 2044.2656,1421.8125 Q2044.2656,1418.6875 2045.5781,1417.0313 Q2046.9063,1415.375 2049.4063,1415.375 Q2050.1094,1415.375 2050.75,1415.5313 Q2051.4063,1415.6875 2051.9688,1415.9844 L2051.9688,1418.7031 Q2051.3438,1418.125 2050.75,1417.8594 Q2050.1563,1417.5781 2049.5313,1417.5781 Q2048.1875,1417.5781 2047.5,1418.6563 Q2046.8125,1419.7188 2046.8125,1421.8125 Q2046.8125,1423.9063 2047.5,1424.9844 Q2048.1875,1426.0469 2049.5313,1426.0469 Q2050.1563,1426.0469 2050.75,1425.7813 Q2051.3438,1425.5 2051.9688,1424.9219 L2051.9688,1427.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="2063" y="1426.8467">RichTextDocument</text><line style="stroke:#181818;stroke-width:0.5;" x1="2035" x2="2198" y1="1438" y2="1438"/><line style="stroke:#181818;stroke-width:0.5;" x1="2035" x2="2198" y1="1446" y2="1446"/><ellipse cx="2045" cy="1459.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="2054" y="1462.9951">Open() : void</text><ellipse cx="2045" cy="1475.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="2054" y="1479.292">Save() : void</text></g><!--MD5=[a458bad0df107e46b5e82915eb0aa97e]
+class DocumentType--><g id="elem_DocumentType"><rect codeLine="195" fill="#F1F1F1" height="129.4844" id="DocumentType" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="139" x="726" y="1382"/><ellipse cx="741" cy="1398" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M745.1094,1404 L737.3906,1404 L737.3906,1391.6094 L745.1094,1391.6094 L745.1094,1393.7656 L739.8438,1393.7656 L739.8438,1396.4375 L744.6094,1396.4375 L744.6094,1398.5938 L739.8438,1398.5938 L739.8438,1401.8438 L745.1094,1401.8438 L745.1094,1404 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="755" y="1402.8467">DocumentType</text><line style="stroke:#181818;stroke-width:0.5;" x1="727" x2="864" y1="1414" y2="1414"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="732" y="1430.9951">PlainText</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="732" y="1447.292">Markdown</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="732" y="1463.5889">RichText</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="732" y="1479.8857">Json</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="732" y="1496.1826">Xml</text><line style="stroke:#181818;stroke-width:0.5;" x1="727" x2="864" y1="1503.4844" y2="1503.4844"/></g><!--MD5=[45d42ff7800d812d5f83c7d3273eb427]
+class UserRole--><g id="elem_UserRole"><rect codeLine="202" fill="#F1F1F1" height="96.8906" id="UserRole" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="103" x="900" y="1398"/><ellipse cx="918.6" cy="1414" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M922.7094,1420 L914.9906,1420 L914.9906,1407.6094 L922.7094,1407.6094 L922.7094,1409.7656 L917.4438,1409.7656 L917.4438,1412.4375 L922.2094,1412.4375 L922.2094,1414.5938 L917.4438,1414.5938 L917.4438,1417.8438 L922.7094,1417.8438 L922.7094,1420 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="933.4" y="1418.8467">UserRole</text><line style="stroke:#181818;stroke-width:0.5;" x1="901" x2="1002" y1="1430" y2="1430"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="906" y="1446.9951">Viewer</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="906" y="1463.292">Editor</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="906" y="1479.5889">Administrator</text><line style="stroke:#181818;stroke-width:0.5;" x1="901" x2="1002" y1="1486.8906" y2="1486.8906"/></g><!--MD5=[8ae25b020a608cd05254bc64ebeb9ac0]
+class DocumentHistory--><g id="elem_DocumentHistory"><rect codeLine="270" fill="#F1F1F1" height="96.8906" id="DocumentHistory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="361" x="2234" y="1398"/><ellipse cx="2350.25" cy="1414" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2353.2188,1419.6406 Q2352.6406,1419.9375 2352,1420.0781 Q2351.3594,1420.2344 2350.6563,1420.2344 Q2348.1563,1420.2344 2346.8281,1418.5938 Q2345.5156,1416.9375 2345.5156,1413.8125 Q2345.5156,1410.6875 2346.8281,1409.0313 Q2348.1563,1407.375 2350.6563,1407.375 Q2351.3594,1407.375 2352,1407.5313 Q2352.6563,1407.6875 2353.2188,1407.9844 L2353.2188,1410.7031 Q2352.5938,1410.125 2352,1409.8594 Q2351.4063,1409.5781 2350.7813,1409.5781 Q2349.4375,1409.5781 2348.75,1410.6563 Q2348.0625,1411.7188 2348.0625,1413.8125 Q2348.0625,1415.9063 2348.75,1416.9844 Q2349.4375,1418.0469 2350.7813,1418.0469 Q2351.4063,1418.0469 2352,1417.7813 Q2352.5938,1417.5 2353.2188,1416.9219 L2353.2188,1419.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="2370.75" y="1418.8467">DocumentHistory</text><line style="stroke:#181818;stroke-width:0.5;" x1="2235" x2="2594" y1="1430" y2="1430"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2242" y="1440.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="243" x="2254" y="1446.9951">versions : List&lt;DocumentVersion&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="2235" x2="2594" y1="1454.2969" y2="1454.2969"/><ellipse cx="2245" cy="1467.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="2254" y="1471.292">SaveVersion() : void</text><ellipse cx="2245" cy="1484.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="335" x="2254" y="1487.5889">GetVersion() : IEnumerable&lt;DocumentVersion&gt;</text></g><!--MD5=[aa914c8f661eadff4967a97a6fd20983]
+class DocumentDecorator--><g id="elem_DocumentDecorator"><rect codeLine="40" fill="#F1F1F1" height="129.4844" id="DocumentDecorator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="220" x="1147.5" y="1382"/><ellipse cx="1183.2" cy="1398" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1183.3094,1393.3438 L1182.1531,1398.4219 L1184.4813,1398.4219 L1183.3094,1393.3438 Z M1181.825,1391.1094 L1184.8094,1391.1094 L1188.1688,1403.5 L1185.7156,1403.5 L1184.95,1400.4375 L1181.6688,1400.4375 L1180.9188,1403.5 L1178.4813,1403.5 L1181.825,1391.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="142" x="1201.8" y="1402.8467">DocumentDecorator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1148.5" x2="1366.5" y1="1414" y2="1414"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1155.5" y="1424.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="1167.5" y="1430.9951">innerDocument : Document</text><line style="stroke:#181818;stroke-width:0.5;" x1="1148.5" x2="1366.5" y1="1438.2969" y2="1438.2969"/><ellipse cx="1158.5" cy="1451.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="1167.5" y="1455.292">Open() : string</text><ellipse cx="1158.5" cy="1468.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="1167.5" y="1471.5889">Save() : string</text><ellipse cx="1158.5" cy="1484.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="1167.5" y="1487.8857">Edit() : string</text><ellipse cx="1158.5" cy="1500.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="1167.5" y="1504.1826">Format() : string</text></g><!--MD5=[92833693702a7ee46d10ce83e8097c0f]
+class BoldDecorator--><g id="elem_BoldDecorator"><rect codeLine="47" fill="#F1F1F1" height="64.2969" id="BoldDecorator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167" x="1233" y="1588.5"/><ellipse cx="1263.75" cy="1604.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1266.7188,1610.1406 Q1266.1406,1610.4375 1265.5,1610.5781 Q1264.8594,1610.7344 1264.1563,1610.7344 Q1261.6563,1610.7344 1260.3281,1609.0938 Q1259.0156,1607.4375 1259.0156,1604.3125 Q1259.0156,1601.1875 1260.3281,1599.5313 Q1261.6563,1597.875 1264.1563,1597.875 Q1264.8594,1597.875 1265.5,1598.0313 Q1266.1563,1598.1875 1266.7188,1598.4844 L1266.7188,1601.2031 Q1266.0938,1600.625 1265.5,1600.3594 Q1264.9063,1600.0781 1264.2813,1600.0781 Q1262.9375,1600.0781 1262.25,1601.1563 Q1261.5625,1602.2188 1261.5625,1604.3125 Q1261.5625,1606.4063 1262.25,1607.4844 Q1262.9375,1608.5469 1264.2813,1608.5469 Q1264.9063,1608.5469 1265.5,1608.2813 Q1266.0938,1608 1266.7188,1607.4219 L1266.7188,1610.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="1281.25" y="1609.3467">BoldDecorator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1234" x2="1399" y1="1620.5" y2="1620.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1234" x2="1399" y1="1628.5" y2="1628.5"/><ellipse cx="1244" cy="1642.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="1253" y="1645.4951">getContent() : string</text></g><!--MD5=[e3c047ad244c48a6ce3a12e2a9ae87f7]
+class ItalicDecorator--><g id="elem_ItalicDecorator"><rect codeLine="50" fill="#F1F1F1" height="64.2969" id="ItalicDecorator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167" x="1031" y="1588.5"/><ellipse cx="1062.2" cy="1604.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1065.1688,1610.1406 Q1064.5906,1610.4375 1063.95,1610.5781 Q1063.3094,1610.7344 1062.6063,1610.7344 Q1060.1063,1610.7344 1058.7781,1609.0938 Q1057.4656,1607.4375 1057.4656,1604.3125 Q1057.4656,1601.1875 1058.7781,1599.5313 Q1060.1063,1597.875 1062.6063,1597.875 Q1063.3094,1597.875 1063.95,1598.0313 Q1064.6063,1598.1875 1065.1688,1598.4844 L1065.1688,1601.2031 Q1064.5438,1600.625 1063.95,1600.3594 Q1063.3563,1600.0781 1062.7313,1600.0781 Q1061.3875,1600.0781 1060.7,1601.1563 Q1060.0125,1602.2188 1060.0125,1604.3125 Q1060.0125,1606.4063 1060.7,1607.4844 Q1061.3875,1608.5469 1062.7313,1608.5469 Q1063.3563,1608.5469 1063.95,1608.2813 Q1064.5438,1608 1065.1688,1607.4219 L1065.1688,1610.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="1079.8" y="1609.3467">ItalicDecorator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1032" x2="1197" y1="1620.5" y2="1620.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1032" x2="1197" y1="1628.5" y2="1628.5"/><ellipse cx="1042" cy="1642.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="1051" y="1645.4951">getContent() : string</text></g><!--MD5=[c09b61235ddf47f59078fb320ca86801]
+class UnderlineDecorator--><g id="elem_UnderlineDecorator"><rect codeLine="53" fill="#F1F1F1" height="64.2969" id="UnderlineDecorator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167" x="1435" y="1588.5"/><ellipse cx="1450" cy="1604.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1452.9688,1610.1406 Q1452.3906,1610.4375 1451.75,1610.5781 Q1451.1094,1610.7344 1450.4063,1610.7344 Q1447.9063,1610.7344 1446.5781,1609.0938 Q1445.2656,1607.4375 1445.2656,1604.3125 Q1445.2656,1601.1875 1446.5781,1599.5313 Q1447.9063,1597.875 1450.4063,1597.875 Q1451.1094,1597.875 1451.75,1598.0313 Q1452.4063,1598.1875 1452.9688,1598.4844 L1452.9688,1601.2031 Q1452.3438,1600.625 1451.75,1600.3594 Q1451.1563,1600.0781 1450.5313,1600.0781 Q1449.1875,1600.0781 1448.5,1601.1563 Q1447.8125,1602.2188 1447.8125,1604.3125 Q1447.8125,1606.4063 1448.5,1607.4844 Q1449.1875,1608.5469 1450.5313,1608.5469 Q1451.1563,1608.5469 1451.75,1608.2813 Q1452.3438,1608 1452.9688,1607.4219 L1452.9688,1610.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1464" y="1609.3467">UnderlineDecorator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1436" x2="1601" y1="1620.5" y2="1620.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1436" x2="1601" y1="1628.5" y2="1628.5"/><ellipse cx="1446" cy="1642.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="1455" y="1645.4951">getContent() : string</text></g><!--MD5=[98b544c30d7ee7a20412431d4352e5c8]
+class IDocumentAdapter--><g id="elem_IDocumentAdapter"><rect codeLine="66" fill="#F1F1F1" height="80.5938" id="IDocumentAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="162" x="423.5" y="647.5"/><ellipse cx="438.5" cy="663.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M434.4219,659.2656 L434.4219,657.1094 L441.8125,657.1094 L441.8125,659.2656 L439.3438,659.2656 L439.3438,667.3438 L441.8125,667.3438 L441.8125,669.5 L434.4219,669.5 L434.4219,667.3438 L436.8906,667.3438 L436.8906,659.2656 L434.4219,659.2656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="130" x="452.5" y="668.3467">IDocumentAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="424.5" x2="584.5" y1="679.5" y2="679.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="424.5" x2="584.5" y1="687.5" y2="687.5"/><ellipse cx="434.5" cy="701.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="443.5" y="704.4951">Save() : void</text><ellipse cx="434.5" cy="717.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="443.5" y="720.792">Load() : Document</text></g><!--MD5=[267404287cf940e7c4b8a9ad5a2d34b4]
+class TxtAdapter--><g id="elem_TxtAdapter"><rect codeLine="71" fill="#F1F1F1" height="80.5938" id="TxtAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="577" y="878.5"/><ellipse cx="613.6" cy="894.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M616.5688,900.1406 Q615.9906,900.4375 615.35,900.5781 Q614.7094,900.7344 614.0063,900.7344 Q611.5063,900.7344 610.1781,899.0938 Q608.8656,897.4375 608.8656,894.3125 Q608.8656,891.1875 610.1781,889.5313 Q611.5063,887.875 614.0063,887.875 Q614.7094,887.875 615.35,888.0313 Q616.0063,888.1875 616.5688,888.4844 L616.5688,891.2031 Q615.9438,890.625 615.35,890.3594 Q614.7563,890.0781 614.1313,890.0781 Q612.7875,890.0781 612.1,891.1563 Q611.4125,892.2188 611.4125,894.3125 Q611.4125,896.4063 612.1,897.4844 Q612.7875,898.5469 614.1313,898.5469 Q614.7563,898.5469 615.35,898.2813 Q615.9438,898 616.5688,897.4219 L616.5688,900.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="632.4" y="899.3467">TxtAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="578" x2="731" y1="910.5" y2="910.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="578" x2="731" y1="918.5" y2="918.5"/><ellipse cx="588" cy="932.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="597" y="935.4951">Save() : void</text><ellipse cx="588" cy="948.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="597" y="951.792">Load() : Document</text></g><!--MD5=[d5869636955dda6ff75e8a8b4e7b25a0]
+class MdAdapter--><g id="elem_MdAdapter"><rect codeLine="75" fill="#F1F1F1" height="80.5938" id="MdAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="767" y="878.5"/><ellipse cx="803.6" cy="894.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M806.5688,900.1406 Q805.9906,900.4375 805.35,900.5781 Q804.7094,900.7344 804.0063,900.7344 Q801.5063,900.7344 800.1781,899.0938 Q798.8656,897.4375 798.8656,894.3125 Q798.8656,891.1875 800.1781,889.5313 Q801.5063,887.875 804.0063,887.875 Q804.7094,887.875 805.35,888.0313 Q806.0063,888.1875 806.5688,888.4844 L806.5688,891.2031 Q805.9438,890.625 805.35,890.3594 Q804.7563,890.0781 804.1313,890.0781 Q802.7875,890.0781 802.1,891.1563 Q801.4125,892.2188 801.4125,894.3125 Q801.4125,896.4063 802.1,897.4844 Q802.7875,898.5469 804.1313,898.5469 Q804.7563,898.5469 805.35,898.2813 Q805.9438,898 806.5688,897.4219 L806.5688,900.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="822.4" y="899.3467">MdAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="768" x2="921" y1="910.5" y2="910.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="768" x2="921" y1="918.5" y2="918.5"/><ellipse cx="778" cy="932.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="787" y="935.4951">Save() : void</text><ellipse cx="778" cy="948.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="787" y="951.792">Load() : Document</text></g><!--MD5=[215616fd05ba4660ef0e529e26d817d9]
+class RtfAdapter--><g id="elem_RtfAdapter"><rect codeLine="79" fill="#F1F1F1" height="80.5938" id="RtfAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="7" y="878.5"/><ellipse cx="44.5" cy="894.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M47.4688,900.1406 Q46.8906,900.4375 46.25,900.5781 Q45.6094,900.7344 44.9063,900.7344 Q42.4063,900.7344 41.0781,899.0938 Q39.7656,897.4375 39.7656,894.3125 Q39.7656,891.1875 41.0781,889.5313 Q42.4063,887.875 44.9063,887.875 Q45.6094,887.875 46.25,888.0313 Q46.9063,888.1875 47.4688,888.4844 L47.4688,891.2031 Q46.8438,890.625 46.25,890.3594 Q45.6563,890.0781 45.0313,890.0781 Q43.6875,890.0781 43,891.1563 Q42.3125,892.2188 42.3125,894.3125 Q42.3125,896.4063 43,897.4844 Q43.6875,898.5469 45.0313,898.5469 Q45.6563,898.5469 46.25,898.2813 Q46.8438,898 47.4688,897.4219 L47.4688,900.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="63.5" y="899.3467">RtfAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="161" y1="910.5" y2="910.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="161" y1="918.5" y2="918.5"/><ellipse cx="18" cy="932.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="27" y="935.4951">Save() : void</text><ellipse cx="18" cy="948.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="27" y="951.792">Load() : Document</text></g><!--MD5=[9d8f38d34a519308a13ee7ace41e6e9b]
+class JsonAdapter--><g id="elem_JsonAdapter"><rect codeLine="83" fill="#F1F1F1" height="80.5938" id="JsonAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="197" y="878.5"/><ellipse cx="230" cy="894.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M232.9688,900.1406 Q232.3906,900.4375 231.75,900.5781 Q231.1094,900.7344 230.4063,900.7344 Q227.9063,900.7344 226.5781,899.0938 Q225.2656,897.4375 225.2656,894.3125 Q225.2656,891.1875 226.5781,889.5313 Q227.9063,887.875 230.4063,887.875 Q231.1094,887.875 231.75,888.0313 Q232.4063,888.1875 232.9688,888.4844 L232.9688,891.2031 Q232.3438,890.625 231.75,890.3594 Q231.1563,890.0781 230.5313,890.0781 Q229.1875,890.0781 228.5,891.1563 Q227.8125,892.2188 227.8125,894.3125 Q227.8125,896.4063 228.5,897.4844 Q229.1875,898.5469 230.5313,898.5469 Q231.1563,898.5469 231.75,898.2813 Q232.3438,898 232.9688,897.4219 L232.9688,900.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="248" y="899.3467">JsonAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="198" x2="351" y1="910.5" y2="910.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="198" x2="351" y1="918.5" y2="918.5"/><ellipse cx="208" cy="932.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="217" y="935.4951">Save() : void</text><ellipse cx="208" cy="948.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="217" y="951.792">Load() : Document</text></g><!--MD5=[ad48f1f3665d9048ce8502bf274a15a1]
+class XmlAdapter--><g id="elem_XmlAdapter"><rect codeLine="87" fill="#F1F1F1" height="80.5938" id="XmlAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="387" y="878.5"/><ellipse cx="421.8" cy="894.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M424.7688,900.1406 Q424.1906,900.4375 423.55,900.5781 Q422.9094,900.7344 422.2063,900.7344 Q419.7063,900.7344 418.3781,899.0938 Q417.0656,897.4375 417.0656,894.3125 Q417.0656,891.1875 418.3781,889.5313 Q419.7063,887.875 422.2063,887.875 Q422.9094,887.875 423.55,888.0313 Q424.2063,888.1875 424.7688,888.4844 L424.7688,891.2031 Q424.1438,890.625 423.55,890.3594 Q422.9563,890.0781 422.3313,890.0781 Q420.9875,890.0781 420.3,891.1563 Q419.6125,892.2188 419.6125,894.3125 Q419.6125,896.4063 420.3,897.4844 Q420.9875,898.5469 422.3313,898.5469 Q422.9563,898.5469 423.55,898.2813 Q424.1438,898 424.7688,897.4219 L424.7688,900.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="440.2" y="899.3467">XmlAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="388" x2="541" y1="910.5" y2="910.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="388" x2="541" y1="918.5" y2="918.5"/><ellipse cx="398" cy="932.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="407" y="935.4951">Save() : void</text><ellipse cx="398" cy="948.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="407" y="951.792">Load() : Document</text></g><!--MD5=[4990b14a8fa3f4d07e2bcfb020482356]
+class AdapterFactory--><g id="elem_AdapterFactory"><rect codeLine="91" fill="#F1F1F1" height="64.2969" id="AdapterFactory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="279" x="564" y="441.5"/><ellipse cx="647.25" cy="457.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M650.2188,463.1406 Q649.6406,463.4375 649,463.5781 Q648.3594,463.7344 647.6563,463.7344 Q645.1563,463.7344 643.8281,462.0938 Q642.5156,460.4375 642.5156,457.3125 Q642.5156,454.1875 643.8281,452.5313 Q645.1563,450.875 647.6563,450.875 Q648.3594,450.875 649,451.0313 Q649.6563,451.1875 650.2188,451.4844 L650.2188,454.2031 Q649.5938,453.625 649,453.3594 Q648.4063,453.0781 647.7813,453.0781 Q646.4375,453.0781 645.75,454.1563 Q645.0625,455.2188 645.0625,457.3125 Q645.0625,459.4063 645.75,460.4844 Q646.4375,461.5469 647.7813,461.5469 Q648.4063,461.5469 649,461.2813 Q649.5938,461 650.2188,460.4219 L650.2188,463.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="667.75" y="462.3467">AdapterFactory</text><line style="stroke:#181818;stroke-width:0.5;" x1="565" x2="842" y1="473.5" y2="473.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="565" x2="842" y1="481.5" y2="481.5"/><ellipse cx="575" cy="495.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="253" x="584" y="498.4951">CreateAdapter() : IDocumentAdapter</text></g><!--MD5=[daeb85492298e2fb02b4ccfe2ffe21b3]
+class IDocumentCommand--><g id="elem_IDocumentCommand"><rect codeLine="104" fill="#F1F1F1" height="80.5938" id="IDocumentCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="179" x="1472" y="647.5"/><ellipse cx="1487" cy="663.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1482.9219,659.2656 L1482.9219,657.1094 L1490.3125,657.1094 L1490.3125,659.2656 L1487.8438,659.2656 L1487.8438,667.3438 L1490.3125,667.3438 L1490.3125,669.5 L1482.9219,669.5 L1482.9219,667.3438 L1485.3906,667.3438 L1485.3906,659.2656 L1482.9219,659.2656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="147" x="1501" y="668.3467">IDocumentCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="1473" x2="1650" y1="679.5" y2="679.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1473" x2="1650" y1="687.5" y2="687.5"/><ellipse cx="1483" cy="701.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1492" y="704.4951">Execute() : void</text><ellipse cx="1483" cy="717.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="1492" y="720.792">Unexecute() : void</text></g><!--MD5=[837674f8efe64a967d28b238c78cbf9a]
+class InsertTextCommand--><g id="elem_InsertTextCommand"><rect codeLine="109" fill="#F1F1F1" height="145.7813" id="InsertTextCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="193" x="1465" y="846"/><ellipse cx="1489.45" cy="862" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1492.4188,867.6406 Q1491.8406,867.9375 1491.2,868.0781 Q1490.5594,868.2344 1489.8563,868.2344 Q1487.3563,868.2344 1486.0281,866.5938 Q1484.7156,864.9375 1484.7156,861.8125 Q1484.7156,858.6875 1486.0281,857.0313 Q1487.3563,855.375 1489.8563,855.375 Q1490.5594,855.375 1491.2,855.5313 Q1491.8563,855.6875 1492.4188,855.9844 L1492.4188,858.7031 Q1491.7938,858.125 1491.2,857.8594 Q1490.6063,857.5781 1489.9813,857.5781 Q1488.6375,857.5781 1487.95,858.6563 Q1487.2625,859.7188 1487.2625,861.8125 Q1487.2625,863.9063 1487.95,864.9844 Q1488.6375,866.0469 1489.9813,866.0469 Q1490.6063,866.0469 1491.2,865.7813 Q1491.7938,865.5 1492.4188,864.9219 L1492.4188,867.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="1505.55" y="866.8467">InsertTextCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="1466" x2="1657" y1="878" y2="878"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1473" y="888.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1485" y="894.9951">document : Document</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1473" y="904.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1485" y="911.292">text : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1473" y="921.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="1485" y="927.5889">position : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1473" y="937.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="1485" y="943.8857">previousContent : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="1466" x2="1657" y1="951.1875" y2="951.1875"/><ellipse cx="1476" cy="964.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1485" y="968.1826">Execute() : void</text><ellipse cx="1476" cy="981.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="1485" y="984.4795">Unexecute() : void</text></g><!--MD5=[765f0a0c136a7d1e26fb847d47d10014]
+class DeleteTextCommand--><g id="elem_DeleteTextCommand"><rect codeLine="117" fill="#F1F1F1" height="145.7813" id="DeleteTextCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="183" x="1029" y="846"/><ellipse cx="1045.8" cy="862" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1048.7688,867.6406 Q1048.1906,867.9375 1047.55,868.0781 Q1046.9094,868.2344 1046.2063,868.2344 Q1043.7063,868.2344 1042.3781,866.5938 Q1041.0656,864.9375 1041.0656,861.8125 Q1041.0656,858.6875 1042.3781,857.0313 Q1043.7063,855.375 1046.2063,855.375 Q1046.9094,855.375 1047.55,855.5313 Q1048.2063,855.6875 1048.7688,855.9844 L1048.7688,858.7031 Q1048.1438,858.125 1047.55,857.8594 Q1046.9563,857.5781 1046.3313,857.5781 Q1044.9875,857.5781 1044.3,858.6563 Q1043.6125,859.7188 1043.6125,861.8125 Q1043.6125,863.9063 1044.3,864.9844 Q1044.9875,866.0469 1046.3313,866.0469 Q1046.9563,866.0469 1047.55,865.7813 Q1048.1438,865.5 1048.7688,864.9219 L1048.7688,867.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="1060.2" y="866.8467">DeleteTextCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="1030" x2="1211" y1="878" y2="878"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1037" y="888.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1049" y="894.9951">document : Document</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1037" y="904.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1049" y="911.292">startIndex : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1037" y="921.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1049" y="927.5889">length : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1037" y="937.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1049" y="943.8857">deletedText : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="1030" x2="1211" y1="951.1875" y2="951.1875"/><ellipse cx="1040" cy="964.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1049" y="968.1826">Execute() : void</text><ellipse cx="1040" cy="981.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="1049" y="984.4795">Unexecute() : void</text></g><!--MD5=[2560ebdaba5a68e3f76a71cc3541901e]
+class CopyTextCommand--><g id="elem_CopyTextCommand"><rect codeLine="125" fill="#F1F1F1" height="145.7813" id="CopyTextCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="183" x="1693" y="846"/><ellipse cx="1714.75" cy="862" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1717.7188,867.6406 Q1717.1406,867.9375 1716.5,868.0781 Q1715.8594,868.2344 1715.1563,868.2344 Q1712.6563,868.2344 1711.3281,866.5938 Q1710.0156,864.9375 1710.0156,861.8125 Q1710.0156,858.6875 1711.3281,857.0313 Q1712.6563,855.375 1715.1563,855.375 Q1715.8594,855.375 1716.5,855.5313 Q1717.1563,855.6875 1717.7188,855.9844 L1717.7188,858.7031 Q1717.0938,858.125 1716.5,857.8594 Q1715.9063,857.5781 1715.2813,857.5781 Q1713.9375,857.5781 1713.25,858.6563 Q1712.5625,859.7188 1712.5625,861.8125 Q1712.5625,863.9063 1713.25,864.9844 Q1713.9375,866.0469 1715.2813,866.0469 Q1715.9063,866.0469 1716.5,865.7813 Q1717.0938,865.5 1717.7188,864.9219 L1717.7188,867.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="1730.25" y="866.8467">CopyTextCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="1694" x2="1875" y1="878" y2="878"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1701" y="888.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1713" y="894.9951">document : Document</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1701" y="904.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1713" y="911.292">startIndex : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1701" y="921.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1713" y="927.5889">length : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1701" y="937.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="1713" y="943.8857">clipboard : Clipboard</text><line style="stroke:#181818;stroke-width:0.5;" x1="1694" x2="1875" y1="951.1875" y2="951.1875"/><ellipse cx="1704" cy="964.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1713" y="968.1826">Execute() : void</text><ellipse cx="1704" cy="981.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="1713" y="984.4795">Unexecute() : void</text></g><!--MD5=[24af86143ac4ecc7d885c80eb83c7dd3]
+class PasteTextCommand--><g id="elem_PasteTextCommand"><rect codeLine="133" fill="#F1F1F1" height="145.7813" id="PasteTextCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="194" x="2347.5" y="846"/><ellipse cx="2372.4" cy="862" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2375.3688,867.6406 Q2374.7906,867.9375 2374.15,868.0781 Q2373.5094,868.2344 2372.8063,868.2344 Q2370.3063,868.2344 2368.9781,866.5938 Q2367.6656,864.9375 2367.6656,861.8125 Q2367.6656,858.6875 2368.9781,857.0313 Q2370.3063,855.375 2372.8063,855.375 Q2373.5094,855.375 2374.15,855.5313 Q2374.8063,855.6875 2375.3688,855.9844 L2375.3688,858.7031 Q2374.7438,858.125 2374.15,857.8594 Q2373.5563,857.5781 2372.9313,857.5781 Q2371.5875,857.5781 2370.9,858.6563 Q2370.2125,859.7188 2370.2125,861.8125 Q2370.2125,863.9063 2370.9,864.9844 Q2371.5875,866.0469 2372.9313,866.0469 Q2373.5563,866.0469 2374.15,865.7813 Q2374.7438,865.5 2375.3688,864.9219 L2375.3688,867.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="2388.6" y="866.8467">PasteTextCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="2348.5" x2="2540.5" y1="878" y2="878"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2355.5" y="888.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="2367.5" y="894.9951">document : Document</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2355.5" y="904.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="2367.5" y="911.292">clipboard : Clipboard</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2355.5" y="921.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="2367.5" y="927.5889">position : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2355.5" y="937.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="2367.5" y="943.8857">previousContent : dtring</text><line style="stroke:#181818;stroke-width:0.5;" x1="2348.5" x2="2540.5" y1="951.1875" y2="951.1875"/><ellipse cx="2358.5" cy="964.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="2367.5" y="968.1826">Execute() : void</text><ellipse cx="2358.5" cy="981.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="2367.5" y="984.4795">Unexecute() : void</text></g><!--MD5=[756b5b7b134ef61db1fb96a477aa9d82]
+class CutTextCommand--><g id="elem_CutTextCommand"><rect codeLine="141" fill="#F1F1F1" height="162.0781" id="CutTextCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="183" x="1911" y="838"/><ellipse cx="1937.7" cy="854" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1940.6688,859.6406 Q1940.0906,859.9375 1939.45,860.0781 Q1938.8094,860.2344 1938.1063,860.2344 Q1935.6063,860.2344 1934.2781,858.5938 Q1932.9656,856.9375 1932.9656,853.8125 Q1932.9656,850.6875 1934.2781,849.0313 Q1935.6063,847.375 1938.1063,847.375 Q1938.8094,847.375 1939.45,847.5313 Q1940.1063,847.6875 1940.6688,847.9844 L1940.6688,850.7031 Q1940.0438,850.125 1939.45,849.8594 Q1938.8563,849.5781 1938.2313,849.5781 Q1936.8875,849.5781 1936.2,850.6563 Q1935.5125,851.7188 1935.5125,853.8125 Q1935.5125,855.9063 1936.2,856.9844 Q1936.8875,858.0469 1938.2313,858.0469 Q1938.8563,858.0469 1939.45,857.7813 Q1940.0438,857.5 1940.6688,856.9219 L1940.6688,859.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="1954.3" y="858.8467">CutTextCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="1912" x2="2093" y1="870" y2="870"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1919" y="880.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1931" y="886.9951">document : Document</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1919" y="896.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1931" y="903.292">startIndex : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1919" y="913.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="1931" y="919.5889">clipboard : Clipboard</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1919" y="929.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1931" y="935.8857">length : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1919" y="945.8359"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="1931" y="952.1826">deletedText : dtring</text><line style="stroke:#181818;stroke-width:0.5;" x1="1912" x2="2093" y1="959.4844" y2="959.4844"/><ellipse cx="1922" cy="973.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1931" y="976.4795">Execute() : void</text><ellipse cx="1922" cy="989.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="1931" y="992.7764">Unexecute() : void</text></g><!--MD5=[1df9940dd9f30b9417b79c5ef8ada297]
+class EditTextCommand--><g id="elem_EditTextCommand"><rect codeLine="150" fill="#F1F1F1" height="129.4844" id="EditTextCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="183" x="2129" y="854.5"/><ellipse cx="2154.8" cy="870.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2157.7688,876.1406 Q2157.1906,876.4375 2156.55,876.5781 Q2155.9094,876.7344 2155.2063,876.7344 Q2152.7063,876.7344 2151.3781,875.0938 Q2150.0656,873.4375 2150.0656,870.3125 Q2150.0656,867.1875 2151.3781,865.5313 Q2152.7063,863.875 2155.2063,863.875 Q2155.9094,863.875 2156.55,864.0313 Q2157.2063,864.1875 2157.7688,864.4844 L2157.7688,867.2031 Q2157.1438,866.625 2156.55,866.3594 Q2155.9563,866.0781 2155.3313,866.0781 Q2153.9875,866.0781 2153.3,867.1563 Q2152.6125,868.2188 2152.6125,870.3125 Q2152.6125,872.4063 2153.3,873.4844 Q2153.9875,874.5469 2155.3313,874.5469 Q2155.9563,874.5469 2156.55,874.2813 Q2157.1438,874 2157.7688,873.4219 L2157.7688,876.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="2171.2" y="875.3467">EditTextCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="2130" x2="2311" y1="886.5" y2="886.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2137" y="897.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="2149" y="903.4951">document : Document</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2137" y="913.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="2149" y="919.792">newText : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2137" y="929.7422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="2149" y="936.0889">previousText : dtring</text><line style="stroke:#181818;stroke-width:0.5;" x1="2130" x2="2311" y1="943.3906" y2="943.3906"/><ellipse cx="2140" cy="957.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="2149" y="960.3857">Execute() : void</text><ellipse cx="2140" cy="973.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="2149" y="976.6826">Unexecute() : void</text></g><!--MD5=[667582c51480042f032122a6c6a9b28d]
+class FindTextCommand--><g id="elem_FindTextCommand"><rect codeLine="157" fill="#F1F1F1" height="113.1875" id="FindTextCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="183" x="1247" y="862.5"/><ellipse cx="1271.45" cy="878.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1274.4188,884.1406 Q1273.8406,884.4375 1273.2,884.5781 Q1272.5594,884.7344 1271.8563,884.7344 Q1269.3563,884.7344 1268.0281,883.0938 Q1266.7156,881.4375 1266.7156,878.3125 Q1266.7156,875.1875 1268.0281,873.5313 Q1269.3563,871.875 1271.8563,871.875 Q1272.5594,871.875 1273.2,872.0313 Q1273.8563,872.1875 1274.4188,872.4844 L1274.4188,875.2031 Q1273.7938,874.625 1273.2,874.3594 Q1272.6063,874.0781 1271.9813,874.0781 Q1270.6375,874.0781 1269.95,875.1563 Q1269.2625,876.2188 1269.2625,878.3125 Q1269.2625,880.4063 1269.95,881.4844 Q1270.6375,882.5469 1271.9813,882.5469 Q1272.6063,882.5469 1273.2,882.2813 Q1273.7938,882 1274.4188,881.4219 L1274.4188,884.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="1287.55" y="883.3467">FindTextCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="1248" x2="1429" y1="894.5" y2="894.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1255" y="905.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1267" y="911.4951">document : Document</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1255" y="921.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="1267" y="927.792">searchText : dtring</text><line style="stroke:#181818;stroke-width:0.5;" x1="1248" x2="1429" y1="935.0938" y2="935.0938"/><ellipse cx="1258" cy="948.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1267" y="952.0889">Execute() : void</text><ellipse cx="1258" cy="965.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="1267" y="968.3857">Unexecute() : void</text></g><!--MD5=[62552f02a9d27436469fb23040e4dcf0]
+class Clipboard--><g id="elem_Clipboard"><rect codeLine="331" fill="#F1F1F1" height="96.8906" id="Clipboard" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="145" x="2372" y="1142.5"/><ellipse cx="2408.6" cy="1158.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2411.5688,1164.1406 Q2410.9906,1164.4375 2410.35,1164.5781 Q2409.7094,1164.7344 2409.0063,1164.7344 Q2406.5063,1164.7344 2405.1781,1163.0938 Q2403.8656,1161.4375 2403.8656,1158.3125 Q2403.8656,1155.1875 2405.1781,1153.5313 Q2406.5063,1151.875 2409.0063,1151.875 Q2409.7094,1151.875 2410.35,1152.0313 Q2411.0063,1152.1875 2411.5688,1152.4844 L2411.5688,1155.2031 Q2410.9438,1154.625 2410.35,1154.3594 Q2409.7563,1154.0781 2409.1313,1154.0781 Q2407.7875,1154.0781 2407.1,1155.1563 Q2406.4125,1156.2188 2406.4125,1158.3125 Q2406.4125,1160.4063 2407.1,1161.4844 Q2407.7875,1162.5469 2409.1313,1162.5469 Q2409.7563,1162.5469 2410.35,1162.2813 Q2410.9438,1162 2411.5688,1161.4219 L2411.5688,1164.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="2427.4" y="1163.3467">Clipboard</text><line style="stroke:#181818;stroke-width:0.5;" x1="2373" x2="2516" y1="1174.5" y2="1174.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2380" y="1185.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="2392" y="1191.4951">text : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="2373" x2="2516" y1="1198.7969" y2="1198.7969"/><ellipse cx="2383" cy="1212.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="2392" y="1215.792">Store() : void</text><ellipse cx="2383" cy="1228.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="2392" y="1232.0889">Retrieve() : string</text></g><!--MD5=[c08fc02071bf6993e1c191f7a31d3f67]
+class UndoRedoManager--><g id="elem_UndoRedoManager"><rect codeLine="184" fill="#F1F1F1" height="129.4844" id="UndoRedoManager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="319" x="1262" y="409"/><ellipse cx="1350.25" cy="425" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1353.2188,430.6406 Q1352.6406,430.9375 1352,431.0781 Q1351.3594,431.2344 1350.6563,431.2344 Q1348.1563,431.2344 1346.8281,429.5938 Q1345.5156,427.9375 1345.5156,424.8125 Q1345.5156,421.6875 1346.8281,420.0313 Q1348.1563,418.375 1350.6563,418.375 Q1351.3594,418.375 1352,418.5313 Q1352.6563,418.6875 1353.2188,418.9844 L1353.2188,421.7031 Q1352.5938,421.125 1352,420.8594 Q1351.4063,420.5781 1350.7813,420.5781 Q1349.4375,420.5781 1348.75,421.6563 Q1348.0625,422.7188 1348.0625,424.8125 Q1348.0625,426.9063 1348.75,427.9844 Q1349.4375,429.0469 1350.7813,429.0469 Q1351.4063,429.0469 1352,428.7813 Q1352.5938,428.5 1353.2188,427.9219 L1353.2188,430.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="1370.75" y="429.8467">UndoRedoManager</text><line style="stroke:#181818;stroke-width:0.5;" x1="1263" x2="1580" y1="441" y2="441"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1270" y="451.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="293" x="1282" y="457.9951">undoStack : Stack&lt;DocumentCommand&gt;</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1270" y="467.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="289" x="1282" y="474.292">redoStack : Stack&lt;DocumentCommand&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="1263" x2="1580" y1="481.5938" y2="481.5938"/><ellipse cx="1273" cy="495.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="1282" y="498.5889">ExecuteCommand() : void</text><ellipse cx="1273" cy="511.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="1282" y="514.8857">Undo() : void</text><ellipse cx="1273" cy="527.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="1282" y="531.1826">Redo() : void</text></g><!--MD5=[a9c033e17ae41d151523aa37ca604b3f]
+class DocumentManager--><g id="elem_DocumentManager"><rect codeLine="209" fill="#F1F1F1" height="341.3438" id="DocumentManager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="475" x="808" y="7"/><ellipse cx="974.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M977.7188,28.6406 Q977.1406,28.9375 976.5,29.0781 Q975.8594,29.2344 975.1563,29.2344 Q972.6563,29.2344 971.3281,27.5938 Q970.0156,25.9375 970.0156,22.8125 Q970.0156,19.6875 971.3281,18.0313 Q972.6563,16.375 975.1563,16.375 Q975.8594,16.375 976.5,16.5313 Q977.1563,16.6875 977.7188,16.9844 L977.7188,19.7031 Q977.0938,19.125 976.5,18.8594 Q975.9063,18.5781 975.2813,18.5781 Q973.9375,18.5781 973.25,19.6563 Q972.5625,20.7188 972.5625,22.8125 Q972.5625,24.9063 973.25,25.9844 Q973.9375,27.0469 975.2813,27.0469 Q975.9063,27.0469 976.5,26.7813 Q977.0938,26.5 977.7188,25.9219 L977.7188,28.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="995.25" y="27.8467">DocumentManager</text><line style="stroke:#181818;stroke-width:0.5;" x1="809" x2="1282" y1="39" y2="39"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="816" y="49.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="828" y="55.9951">documents : List&lt;Document&gt;</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="816" y="65.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="828" y="72.292">storage : IStorage</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="816" y="82.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="280" x="828" y="88.5889">undoRedoManager : UndoRedoManager</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="816" y="98.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="828" y="104.8857">adapterFactory : AdapterFactory</text><line style="stroke:#181818;stroke-width:0.5;" x1="809" x2="1282" y1="112.1875" y2="112.1875"/><ellipse cx="819" cy="125.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="266" x="828" y="129.1826">CreateDocumentByType() : Document</text><ellipse cx="819" cy="142.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="215" x="828" y="145.4795">CreateDocument() : Document</text><ellipse cx="819" cy="158.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170" x="828" y="161.7764">DeleteDocument() : void</text><ellipse cx="819" cy="174.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="247" x="828" y="178.0732">ListDocuments() : List&lt;Document&gt;</text><ellipse cx="819" cy="191.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="383" x="828" y="194.3701">ListUsersForDocument() : Dictionary&lt;string, UserRole&gt;</text><ellipse cx="819" cy="207.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="209" x="828" y="210.667">ChangeDocumentRole() : void</text><ellipse cx="819" cy="223.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="828" y="226.9639">GetUserRole() : UserRole</text><ellipse cx="819" cy="239.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="225" x="828" y="243.2607">GetPermissionsFilePath() : string</text><ellipse cx="819" cy="256.2109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="449" x="828" y="259.5576">DocumentFormatMapping() : Dictionary&lt;DocumentType, string&gt;</text><ellipse cx="819" cy="272.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="828" y="275.8545">SaveDocument() : void</text><ellipse cx="819" cy="288.8047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="828" y="292.1514">LoadDocument() : Document</text><ellipse cx="819" cy="305.1016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="828" y="308.4482">ExecuteCommand() : void</text><ellipse cx="819" cy="321.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="828" y="324.7451">Undo() : void</text><ellipse cx="819" cy="337.6953" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="828" y="341.042">Redo() : void</text></g><!--MD5=[e8cfd755308414781c0123d0000bbf77]
+class IStorage--><g id="elem_IStorage"><rect codeLine="236" fill="#F1F1F1" height="113.1875" id="IStorage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="1686" y="417"/><ellipse cx="1789.75" cy="433" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1785.6719,428.7656 L1785.6719,426.6094 L1793.0625,426.6094 L1793.0625,428.7656 L1790.5938,428.7656 L1790.5938,436.8438 L1793.0625,436.8438 L1793.0625,439 L1785.6719,439 L1785.6719,436.8438 L1788.1406,436.8438 L1788.1406,428.7656 L1785.6719,428.7656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="57" x="1810.25" y="437.8467">IStorage</text><line style="stroke:#181818;stroke-width:0.5;" x1="1687" x2="1958" y1="449" y2="449"/><line style="stroke:#181818;stroke-width:0.5;" x1="1687" x2="1958" y1="457" y2="457"/><ellipse cx="1697" cy="470.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1706" y="473.9951">SaveDocument() : void</text><ellipse cx="1697" cy="486.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="1706" y="490.292">LoadDocument() : Document</text><ellipse cx="1697" cy="503.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="247" x="1706" y="506.5889">ListDocuments() : List&lt;Document&gt;</text><ellipse cx="1697" cy="519.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170" x="1706" y="522.8857">DeleteDocument() : void</text></g><!--MD5=[5c923f9addd6e96d0989d8d9d9b17800]
+class LocalStorage--><g id="elem_LocalStorage"><rect codeLine="243" fill="#F1F1F1" height="129.4844" id="LocalStorage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="1686" y="623.5"/><ellipse cx="1773.75" cy="639.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1776.7188,645.1406 Q1776.1406,645.4375 1775.5,645.5781 Q1774.8594,645.7344 1774.1563,645.7344 Q1771.6563,645.7344 1770.3281,644.0938 Q1769.0156,642.4375 1769.0156,639.3125 Q1769.0156,636.1875 1770.3281,634.5313 Q1771.6563,632.875 1774.1563,632.875 Q1774.8594,632.875 1775.5,633.0313 Q1776.1563,633.1875 1776.7188,633.4844 L1776.7188,636.2031 Q1776.0938,635.625 1775.5,635.3594 Q1774.9063,635.0781 1774.2813,635.0781 Q1772.9375,635.0781 1772.25,636.1563 Q1771.5625,637.2188 1771.5625,639.3125 Q1771.5625,641.4063 1772.25,642.4844 Q1772.9375,643.5469 1774.2813,643.5469 Q1774.9063,643.5469 1775.5,643.2813 Q1776.0938,643 1776.7188,642.4219 L1776.7188,645.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="1794.25" y="644.3467">LocalStorage</text><line style="stroke:#181818;stroke-width:0.5;" x1="1687" x2="1958" y1="655.5" y2="655.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1694" y="666.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="1706" y="672.4951">folderPath : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="1687" x2="1958" y1="679.7969" y2="679.7969"/><ellipse cx="1697" cy="693.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1706" y="696.792">SaveDocument() : void</text><ellipse cx="1697" cy="709.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="1706" y="713.0889">LoadDocument() : Document</text><ellipse cx="1697" cy="726.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="247" x="1706" y="729.3857">ListDocuments() : List&lt;Document&gt;</text><ellipse cx="1697" cy="742.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170" x="1706" y="745.6826">DeleteDocument() : void</text></g><!--MD5=[82c3265d2b6b3d951da992de20e9eba3]
+class CloudStorage--><g id="elem_CloudStorage"><rect codeLine="250" fill="#F1F1F1" height="178.375" id="CloudStorage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="1994" y="599"/><ellipse cx="2079.25" cy="615" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2082.2188,620.6406 Q2081.6406,620.9375 2081,621.0781 Q2080.3594,621.2344 2079.6563,621.2344 Q2077.1563,621.2344 2075.8281,619.5938 Q2074.5156,617.9375 2074.5156,614.8125 Q2074.5156,611.6875 2075.8281,610.0313 Q2077.1563,608.375 2079.6563,608.375 Q2080.3594,608.375 2081,608.5313 Q2081.6563,608.6875 2082.2188,608.9844 L2082.2188,611.7031 Q2081.5938,611.125 2081,610.8594 Q2080.4063,610.5781 2079.7813,610.5781 Q2078.4375,610.5781 2077.75,611.6563 Q2077.0625,612.7188 2077.0625,614.8125 Q2077.0625,616.9063 2077.75,617.9844 Q2078.4375,619.0469 2079.7813,619.0469 Q2080.4063,619.0469 2081,618.7813 Q2081.5938,618.5 2082.2188,617.9219 L2082.2188,620.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="2099.75" y="619.8467">CloudStorage</text><line style="stroke:#181818;stroke-width:0.5;" x1="1995" x2="2266" y1="631" y2="631"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2002" y="641.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181" x="2014" y="647.9951">driveService : DriveService</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2002" y="657.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="2014" y="664.292">folderName : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2002" y="674.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="2014" y="680.5889">folderId : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="1995" x2="2266" y1="687.8906" y2="687.8906"/><ellipse cx="2005" cy="701.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="2014" y="704.8857">GetOrCreateFolder() : string</text><ellipse cx="2005" cy="717.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="2014" y="721.1826">SaveDocument() : void</text><ellipse cx="2005" cy="734.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="2014" y="737.4795">LoadDocument() : Document</text><ellipse cx="2005" cy="750.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="247" x="2014" y="753.7764">ListDocuments() : List&lt;Document&gt;</text><ellipse cx="2005" cy="766.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170" x="2014" y="770.0732">DeleteDocument() : void</text></g><!--MD5=[001a69b5c80b78d1595462a4cfd1a90d]
+class DocumentVersion--><g id="elem_DocumentVersion"><rect codeLine="265" fill="#F1F1F1" height="96.8906" id="DocumentVersion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="179" x="2325" y="1572"/><ellipse cx="2349.9" cy="1588" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2352.8688,1593.6406 Q2352.2906,1593.9375 2351.65,1594.0781 Q2351.0094,1594.2344 2350.3063,1594.2344 Q2347.8063,1594.2344 2346.4781,1592.5938 Q2345.1656,1590.9375 2345.1656,1587.8125 Q2345.1656,1584.6875 2346.4781,1583.0313 Q2347.8063,1581.375 2350.3063,1581.375 Q2351.0094,1581.375 2351.65,1581.5313 Q2352.3063,1581.6875 2352.8688,1581.9844 L2352.8688,1584.7031 Q2352.2438,1584.125 2351.65,1583.8594 Q2351.0563,1583.5781 2350.4313,1583.5781 Q2349.0875,1583.5781 2348.4,1584.6563 Q2347.7125,1585.7188 2347.7125,1587.8125 Q2347.7125,1589.9063 2348.4,1590.9844 Q2349.0875,1592.0469 2350.4313,1592.0469 Q2351.0563,1592.0469 2351.65,1591.7813 Q2352.2438,1591.5 2352.8688,1590.9219 L2352.8688,1593.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="2366.1" y="1592.8467">DocumentVersion</text><line style="stroke:#181818;stroke-width:0.5;" x1="2326" x2="2503" y1="1604" y2="1604"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2333" y="1614.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="2345" y="1620.9951">content : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2333" y="1630.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="2345" y="1637.292">timestamp : DateTime</text><line style="stroke:#181818;stroke-width:0.5;" x1="2326" x2="2503" y1="1644.5938" y2="1644.5938"/><ellipse cx="2336" cy="1658.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="2345" y="1661.5889">ToString() : string</text></g><!--MD5=[628067586ecf8c0ae66dde540ed07637]
+class IDocumentHistory--><g id="elem_IDocumentHistory"><rect codeLine="275" fill="#F1F1F1" height="80.5938" id="IDocumentHistory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="361" x="1976" y="1150.5"/><ellipse cx="2090.75" cy="1166.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2093.7188,1172.1406 Q2093.1406,1172.4375 2092.5,1172.5781 Q2091.8594,1172.7344 2091.1563,1172.7344 Q2088.6563,1172.7344 2087.3281,1171.0938 Q2086.0156,1169.4375 2086.0156,1166.3125 Q2086.0156,1163.1875 2087.3281,1161.5313 Q2088.6563,1159.875 2091.1563,1159.875 Q2091.8594,1159.875 2092.5,1160.0313 Q2093.1563,1160.1875 2093.7188,1160.4844 L2093.7188,1163.2031 Q2093.0938,1162.625 2092.5,1162.3594 Q2091.9063,1162.0781 2091.2813,1162.0781 Q2089.9375,1162.0781 2089.25,1163.1563 Q2088.5625,1164.2188 2088.5625,1166.3125 Q2088.5625,1168.4063 2089.25,1169.4844 Q2089.9375,1170.5469 2091.2813,1170.5469 Q2091.9063,1170.5469 2092.5,1170.2813 Q2093.0938,1170 2093.7188,1169.4219 L2093.7188,1172.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="2111.25" y="1171.3467">IDocumentHistory</text><line style="stroke:#181818;stroke-width:0.5;" x1="1977" x2="2336" y1="1182.5" y2="1182.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1977" x2="2336" y1="1190.5" y2="1190.5"/><ellipse cx="1987" cy="1204.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="1996" y="1207.4951">SaveVersion() : void</text><ellipse cx="1987" cy="1220.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="335" x="1996" y="1223.792">GetVersion() : IEnumerable&lt;DocumentVersion&gt;</text></g><!--MD5=[3fd616f346a44cd59a91eb10b19e157c]
+class User--><g id="elem_User"><rect codeLine="284" fill="#F1F1F1" height="96.8906" id="User" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="148" x="1994.5" y="425"/><ellipse cx="2048.25" cy="441" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2051.2188,446.6406 Q2050.6406,446.9375 2050,447.0781 Q2049.3594,447.2344 2048.6563,447.2344 Q2046.1563,447.2344 2044.8281,445.5938 Q2043.5156,443.9375 2043.5156,440.8125 Q2043.5156,437.6875 2044.8281,436.0313 Q2046.1563,434.375 2048.6563,434.375 Q2049.3594,434.375 2050,434.5313 Q2050.6563,434.6875 2051.2188,434.9844 L2051.2188,437.7031 Q2050.5938,437.125 2050,436.8594 Q2049.4063,436.5781 2048.7813,436.5781 Q2047.4375,436.5781 2046.75,437.6563 Q2046.0625,438.7188 2046.0625,440.8125 Q2046.0625,442.9063 2046.75,443.9844 Q2047.4375,445.0469 2048.7813,445.0469 Q2049.4063,445.0469 2050,444.7813 Q2050.5938,444.5 2051.2188,443.9219 L2051.2188,446.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="2068.75" y="445.8467">User</text><line style="stroke:#181818;stroke-width:0.5;" x1="1995.5" x2="2141.5" y1="457" y2="457"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2002.5" y="467.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="2014.5" y="473.9951">username : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2002.5" y="483.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="2014.5" y="490.292">password : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="1995.5" x2="2141.5" y1="497.5938" y2="497.5938"/><ellipse cx="2005.5" cy="511.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="2014.5" y="514.5889">ToString() : string</text></g><!--MD5=[24add822970012a00cd97a40cd79feff]
+class UserManager--><g id="elem_UserManager"><rect codeLine="289" fill="#F1F1F1" height="178.375" id="UserManager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="191" x="1973" y="88.5"/><ellipse cx="2018.25" cy="104.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2021.2188,110.1406 Q2020.6406,110.4375 2020,110.5781 Q2019.3594,110.7344 2018.6563,110.7344 Q2016.1563,110.7344 2014.8281,109.0938 Q2013.5156,107.4375 2013.5156,104.3125 Q2013.5156,101.1875 2014.8281,99.5313 Q2016.1563,97.875 2018.6563,97.875 Q2019.3594,97.875 2020,98.0313 Q2020.6563,98.1875 2021.2188,98.4844 L2021.2188,101.2031 Q2020.5938,100.625 2020,100.3594 Q2019.4063,100.0781 2018.7813,100.0781 Q2017.4375,100.0781 2016.75,101.1563 Q2016.0625,102.2188 2016.0625,104.3125 Q2016.0625,106.4063 2016.75,107.4844 Q2017.4375,108.5469 2018.7813,108.5469 Q2019.4063,108.5469 2020,108.2813 Q2020.5938,108 2021.2188,107.4219 L2021.2188,110.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="2038.75" y="109.3467">UserManager</text><line style="stroke:#181818;stroke-width:0.5;" x1="1974" x2="2163" y1="120.5" y2="120.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1981" y="131.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="1993" y="137.4951">dataFile : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1981" y="147.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="1993" y="153.792">users : List&lt;User&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="1974" x2="2163" y1="161.0938" y2="161.0938"/><ellipse cx="1984" cy="174.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="1993" y="178.0889">LoadUsers() : void</text><ellipse cx="1984" cy="191.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="1993" y="194.3857">SaveUsers() : void</text><ellipse cx="1984" cy="207.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="1993" y="210.6826">AddUser() : bool</text><ellipse cx="1984" cy="223.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="1993" y="226.9795">RemoveUser() : bool</text><ellipse cx="1984" cy="239.9297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="1993" y="243.2764">ListUsers() : List&lt;User&gt;</text><ellipse cx="1984" cy="256.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1993" y="259.5732">Login() : User</text></g><!--MD5=[76b5e19c9337179d2d7ae334371d68c8]
+class Notification--><g id="elem_Notification"><rect codeLine="303" fill="#F1F1F1" height="113.1875" id="Notification" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="179" x="2261" y="417"/><ellipse cx="2308.25" cy="433" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2311.2188,438.6406 Q2310.6406,438.9375 2310,439.0781 Q2309.3594,439.2344 2308.6563,439.2344 Q2306.1563,439.2344 2304.8281,437.5938 Q2303.5156,435.9375 2303.5156,432.8125 Q2303.5156,429.6875 2304.8281,428.0313 Q2306.1563,426.375 2308.6563,426.375 Q2309.3594,426.375 2310,426.5313 Q2310.6563,426.6875 2311.2188,426.9844 L2311.2188,429.7031 Q2310.5938,429.125 2310,428.8594 Q2309.4063,428.5781 2308.7813,428.5781 Q2307.4375,428.5781 2306.75,429.6563 Q2306.0625,430.7188 2306.0625,432.8125 Q2306.0625,434.9063 2306.75,435.9844 Q2307.4375,437.0469 2308.7813,437.0469 Q2309.4063,437.0469 2310,436.7813 Q2310.5938,436.5 2311.2188,435.9219 L2311.2188,438.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="2328.75" y="437.8467">Notification</text><line style="stroke:#181818;stroke-width:0.5;" x1="2262" x2="2439" y1="449" y2="449"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2269" y="459.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="2281" y="465.9951">message : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2269" y="475.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="2281" y="482.292">originator : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2269" y="492.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="2281" y="498.5889">timestamp : DateTime</text><line style="stroke:#181818;stroke-width:0.5;" x1="2262" x2="2439" y1="505.8906" y2="505.8906"/><ellipse cx="2272" cy="519.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="2281" y="522.8857">ToString() : string</text></g><!--MD5=[19396e60fc58e3e432547cabb13c74da]
+class NotificationService--><g id="elem_NotificationService"><rect codeLine="309" fill="#F1F1F1" height="145.7813" id="NotificationService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="303" x="2199" y="104.5"/><ellipse cx="2283.25" cy="120.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2286.2188,126.1406 Q2285.6406,126.4375 2285,126.5781 Q2284.3594,126.7344 2283.6563,126.7344 Q2281.1563,126.7344 2279.8281,125.0938 Q2278.5156,123.4375 2278.5156,120.3125 Q2278.5156,117.1875 2279.8281,115.5313 Q2281.1563,113.875 2283.6563,113.875 Q2284.3594,113.875 2285,114.0313 Q2285.6563,114.1875 2286.2188,114.4844 L2286.2188,117.2031 Q2285.5938,116.625 2285,116.3594 Q2284.4063,116.0781 2283.7813,116.0781 Q2282.4375,116.0781 2281.75,117.1563 Q2281.0625,118.2188 2281.0625,120.3125 Q2281.0625,122.4063 2281.75,123.4844 Q2282.4375,124.5469 2283.7813,124.5469 Q2284.4063,124.5469 2285,124.2813 Q2285.5938,124 2286.2188,123.4219 L2286.2188,126.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="2303.75" y="125.3467">NotificationService</text><line style="stroke:#181818;stroke-width:0.5;" x1="2200" x2="2501" y1="136.5" y2="136.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2207" y="147.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="2219" y="153.4951">notificationsFile : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2207" y="163.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="277" x="2219" y="169.792">PendingNotifications : List&lt;Notification&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="2200" x2="2501" y1="177.0938" y2="177.0938"/><ellipse cx="2210" cy="190.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="263" x="2219" y="194.0889">LoadNotifications() : List&lt;Notification&gt;</text><ellipse cx="2210" cy="207.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="2219" y="210.3857">SaveNotifications() : void</text><ellipse cx="2210" cy="223.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162" x="2219" y="226.6826">AddNotifications() : void</text><ellipse cx="2210" cy="239.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="227" x="2219" y="242.9795">ShowNotificationsForUser() : void</text></g><!--MD5=[0588aa5b4164b7629f830a62bfb807da]
+class SettingsManager--><g id="elem_SettingsManager"><rect codeLine="321" fill="#F1F1F1" height="162.0781" id="SettingsManager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="302" x="2537.5" y="96.5"/><ellipse cx="2625.75" cy="112.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2628.7188,118.1406 Q2628.1406,118.4375 2627.5,118.5781 Q2626.8594,118.7344 2626.1563,118.7344 Q2623.6563,118.7344 2622.3281,117.0938 Q2621.0156,115.4375 2621.0156,112.3125 Q2621.0156,109.1875 2622.3281,107.5313 Q2623.6563,105.875 2626.1563,105.875 Q2626.8594,105.875 2627.5,106.0313 Q2628.1563,106.1875 2628.7188,106.4844 L2628.7188,109.2031 Q2628.0938,108.625 2627.5,108.3594 Q2626.9063,108.0781 2626.2813,108.0781 Q2624.9375,108.0781 2624.25,109.1563 Q2623.5625,110.2188 2623.5625,112.3125 Q2623.5625,114.4063 2624.25,115.4844 Q2624.9375,116.5469 2626.2813,116.5469 Q2626.9063,116.5469 2627.5,116.2813 Q2628.0938,116 2628.7188,115.4219 L2628.7188,118.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="2646.25" y="117.3467">SettingsManager</text><line style="stroke:#181818;stroke-width:0.5;" x1="2538.5" x2="2838.5" y1="128.5" y2="128.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2545.5" y="139.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="2557.5" y="145.4951">instance : SettingsManager</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2545.5" y="155.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="2557.5" y="161.792">currentForegroundColor : ConsoleColor</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2545.5" y="171.7422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="276" x="2557.5" y="178.0889">currentBackgroundColor : ConsoleColor</text><line style="stroke:#181818;stroke-width:0.5;" x1="2538.5" x2="2838.5" y1="185.3906" y2="185.3906"/><ellipse cx="2548.5" cy="199.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="2557.5" y="202.3857">ApplySettings() : void</text><ellipse cx="2548.5" cy="215.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="2557.5" y="218.6826">ResetSettings() : void</text><ellipse cx="2548.5" cy="231.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="2557.5" y="234.9795">SetForegroundColor() : void</text><ellipse cx="2548.5" cy="247.9297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="2557.5" y="251.2764">SetBackgroundColor() : void</text></g><!--MD5=[399e0238d4b7efd3ca5712657eaaf3a4]
+class UserSettings--><g id="elem_UserSettings"><rect codeLine="336" fill="#F1F1F1" height="96.8906" id="UserSettings" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="197" x="2883" y="425"/><ellipse cx="2932.75" cy="441" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2935.7188,446.6406 Q2935.1406,446.9375 2934.5,447.0781 Q2933.8594,447.2344 2933.1563,447.2344 Q2930.6563,447.2344 2929.3281,445.5938 Q2928.0156,443.9375 2928.0156,440.8125 Q2928.0156,437.6875 2929.3281,436.0313 Q2930.6563,434.375 2933.1563,434.375 Q2933.8594,434.375 2934.5,434.5313 Q2935.1563,434.6875 2935.7188,434.9844 L2935.7188,437.7031 Q2935.0938,437.125 2934.5,436.8594 Q2933.9063,436.5781 2933.2813,436.5781 Q2931.9375,436.5781 2931.25,437.6563 Q2930.5625,438.7188 2930.5625,440.8125 Q2930.5625,442.9063 2931.25,443.9844 Q2931.9375,445.0469 2933.2813,445.0469 Q2933.9063,445.0469 2934.5,444.7813 Q2935.0938,444.5 2935.7188,443.9219 L2935.7188,446.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="2953.25" y="445.8467">UserSettings</text><line style="stroke:#181818;stroke-width:0.5;" x1="2884" x2="3079" y1="457" y2="457"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2891" y="467.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="2903" y="473.9951">userName : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2891" y="483.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="2903" y="490.292">foregroundColor : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2891" y="500.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="2903" y="506.5889">backgroundColor : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="2884" x2="3079" y1="513.8906" y2="513.8906"/></g><!--MD5=[53f7049735968970db038dbdae961a19]
+class UserSettingsManager--><g id="elem_UserSettingsManager"><rect codeLine="341" fill="#F1F1F1" height="145.7813" id="UserSettingsManager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="213" x="2875" y="104.5"/><ellipse cx="2904.4" cy="120.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2907.3688,126.1406 Q2906.7906,126.4375 2906.15,126.5781 Q2905.5094,126.7344 2904.8063,126.7344 Q2902.3063,126.7344 2900.9781,125.0938 Q2899.6656,123.4375 2899.6656,120.3125 Q2899.6656,117.1875 2900.9781,115.5313 Q2902.3063,113.875 2904.8063,113.875 Q2905.5094,113.875 2906.15,114.0313 Q2906.8063,114.1875 2907.3688,114.4844 L2907.3688,117.2031 Q2906.7438,116.625 2906.15,116.3594 Q2905.5563,116.0781 2904.9313,116.0781 Q2903.5875,116.0781 2902.9,117.1563 Q2902.2125,118.2188 2902.2125,120.3125 Q2902.2125,122.4063 2902.9,123.4844 Q2903.5875,124.5469 2904.9313,124.5469 Q2905.5563,124.5469 2906.15,124.2813 Q2906.7438,124 2907.3688,123.4219 L2907.3688,126.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="2921.6" y="125.3467">UserSettingsManager</text><line style="stroke:#181818;stroke-width:0.5;" x1="2876" x2="3087" y1="136.5" y2="136.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2883" y="147.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="2895" y="153.4951">settingsFile : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2883" y="163.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="2895" y="169.792">userSettings : Dictionary</text><line style="stroke:#181818;stroke-width:0.5;" x1="2876" x2="3087" y1="177.0938" y2="177.0938"/><ellipse cx="2886" cy="190.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="2895" y="194.0889">LoadSettings() : void</text><ellipse cx="2886" cy="207.0391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="2895" y="210.3857">SaveSettings() : void</text><ellipse cx="2886" cy="223.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="2895" y="226.6826">GetSettingsForUser() : void</text><ellipse cx="2886" cy="239.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="2895" y="242.9795">UpdateSettings() : void</text></g><!--MD5=[91c01f0e2bea38a638656c1e3bd64e3c]
+reverse link Document to PlainTextDocument--><g id="link_Document_PlainTextDocument"><path codeLine="31" d="M1640.81,1338.58 C1655.54,1363.31 1669.65,1387 1680.83,1405.77 " fill="none" id="Document-backto-PlainTextDocument" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1634.77,1342.11,1630.55,1321.35,1646.8,1334.95,1634.77,1342.11" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[efe28b8f19c33219c20dc002a9b61206]
+reverse link Document to MarkdownDocument--><g id="link_Document_MarkdownDocument"><path codeLine="32" d="M1732.41,1319.04 C1776.83,1350.58 1821.21,1382.1 1854.56,1405.77 " fill="none" id="Document-backto-MarkdownDocument" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1728.32,1324.72,1716.07,1307.44,1736.43,1313.31,1728.32,1324.72" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ba132cf8b4ffff129fdb424de164ef62]
+reverse link Document to RichTextDocument--><g id="link_Document_RichTextDocument"><path codeLine="33" d="M1734.86,1258.28 C1821.39,1291.99 1925.45,1335.61 2015.5,1382 C2029.4,1389.16 2043.89,1397.62 2057.41,1405.99 " fill="none" id="Document-backto-RichTextDocument" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1732.23,1264.77,1716.11,1251.03,1737.28,1251.72,1732.23,1264.77" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[229f34dbd6d94eed0346b6b13bd5ebf1]
+link Document to DocumentType--><g id="link_Document_DocumentType"><path codeLine="35" d="M1390.75,1221.2 C1251.12,1250.14 1047,1301.88 882.5,1382 C878.3,1384.04 874.1,1386.29 869.92,1388.69 " fill="none" id="Document-to-DocumentType" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="865.41,1391.34,875.1945,1390.2161,869.7175,1388.8012,871.1324,1383.3241,865.41,1391.34" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[932ce01be6119711fd8e0c6ce52724c1]
+link Document to UserRole--><g id="link_Document_UserRole"><path codeLine="36" d="M1390.92,1222.48 C1287.45,1246.72 1153.47,1287.34 1047.5,1351 C1028.46,1362.44 1010.34,1378.39 995.08,1393.94 " fill="none" id="Document-to-UserRole" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="991.26,1397.88,1000.3939,1394.1961,994.7378,1394.2877,994.6462,1388.6316,991.26,1397.88" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[626f79ddcc42ac20ae6d2df4aaa9346d]
+link Document to DocumentHistory--><g id="link_Document_DocumentHistory"><path codeLine="37" d="M1716.21,1246.95 C1789.81,1270.99 1878.14,1298.74 1958.5,1321 C2072.05,1352.46 2102.98,1350.43 2216.5,1382 C2232.5,1386.45 2249.13,1391.35 2265.67,1396.39 " fill="none" id="Document-to-DocumentHistory" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="2270.8,1397.96,2263.3784,1391.4854,2266.022,1396.4866,2261.0209,1399.1302,2270.8,1397.96" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f0f9992e8589eab58d7bd0b3093df309]
+reverse link Document to DocumentDecorator--><g id="link_Document_DocumentDecorator"><path d="M1386.99,1334.6 C1367.78,1351.05 1348.99,1367.15 1331.95,1381.74 " fill="none" id="Document-backto-DocumentDecorator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1382.72,1329.04,1402.47,1321.35,1391.83,1339.68,1382.72,1329.04" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6b1d37792ba8a777dcbd5ca1c5c8ebb6]
+reverse link DocumentDecorator to BoldDecorator--><g id="link_DocumentDecorator_BoldDecorator"><path codeLine="57" d="M1285.8,1529.99 C1292.95,1550.84 1300.19,1571.97 1305.85,1588.45 " fill="none" id="DocumentDecorator-backto-BoldDecorator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1279.17,1532.25,1279.3,1511.06,1292.41,1527.7,1279.17,1532.25" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e5c50e24aa67579baf647b354f4dd880]
+reverse link DocumentDecorator to ItalicDecorator--><g id="link_DocumentDecorator_ItalicDecorator"><path codeLine="58" d="M1191.84,1526.48 C1173.57,1548.45 1154.79,1571.04 1140.31,1588.45 " fill="none" id="DocumentDecorator-backto-ItalicDecorator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1186.49,1521.96,1204.66,1511.06,1197.25,1530.91,1186.49,1521.96" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[72795bd469442baf86ac1e3e48678e48]
+reverse link DocumentDecorator to UnderlineDecorator--><g id="link_DocumentDecorator_UnderlineDecorator"><path codeLine="59" d="M1371.08,1522.35 C1406.35,1545.6 1443.31,1569.95 1471.39,1588.45 " fill="none" id="DocumentDecorator-backto-UnderlineDecorator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1366.79,1527.91,1353.95,1511.06,1374.5,1516.22,1366.79,1527.91" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d1bf6a01270b8c1e6f909b38ccd596d1]
+reverse link BoldDecorator to Document--><g id="link_BoldDecorator_Document"><path codeLine="61" d="M1344.19,1576.92 C1356.82,1557.08 1371.77,1533.05 1384.5,1511 C1420.06,1449.39 1457.31,1379.71 1487.76,1321.22 " fill="none" id="BoldDecorator-backto-Document" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1337.05,1588.06,1343.6554,1585.1672,1343.5258,1577.9573,1336.9203,1580.8501,1337.05,1588.06" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1457.5" y="1451.0669">wraps</text></g><!--MD5=[79a97c84b1bc83b2336f9338dda645a7]
+reverse link ItalicDecorator to Document--><g id="link_ItalicDecorator_Document"><path codeLine="62" d="M1094.61,1576.16 C1074.49,1525.21 1051.46,1440.23 1090.5,1382 C1157.1,1282.68 1285.9,1235.24 1390.78,1212.6 " fill="none" id="ItalicDecorator-backto-Document" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1099.62,1588.34,1101.0393,1581.2699,1095.059,1577.2406,1093.6397,1584.3106,1099.62,1588.34" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1091.5" y="1451.0669">wraps</text></g><!--MD5=[9effe524b1672665e5c193d7eff7b09d]
+reverse link UnderlineDecorator to Document--><g id="link_UnderlineDecorator_Document"><path codeLine="63" d="M1522.11,1575.45 C1526.97,1515.99 1535.85,1407.56 1542.93,1321.13 " fill="none" id="UnderlineDecorator-backto-Document" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1521.04,1588.42,1525.5147,1582.7651,1522.0158,1576.4597,1517.5412,1582.1146,1521.04,1588.42" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1539.5" y="1451.0669">wraps</text></g><!--MD5=[3fb9bf0c7477a6cdd5febfbc6a0fbcc7]
+reverse link IDocumentAdapter to TxtAdapter--><g id="link_IDocumentAdapter_TxtAdapter"><path codeLine="95" d="M541.44,745.4 C568.51,786.72 604.57,841.77 628.61,878.47 " fill="none" id="IDocumentAdapter-backto-TxtAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="535.56,749.19,530.46,728.63,547.27,741.52,535.56,749.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5c3cff8590ba70cfa1000cbb9bc7539f]
+reverse link IDocumentAdapter to MdAdapter--><g id="link_IDocumentAdapter_MdAdapter"><path codeLine="96" d="M593.62,738.76 C641.03,766.32 699.67,802.19 749.5,838 C766.66,850.33 784.6,864.95 800.22,878.29 " fill="none" id="IDocumentAdapter-backto-MdAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="589.86,744.67,576.04,728.61,596.86,732.54,589.86,744.67" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[dea25a9d318314af3e805ccfa0eb6518]
+reverse link IDocumentAdapter to RtfAdapter--><g id="link_IDocumentAdapter_RtfAdapter"><path codeLine="97" d="M404.32,726.7 C338.16,753.54 250.84,792.79 179.5,838 C161.11,849.66 142.44,864.57 126.58,878.35 " fill="none" id="IDocumentAdapter-backto-RtfAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="402.08,720.05,423.25,719.11,407.29,733.05,402.08,720.05" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1ec11767d5299b307498e9469f00ac02]
+reverse link IDocumentAdapter to JsonAdapter--><g id="link_IDocumentAdapter_JsonAdapter"><path codeLine="98" d="M450.34,742.93 C408.58,784.5 351.8,841.03 314.2,878.47 " fill="none" id="IDocumentAdapter-backto-JsonAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="445.59,737.78,464.7,728.63,455.47,747.7,445.59,737.78" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[12ef732e57db33275c859da2423b38fa]
+reverse link IDocumentAdapter to XmlAdapter--><g id="link_IDocumentAdapter_XmlAdapter"><path codeLine="99" d="M494.11,748.47 C486.96,789.41 477.66,842.67 471.4,878.47 " fill="none" id="IDocumentAdapter-backto-XmlAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="487.24,747.12,497.58,728.63,501.03,749.53,487.24,747.12" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a1f2c24824fef4772797090a5678ab19]
+link AdapterFactory to IDocumentAdapter--><g id="link_AdapterFactory_IDocumentAdapter"><path codeLine="101" d="M674.14,505.86 C640.1,542.2 583.78,602.35 545.45,643.28 " fill="none" id="AdapterFactory-to-IDocumentAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="541.8,647.17,550.8731,643.3387,545.2192,643.5219,545.0361,637.868,541.8,647.17" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[70e9fc56693eff6addfa1c1f9ce2b0ea]
+reverse link IDocumentCommand to InsertTextCommand--><g id="link_IDocumentCommand_InsertTextCommand"><path codeLine="164" d="M1561.5,748.9 C1561.5,778.5 1561.5,814.45 1561.5,845.59 " fill="none" id="IDocumentCommand-backto-InsertTextCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1554.5,748.63,1561.5,728.63,1568.5,748.63,1554.5,748.63" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c41a724cd0744ed7e6abbc7747d79b0e]
+reverse link IDocumentCommand to DeleteTextCommand--><g id="link_IDocumentCommand_DeleteTextCommand"><path codeLine="165" d="M1453.35,730.73 C1387.02,757.97 1301.32,796.16 1229.5,838 C1223.72,841.37 1217.88,844.98 1212.05,848.73 " fill="none" id="IDocumentCommand-backto-DeleteTextCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1450.79,724.21,1471.96,723.16,1456.06,737.18,1450.79,724.21" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b2aaa7bfb670bdb96be485f2cf8612f8]
+reverse link IDocumentCommand to CopyTextCommand--><g id="link_IDocumentCommand_CopyTextCommand"><path codeLine="166" d="M1614.45,743.37 C1644.21,773.94 1681.75,812.49 1713.99,845.59 " fill="none" id="IDocumentCommand-backto-CopyTextCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1609.03,747.84,1600.09,728.63,1619.06,738.07,1609.03,747.84" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b9f9ce99d12abcfc101233bcfa313109]
+reverse link IDocumentCommand to PasteTextCommand--><g id="link_IDocumentCommand_PasteTextCommand"><path codeLine="167" d="M1613.44,742.11 C1629.75,755.75 1648.71,768.86 1668.5,777 C1736.71,805.05 2260.21,812.72 2329.5,838 C2335.67,840.25 2341.82,842.92 2347.88,845.89 " fill="none" id="IDocumentCommand-backto-PasteTextCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1608.68,747.25,1598.37,728.74,1617.98,736.78,1608.68,747.25" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8768ad46163a00714c2633ef600db3da]
+reverse link IDocumentCommand to CutTextCommand--><g id="link_IDocumentCommand_CutTextCommand"><path codeLine="168" d="M1616.85,741.96 C1632.6,754.89 1650.42,767.67 1668.5,777 C1760.57,824.52 1800.16,793.03 1893.5,838 C1899.32,840.8 1905.14,843.92 1910.9,847.27 " fill="none" id="IDocumentCommand-backto-CutTextCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1611.87,746.92,1601.25,728.58,1620.99,736.3,1611.87,746.92" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[778cbf362440751429041e9754673272]
+reverse link IDocumentCommand to EditTextCommand--><g id="link_IDocumentCommand_EditTextCommand"><path codeLine="169" d="M1614.1,741.89 C1630.32,755.4 1649.06,768.49 1668.5,777 C1759.54,816.84 2019.4,800.68 2111.5,838 C2122.27,842.36 2132.95,848.03 2143.17,854.33 " fill="none" id="IDocumentCommand-backto-EditTextCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1609.47,747.15,1599.08,728.68,1618.72,736.64,1609.47,747.15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8cccd9b3cb5f844188f8acad16273aa8]
+reverse link IDocumentCommand to FindTextCommand--><g id="link_IDocumentCommand_FindTextCommand"><path codeLine="170" d="M1508.67,743.25 C1473.76,779.1 1428.12,825.97 1392.89,862.15 " fill="none" id="IDocumentCommand-backto-FindTextCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1503.94,738.07,1522.91,728.63,1513.97,747.84,1503.94,738.07" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8f2a0d6077dde239f765ae4df8543a75]
+link InsertTextCommand to Document--><g id="link_InsertTextCommand_Document"><path codeLine="172" d="M1559.37,992 C1558.78,1011.75 1558.13,1033.82 1557.47,1055.86 " fill="none" id="InsertTextCommand-to-Document" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1557.33,1060.86,1561.6115,1051.9905,1557.4875,1055.8625,1553.6155,1051.7385,1557.33,1060.86" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[97e1021450ad1890b4c9358a6179daab]
+link DeleteTextCommand to Document--><g id="link_DeleteTextCommand_Document"><path codeLine="173" d="M1212.2,988.33 C1218.01,992.34 1223.81,996.26 1229.5,1000 C1279.48,1032.87 1335.24,1066.58 1386.22,1096.3 " fill="none" id="DeleteTextCommand-to-Document" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1390.82,1098.98,1385.0582,1090.9924,1386.5001,1096.4624,1381.0301,1097.9043,1390.82,1098.98" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[69b780a5cad453731fab8a14432eb3c3]
+link CopyTextCommand to Document--><g id="link_CopyTextCommand_Document"><path codeLine="174" d="M1722.9,992 C1705.72,1012.08 1686.48,1034.57 1667.31,1056.98 " fill="none" id="CopyTextCommand-to-Document" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1663.98,1060.86,1672.8649,1056.6106,1667.2257,1057.0567,1666.7796,1051.4174,1663.98,1060.86" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4eac042dfae0820525ea0e20878e15f1]
+link CopyTextCommand to Clipboard--><g id="link_CopyTextCommand_Clipboard"><path codeLine="175" d="M1876,991.84 C1881.77,994.88 1887.62,997.64 1893.5,1000 C1989.38,1038.56 2266.22,1007.29 2354.5,1061 C2383.83,1078.85 2406.06,1110.28 2421.09,1137.65 " fill="none" id="CopyTextCommand-to-Clipboard" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="2423.62,1142.35,2422.8712,1132.5296,2421.2478,1137.9486,2415.8289,1136.3252,2423.62,1142.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f05ca72f78b5dab9c6e79bc08d6f23cd]
+link PasteTextCommand to Document--><g id="link_PasteTextCommand_Document"><path codeLine="176" d="M2347.34,991.76 C2341.44,994.8 2335.47,997.58 2329.5,1000 C2174.65,1062.82 2120.98,1021.98 1958.5,1061 C1879.34,1080.01 1793.18,1106.59 1720.77,1130.69 " fill="none" id="PasteTextCommand-to-Document" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1716.02,1132.28,1725.8239,1133.2198,1720.762,1130.6946,1723.2872,1125.6326,1716.02,1132.28" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2ad63d684af9349b8795afffa779582e]
+link PasteTextCommand to Clipboard--><g id="link_PasteTextCommand_Clipboard"><path codeLine="177" d="M2444.5,992 C2444.5,1037.69 2444.5,1095.8 2444.5,1137.22 " fill="none" id="PasteTextCommand-to-Clipboard" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="2444.5,1142.44,2448.5,1133.44,2444.5,1137.44,2440.5,1133.44,2444.5,1142.44" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[483b8e49ed2c4cf23290264b227864db]
+link CutTextCommand to Document--><g id="link_CutTextCommand_Document"><path codeLine="178" d="M1910.89,988.47 C1905.05,992.44 1899.23,996.32 1893.5,1000 C1838.59,1035.3 1776.75,1071 1721,1101.77 " fill="none" id="CutTextCommand-to-Document" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1716.32,1104.35,1726.1321,1103.5004,1720.6968,1101.9327,1722.2645,1096.4974,1716.32,1104.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8c9a608f7b5cba1df8faaa0c6cef22e6]
+link CutTextCommand to Clipboard--><g id="link_CutTextCommand_Clipboard"><path codeLine="179" d="M2094.03,990.86 C2099.81,994.17 2105.66,997.25 2111.5,1000 C2212.27,1047.38 2262.84,997.78 2354.5,1061 C2382.34,1080.2 2404.3,1111.01 2419.56,1137.71 " fill="none" id="CutTextCommand-to-Clipboard" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="2422.14,1142.29,2421.2277,1132.4835,2419.6948,1137.9287,2414.2496,1136.3958,2422.14,1142.29" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b4bcaab8b70f11f369196ba81d903c50]
+link EditTextCommand to Document--><g id="link_EditTextCommand_Document"><path codeLine="180" d="M2139.2,983.7 C2130.1,989.6 2120.76,995.17 2111.5,1000 C2075.71,1018.67 1872.06,1086.5 1721.06,1135.8 " fill="none" id="EditTextCommand-to-Document" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1716.16,1137.4,1725.9578,1138.4018,1720.9119,1135.8446,1723.4691,1130.7987,1716.16,1137.4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8c8439d0d9e14e98c8a4dfcbfec36ea5]
+link FindTextCommand to Document--><g id="link_FindTextCommand_Document"><path codeLine="181" d="M1382.79,975.62 C1401.65,999.31 1424.54,1028.05 1447.35,1056.7 " fill="none" id="FindTextCommand-to-Document" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1450.72,1060.92,1448.2467,1051.3867,1447.607,1057.0073,1441.9864,1056.3676,1450.72,1060.92" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b26acb33117106cf029d3f953bc3c5ce]
+reverse link UndoRedoManager to IDocumentCommand--><g id="link_UndoRedoManager_IDocumentCommand"><path codeLine="192" d="M1470.76,549.27 C1492.53,582.32 1517.25,619.83 1535.38,647.35 " fill="none" id="UndoRedoManager-backto-IDocumentCommand" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1463.5,538.26,1463.4626,545.471,1470.1046,548.2789,1470.1419,541.0679,1463.5,538.26" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1459.8938" y="558.6616">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="1492.0726" y="636.4867">many</text></g><!--MD5=[316938a2b6765d5666bb94f51f91f3fd]
+link DocumentManager to UndoRedoManager--><g id="link_DocumentManager_UndoRedoManager"><path codeLine="230" d="M1262.31,348.03 C1288.25,368.31 1313.44,388.01 1335.84,405.52 " fill="none" id="DocumentManager-to-UndoRedoManager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1339.99,408.77,1335.3481,400.0836,1336.0455,405.6973,1330.4319,406.3948,1339.99,408.77" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c1804d232548ceae3bbc4d35c18218c5]
+link DocumentManager to IStorage--><g id="link_DocumentManager_IStorage"><path codeLine="231" d="M1283.11,268.41 C1413.16,317.61 1569.9,376.92 1680.83,418.89 " fill="none" id="DocumentManager-to-IStorage" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1685.75,420.76,1678.753,413.8288,1681.0748,418.9872,1675.9165,421.309,1685.75,420.76" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b9d881f976ac70cd56c66d017cc868d1]
+link DocumentManager to AdapterFactory--><g id="link_DocumentManager_AdapterFactory"><path codeLine="232" d="M848.04,348.24 C808.38,382.34 770.66,414.77 743.7,437.94 " fill="none" id="DocumentManager-to-AdapterFactory" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="739.8,441.29,749.2365,438.4699,743.5963,438.036,744.0301,432.3959,739.8,441.29" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1afa5217e8b13983658c281fbb07d13e]
+reverse link DocumentManager to Document--><g id="link_DocumentManager_Document"><path codeLine="233" d="M988.19,361.12 C980.67,397.64 975.5,436.01 975.5,472.5 C975.5,472.5 975.5,472.5 975.5,920 C975.5,1104.41 1220,1163.15 1390.96,1181.69 " fill="none" id="DocumentManager-backto-Document" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="990.95,348.28,985.7801,353.3071,988.432,360.0129,993.602,354.9857,990.95,348.28" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="980.297" y="368.4204">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="1346.7793" y="1178.0014">many</text></g><!--MD5=[ea15e6328359480b4f2c5492023130b9]
+reverse link IStorage to LocalStorage--><g id="link_IStorage_LocalStorage"><path codeLine="261" d="M1822.5,550.29 C1822.5,574.13 1822.5,600.2 1822.5,623.12 " fill="none" id="IStorage-backto-LocalStorage" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1815.5,550.05,1822.5,530.05,1829.5,550.05,1815.5,550.05" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[67c943908cec5ba0375a537e42ce6d71]
+reverse link IStorage to CloudStorage--><g id="link_IStorage_CloudStorage"><path codeLine="262" d="M1919.52,541.44 C1945.92,559.65 1974.93,579.67 2002.75,598.86 " fill="none" id="IStorage-backto-CloudStorage" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1915.51,547.17,1903.02,530.05,1923.46,535.65,1915.51,547.17" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[da0734bf1341691b964140b1454d0f16]
+reverse link IDocumentHistory to DocumentHistory--><g id="link_IDocumentHistory_DocumentHistory"><path codeLine="280" d="M2211.3,1245.84 C2257.21,1290.95 2322.11,1354.72 2366.12,1397.97 " fill="none" id="IDocumentHistory-backto-DocumentHistory" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="2206.17,1250.62,2196.81,1231.61,2215.98,1240.63,2206.17,1250.62" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f37c21796525d96fe0fed2ed52812e08]
+reverse link DocumentHistory to DocumentVersion--><g id="link_DocumentHistory_DocumentVersion"><path codeLine="281" d="M2414.5,1508.69 C2414.5,1529.44 2414.5,1552.3 2414.5,1571.85 " fill="none" id="DocumentHistory-backto-DocumentVersion" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="2414.5,1495.41,2410.5,1501.41,2414.5,1507.41,2418.5,1501.41,2414.5,1495.41" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[04099762baa36f536b34882b20eeb77e]
+link UserManager to User--><g id="link_UserManager_User"><path codeLine="300" d="M2068.5,266.71 C2068.5,316.61 2068.5,377.32 2068.5,419.83 " fill="none" id="UserManager-to-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="2068.5,424.92,2072.5,415.92,2068.5,419.92,2064.5,415.92,2068.5,424.92" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2d858e62d256d3bf35dc61fd181b08cf]
+reverse link NotificationService to Notification--><g id="link_NotificationService_Notification"><path codeLine="318" d="M2350.5,264.02 C2350.5,313.19 2350.5,373.55 2350.5,416.65 " fill="none" id="NotificationService-backto-Notification" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="2350.5,250.8,2346.5,256.8,2350.5,262.8,2354.5,256.8,2350.5,250.8" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[58f25e07af4094d4fc2c1ed9c72b0ed1]
+link UserSettingsManager to UserSettings--><g id="link_UserSettingsManager_UserSettings"><path codeLine="350" d="M2981.5,250.8 C2981.5,303.13 2981.5,372.66 2981.5,419.8 " fill="none" id="UserSettingsManager-to-UserSettings" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="2981.5,424.86,2985.5,415.86,2981.5,419.86,2977.5,415.86,2981.5,424.86" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6b3135d8e8512766884173c0b4c1bb2e]
+@startuml
+' - - - Документы и их наследники - - -
+abstract class Document {
+  - Permissions : Dictionary<string, UserRole>
+  - name : string
+  - type : DocumentType
+  - content : string
+  - createdAt : DateTime
+  - updatedAt : DateTime
+  - history : DocumentHistory
+  + AssignRole() : void
+  + Open() : void
+  + Edit() : void
+  + Save() : void
+  + Format() : void
+  + SaveVersion() : void
+}
+
+class PlainTextDocument {
+  + Open() : void
+  + Save() : void
+}
+class MarkdownDocument {
+  + Open() : void
+  + Save() : void
+}
+class RichTextDocument {
+  + Open() : void
+  + Save() : void
+}
+
+Document <|- - PlainTextDocument
+Document <|- - MarkdownDocument
+Document <|- - RichTextDocument
+
+Document ..> DocumentType
+Document ..> UserRole
+Document ..> DocumentHistory
+
+' - - - Декораторы документов - - -
+abstract class DocumentDecorator extends Document {
+  - innerDocument : Document
+  + Open() : string
+  + Save() : string
+  + Edit() : string
+  + Format() : string
+}
+class BoldDecorator {
+  + getContent() : string
+}
+class ItalicDecorator {
+  + getContent() : string
+}
+class UnderlineDecorator {
+  + getContent() : string
+}
+
+DocumentDecorator <|- - BoldDecorator
+DocumentDecorator <|- - ItalicDecorator
+DocumentDecorator <|- - UnderlineDecorator
+
+BoldDecorator *- - Document : wraps
+ItalicDecorator *- - Document : wraps
+UnderlineDecorator *- - Document : wraps
+
+' - - - Адаптеры сохранения документов - - -
+interface IDocumentAdapter {
+  + Save() : void
+  + Load() : Document
+}
+
+class TxtAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class MdAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class RtfAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class JsonAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class XmlAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class AdapterFactory {
+  + CreateAdapter() : IDocumentAdapter
+}
+
+IDocumentAdapter <|.. TxtAdapter
+IDocumentAdapter <|.. MdAdapter
+IDocumentAdapter <|.. RtfAdapter
+IDocumentAdapter <|.. JsonAdapter
+IDocumentAdapter <|.. XmlAdapter
+
+AdapterFactory ..> IDocumentAdapter
+
+' - - - Команды для редактирования - - -
+interface IDocumentCommand {
+  + Execute() : void
+  + Unexecute() : void
+}
+
+class InsertTextCommand {
+  - document : Document
+  - text : string
+  - position : int
+  - previousContent : string
+  + Execute() : void
+  + Unexecute() : void
+}
+class DeleteTextCommand {
+  - document : Document
+  - startIndex : int
+  - length : int
+  - deletedText : string
+  + Execute() : void
+  + Unexecute() : void
+}
+class CopyTextCommand {
+  - document : Document
+  - startIndex : int
+  - length : int
+  - clipboard : Clipboard
+  + Execute() : void
+  + Unexecute() : void
+}
+class PasteTextCommand {
+  - document : Document
+  - clipboard : Clipboard
+  - position : int
+  - previousContent : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+class CutTextCommand {
+  - document : Document
+  - startIndex : int
+  - clipboard : Clipboard
+  - length : int
+  - deletedText : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+class EditTextCommand {
+  - document : Document
+  - newText : string
+  - previousText : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+class FindTextCommand {
+  - document : Document
+  - searchText : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+
+IDocumentCommand <|.. InsertTextCommand
+IDocumentCommand <|.. DeleteTextCommand
+IDocumentCommand <|.. CopyTextCommand
+IDocumentCommand <|.. PasteTextCommand
+IDocumentCommand <|.. CutTextCommand
+IDocumentCommand <|.. EditTextCommand
+IDocumentCommand <|.. FindTextCommand
+
+InsertTextCommand ..> Document
+DeleteTextCommand ..> Document
+CopyTextCommand ..> Document
+CopyTextCommand ..> Clipboard
+PasteTextCommand ..> Document
+PasteTextCommand ..> Clipboard
+CutTextCommand ..> Document
+CutTextCommand ..> Clipboard
+EditTextCommand ..> Document
+FindTextCommand ..> Document
+
+' - - - Менеджер отмены/повтора - - -
+class UndoRedoManager {
+  - undoStack : Stack<DocumentCommand>
+  - redoStack : Stack<DocumentCommand>
+  + ExecuteCommand() : void
+  + Undo() : void
+  + Redo() : void
+}
+
+UndoRedoManager "1" o- - "many" IDocumentCommand
+
+' - - - Перечисления - - -
+enum DocumentType {
+  PlainText
+  Markdown
+  RichText
+  Json
+  Xml
+}
+enum UserRole {
+  Viewer
+  Editor
+  Administrator
+}
+
+' - - - Менеджер документов - - -
+class DocumentManager {
+  - documents : List<Document>
+  - storage : IStorage
+  - undoRedoManager : UndoRedoManager
+  - adapterFactory : AdapterFactory
+  + CreateDocumentByType() : Document
+  + CreateDocument() : Document
+  + DeleteDocument() : void
+  + ListDocuments() : List<Document>
+  + ListUsersForDocument() : Dictionary<string, UserRole>
+  + ChangeDocumentRole() : void
+  + GetUserRole() : UserRole
+  + GetPermissionsFilePath() : string
+  + DocumentFormatMapping() : Dictionary<DocumentType, string>
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ExecuteCommand() : void
+  + Undo() : void
+  + Redo() : void
+}
+
+DocumentManager - -> UndoRedoManager
+DocumentManager - -> IStorage
+DocumentManager - -> AdapterFactory
+DocumentManager "1" o- - "many" Document
+
+' - - - Интерфейс хранилища и его реализации - - -
+interface IStorage {
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ListDocuments() : List<Document>
+  + DeleteDocument() : void
+}
+
+class LocalStorage {
+  - folderPath : string
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ListDocuments() : List<Document>
+  + DeleteDocument() : void
+}
+class CloudStorage {
+  - driveService : DriveService
+  - folderName : string
+  - folderId : string 
+  + GetOrCreateFolder() : string
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ListDocuments() : List<Document>
+  + DeleteDocument() : void
+}
+
+IStorage <|.. LocalStorage
+IStorage <|.. CloudStorage
+
+' - - - Версионность документов - - -
+class DocumentVersion {
+  - content : string
+  - timestamp : DateTime
+  + ToString() : string
+}
+class DocumentHistory {
+  - versions : List<DocumentVersion>
+  + SaveVersion() : void
+  + GetVersion() : IEnumerable<DocumentVersion>
+}
+class IDocumentHistory {
+  + SaveVersion() : void
+  + GetVersion() : IEnumerable<DocumentVersion>
+}
+
+IDocumentHistory <|.. DocumentHistory
+DocumentHistory *- - DocumentVersion
+
+' - - - Пользователи и аутентификация - - -
+class User {
+  - username : string
+  - password : string
+  + ToString() : string
+}
+class UserManager {
+  - dataFile : string
+  - users : List<User>
+  + LoadUsers() : void
+  + SaveUsers() : void
+  + AddUser() : bool
+  + RemoveUser() : bool
+  + ListUsers() : List<User>
+  + Login() : User
+}
+
+UserManager - -> User
+
+' - - - Уведомления - - -
+class Notification {
+  - message : string
+  - originator : string
+  - timestamp : DateTime
+  + ToString() : string
+}
+class NotificationService {
+  - notificationsFile : string
+  - PendingNotifications : List<Notification>
+  + LoadNotifications() : List<Notification>
+  + SaveNotifications() : void
+  + AddNotifications() : void
+  + ShowNotificationsForUser() : void
+}
+
+NotificationService o- - Notification
+
+' - - - Глобальные настройки - - -
+class SettingsManager {
+  - instance : SettingsManager
+  - currentForegroundColor : ConsoleColor
+  - currentBackgroundColor : ConsoleColor
+  + ApplySettings() : void
+  + ResetSettings() : void
+  + SetForegroundColor() : void
+  + SetBackgroundColor() : void
+}
+
+class Clipboard {
+  - text : string
+  + Store() : void
+  + Retrieve() : string
+}
+class UserSettings {
+  - userName : string
+  - foregroundColor : string
+  - backgroundColor : string
+}
+class UserSettingsManager {
+  - settingsFile : string
+  - userSettings : Dictionary
+  + LoadSettings() : void
+  + SaveSettings() : void
+  + GetSettingsForUser() : void
+  + UpdateSettings() : void
+}
+
+UserSettingsManager - -> UserSettings
+@enduml
+
+@startuml
+abstract class Document {
+  - Permissions : Dictionary<string, UserRole>
+  - name : string
+  - type : DocumentType
+  - content : string
+  - createdAt : DateTime
+  - updatedAt : DateTime
+  - history : DocumentHistory
+  + AssignRole() : void
+  + Open() : void
+  + Edit() : void
+  + Save() : void
+  + Format() : void
+  + SaveVersion() : void
+}
+
+class PlainTextDocument {
+  + Open() : void
+  + Save() : void
+}
+class MarkdownDocument {
+  + Open() : void
+  + Save() : void
+}
+class RichTextDocument {
+  + Open() : void
+  + Save() : void
+}
+
+Document <|- - PlainTextDocument
+Document <|- - MarkdownDocument
+Document <|- - RichTextDocument
+
+Document ..> DocumentType
+Document ..> UserRole
+Document ..> DocumentHistory
+
+abstract class DocumentDecorator extends Document {
+  - innerDocument : Document
+  + Open() : string
+  + Save() : string
+  + Edit() : string
+  + Format() : string
+}
+class BoldDecorator {
+  + getContent() : string
+}
+class ItalicDecorator {
+  + getContent() : string
+}
+class UnderlineDecorator {
+  + getContent() : string
+}
+
+DocumentDecorator <|- - BoldDecorator
+DocumentDecorator <|- - ItalicDecorator
+DocumentDecorator <|- - UnderlineDecorator
+
+BoldDecorator *- - Document : wraps
+ItalicDecorator *- - Document : wraps
+UnderlineDecorator *- - Document : wraps
+
+interface IDocumentAdapter {
+  + Save() : void
+  + Load() : Document
+}
+
+class TxtAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class MdAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class RtfAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class JsonAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class XmlAdapter {
+  + Save() : void
+  + Load() : Document
+}
+class AdapterFactory {
+  + CreateAdapter() : IDocumentAdapter
+}
+
+IDocumentAdapter <|.. TxtAdapter
+IDocumentAdapter <|.. MdAdapter
+IDocumentAdapter <|.. RtfAdapter
+IDocumentAdapter <|.. JsonAdapter
+IDocumentAdapter <|.. XmlAdapter
+
+AdapterFactory ..> IDocumentAdapter
+
+interface IDocumentCommand {
+  + Execute() : void
+  + Unexecute() : void
+}
+
+class InsertTextCommand {
+  - document : Document
+  - text : string
+  - position : int
+  - previousContent : string
+  + Execute() : void
+  + Unexecute() : void
+}
+class DeleteTextCommand {
+  - document : Document
+  - startIndex : int
+  - length : int
+  - deletedText : string
+  + Execute() : void
+  + Unexecute() : void
+}
+class CopyTextCommand {
+  - document : Document
+  - startIndex : int
+  - length : int
+  - clipboard : Clipboard
+  + Execute() : void
+  + Unexecute() : void
+}
+class PasteTextCommand {
+  - document : Document
+  - clipboard : Clipboard
+  - position : int
+  - previousContent : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+class CutTextCommand {
+  - document : Document
+  - startIndex : int
+  - clipboard : Clipboard
+  - length : int
+  - deletedText : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+class EditTextCommand {
+  - document : Document
+  - newText : string
+  - previousText : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+class FindTextCommand {
+  - document : Document
+  - searchText : dtring
+  + Execute() : void
+  + Unexecute() : void
+}
+
+IDocumentCommand <|.. InsertTextCommand
+IDocumentCommand <|.. DeleteTextCommand
+IDocumentCommand <|.. CopyTextCommand
+IDocumentCommand <|.. PasteTextCommand
+IDocumentCommand <|.. CutTextCommand
+IDocumentCommand <|.. EditTextCommand
+IDocumentCommand <|.. FindTextCommand
+
+InsertTextCommand ..> Document
+DeleteTextCommand ..> Document
+CopyTextCommand ..> Document
+CopyTextCommand ..> Clipboard
+PasteTextCommand ..> Document
+PasteTextCommand ..> Clipboard
+CutTextCommand ..> Document
+CutTextCommand ..> Clipboard
+EditTextCommand ..> Document
+FindTextCommand ..> Document
+
+class UndoRedoManager {
+  - undoStack : Stack<DocumentCommand>
+  - redoStack : Stack<DocumentCommand>
+  + ExecuteCommand() : void
+  + Undo() : void
+  + Redo() : void
+}
+
+UndoRedoManager "1" o- - "many" IDocumentCommand
+
+enum DocumentType {
+  PlainText
+  Markdown
+  RichText
+  Json
+  Xml
+}
+enum UserRole {
+  Viewer
+  Editor
+  Administrator
+}
+
+class DocumentManager {
+  - documents : List<Document>
+  - storage : IStorage
+  - undoRedoManager : UndoRedoManager
+  - adapterFactory : AdapterFactory
+  + CreateDocumentByType() : Document
+  + CreateDocument() : Document
+  + DeleteDocument() : void
+  + ListDocuments() : List<Document>
+  + ListUsersForDocument() : Dictionary<string, UserRole>
+  + ChangeDocumentRole() : void
+  + GetUserRole() : UserRole
+  + GetPermissionsFilePath() : string
+  + DocumentFormatMapping() : Dictionary<DocumentType, string>
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ExecuteCommand() : void
+  + Undo() : void
+  + Redo() : void
+}
+
+DocumentManager - -> UndoRedoManager
+DocumentManager - -> IStorage
+DocumentManager - -> AdapterFactory
+DocumentManager "1" o- - "many" Document
+
+interface IStorage {
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ListDocuments() : List<Document>
+  + DeleteDocument() : void
+}
+
+class LocalStorage {
+  - folderPath : string
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ListDocuments() : List<Document>
+  + DeleteDocument() : void
+}
+class CloudStorage {
+  - driveService : DriveService
+  - folderName : string
+  - folderId : string 
+  + GetOrCreateFolder() : string
+  + SaveDocument() : void
+  + LoadDocument() : Document
+  + ListDocuments() : List<Document>
+  + DeleteDocument() : void
+}
+
+IStorage <|.. LocalStorage
+IStorage <|.. CloudStorage
+
+class DocumentVersion {
+  - content : string
+  - timestamp : DateTime
+  + ToString() : string
+}
+class DocumentHistory {
+  - versions : List<DocumentVersion>
+  + SaveVersion() : void
+  + GetVersion() : IEnumerable<DocumentVersion>
+}
+class IDocumentHistory {
+  + SaveVersion() : void
+  + GetVersion() : IEnumerable<DocumentVersion>
+}
+
+IDocumentHistory <|.. DocumentHistory
+DocumentHistory *- - DocumentVersion
+
+class User {
+  - username : string
+  - password : string
+  + ToString() : string
+}
+class UserManager {
+  - dataFile : string
+  - users : List<User>
+  + LoadUsers() : void
+  + SaveUsers() : void
+  + AddUser() : bool
+  + RemoveUser() : bool
+  + ListUsers() : List<User>
+  + Login() : User
+}
+
+UserManager - -> User
+
+class Notification {
+  - message : string
+  - originator : string
+  - timestamp : DateTime
+  + ToString() : string
+}
+class NotificationService {
+  - notificationsFile : string
+  - PendingNotifications : List<Notification>
+  + LoadNotifications() : List<Notification>
+  + SaveNotifications() : void
+  + AddNotifications() : void
+  + ShowNotificationsForUser() : void
+}
+
+NotificationService o- - Notification
+
+class SettingsManager {
+  - instance : SettingsManager
+  - currentForegroundColor : ConsoleColor
+  - currentBackgroundColor : ConsoleColor
+  + ApplySettings() : void
+  + ResetSettings() : void
+  + SetForegroundColor() : void
+  + SetBackgroundColor() : void
+}
+
+class Clipboard {
+  - text : string
+  + Store() : void
+  + Retrieve() : string
+}
+class UserSettings {
+  - userName : string
+  - foregroundColor : string
+  - backgroundColor : string
+}
+class UserSettingsManager {
+  - settingsFile : string
+  - userSettings : Dictionary
+  + LoadSettings() : void
+  + SaveSettings() : void
+  + GetSettingsForUser() : void
+  + UpdateSettings() : void
+}
+
+UserSettingsManager - -> UserSettings
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

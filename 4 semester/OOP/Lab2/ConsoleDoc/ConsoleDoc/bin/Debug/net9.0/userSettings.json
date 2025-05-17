@@ -1,0 +1,37 @@
+{
+  "ant": {
+    "Username": "ant",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Black"
+  },
+  "tra": {
+    "Username": "tra",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Black"
+  },
+  "anya": {
+    "Username": "anya",
+    "ForegroundColor": "Yellow",
+    "BackgroundColor": "Red"
+  },
+  "a": {
+    "Username": "a",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Black"
+  },
+  "tushinskaya": {
+    "Username": "tushinskaya",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Black"
+  },
+  "antika": {
+    "Username": "antika",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Black"
+  },
+  "ed": {
+    "Username": "ed",
+    "ForegroundColor": "Gray",
+    "BackgroundColor": "Black"
+  }
+}

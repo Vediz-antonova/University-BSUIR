@@ -1,0 +1,12 @@
+[
+  {
+    "Message": "Msg1",
+    "Originator": "UserA",
+    "Timestamp": "2025-05-02T14:47:39.9749175+03:00"
+  },
+  {
+    "Message": "Msg2",
+    "Originator": "UserB",
+    "Timestamp": "2025-05-02T14:47:39.9795843+03:00"
+  }
+]

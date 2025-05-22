@@ -1,0 +1,94 @@
+is_global = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = true
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Antonava__353504.UI
+build_property.ProjectDir = D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Pages/AttractionDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Pages.AttractionDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AttractionDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AttractionDetailsPage.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Pages/EditAttractionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Pages.EditAttractionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EditAttractionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EditAttractionPage.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Pages/MoveAttractionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Pages.MoveAttractionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MoveAttractionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MoveAttractionPage.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Pages/NewAttractionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Pages.NewAttractionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NewAttractionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NewAttractionPage.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Pages/NewTouristRoutePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Pages.NewTouristRoutePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NewTouristRoutePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NewTouristRoutePage.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Pages/TouristRoutesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Pages.TouristRoutesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TouristRoutesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TouristRoutesPage.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/University/C\#_4 sem/Lab7_8/Antonava__353504/Antonava__353504.UI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Antonava__353504.UI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

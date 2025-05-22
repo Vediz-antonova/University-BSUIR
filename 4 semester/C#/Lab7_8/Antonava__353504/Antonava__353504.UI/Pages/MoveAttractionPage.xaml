@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Antonava__353504.UI.ViewModels"
+             x:DataType="vm:MoveAttractionViewModel"
+             x:Class="Antonava__353504.UI.Pages.MoveAttractionPage">
+    
+    <StackLayout Padding="10">
+        <Label Text="Перемещение достопримечательности" FontSize="20" HorizontalOptions="Center" />
+        <Entry Placeholder="Название достопримечательности" Text="{Binding AttractionName}" />
+        <Entry Placeholder="ID нового туристического маршрута" Text="{Binding NewTouristRouteId}" />
+        <Button Text="Переместить" Command="{Binding MoveAttractionCommand}" />
+    </StackLayout>
+</ContentPage>

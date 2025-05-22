@@ -1,0 +1,15 @@
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\bin\Debug\net9.0\Antonava__353504.Persistense.deps.json
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\bin\Debug\net9.0\Antonava__353504.Persistense.dll
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\bin\Debug\net9.0\Antonava__353504.Persistense.pdb
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\bin\Debug\net9.0\Antonava__353504.Domain.dll
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\bin\Debug\net9.0\Antonava__353504.Domain.pdb
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava__353504.Persistense.csproj.AssemblyReference.cache
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava__353504.Persistense.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava__353504.Persistense.AssemblyInfoInputs.cache
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava__353504.Persistense.AssemblyInfo.cs
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava__353504.Persistense.csproj.CoreCompileInputs.cache
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava.1688B34E.Up2Date
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava__353504.Persistense.dll
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\refint\Antonava__353504.Persistense.dll
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\Antonava__353504.Persistense.pdb
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Persistense\obj\Debug\net9.0\ref\Antonava__353504.Persistense.dll

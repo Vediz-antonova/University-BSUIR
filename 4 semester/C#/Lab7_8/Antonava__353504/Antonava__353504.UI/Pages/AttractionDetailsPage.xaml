@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    x:Class="Antonava__353504.UI.Pages.AttractionDetailsPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:Antonava__353504.UI.ViewModels"
+    xmlns:converters="clr-namespace:Antonava__353504.UI.ValueConverters"
+    x:DataType="vm:AttractionDetailsViewModel"
+    Title="Детали достопримечательности">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!-- Регистрация конвертера для получения ImageSource по Id -->
+            <converters:IdToImageSourceValueConverter x:Key="IdToImageSourceConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+            <!-- Вывод изображения (если существует) или замещающего изображения -->
+            <Image Source="{Binding Attraction.Id, Converter={StaticResource IdToImageSourceConverter}}" 
+                   HeightRequest="200"/>
+
+            <!-- Вывод наименования и стоимости -->
+            <Label Text="{Binding Attraction.Name}" FontSize="24" FontAttributes="Bold" />
+            <Label Text="{Binding Attraction.EntranceFee, StringFormat='Стоимость: {0:C}'}" FontSize="18"/>
+
+            <!-- Кнопки для действий -->
+            <Button Text="Редактировать"
+                    Command="{Binding EditAttractionCommand}" />
+            <Button Text="Переместить в другую группу"
+                    Command="{Binding MoveAttractionCommand}" />
+            <Button Text="Выбрать изображение"
+                    Command="{Binding SelectAndSaveImageCommand}" />
+            <Button Text="Удалить данную достопримечательность"
+                    Command="{Binding DeleteAttractionCommand}"
+                    BackgroundColor="Red" TextColor="White"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

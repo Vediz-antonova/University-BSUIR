@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Antonava__353504.Domain/1.0.0": {
+        "runtime": {
+          "Antonava__353504.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antonava__353504.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

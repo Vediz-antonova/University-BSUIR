@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+            x:Name="RootPage"
+            x:Class="Antonava__353504.UI.Pages.TouristRoutesPage"
+            xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:models="clr-namespace:Antonava__353504.UI.ViewModels"
+            xmlns:attract="clr-namespace:Antonava__353504.Domain.Entities;assembly=Antonava__353504.Domain"
+            xmlns:converters="clr-namespace:Antonava__353504.UI.ValueConverters"
+            xmlns:vm="clr-namespace:Antonava__353504.UI.ViewModels"
+            xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+            x:DataType="models:TouristRoutesViewModel"
+            Title="Tourist Routes">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:EntranceFeeToColorValueConverter x:Key="EntranceFeeToColorConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Appearing"
+                                        BindingContext="{Binding BindingContext, Source={x:Reference RootPage}}"
+                                        Command="{Binding UpdateGroupListCommand}" />
+    </ContentPage.Behaviors>
+
+    <StackLayout Padding="10" Spacing="15">
+
+        <!-- Picker для выбора туристического маршрута (группы объектов) -->
+        <Picker ItemsSource="{Binding TouristRoutes}"
+                ItemDisplayBinding="{Binding Name}"
+                SelectedItem="{Binding SelectedTouristRoute}"
+                Title="Выберите маршрут">
+            <Picker.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="SelectedIndexChanged"
+                                                BindingContext="{Binding BindingContext, Source={x:Reference RootPage}}"
+                                                Command="{Binding UpdateMembersListCommand}" />
+            </Picker.Behaviors>
+        </Picker>
+
+        <!-- Вывод информации о выбранном маршруте -->
+        <Label Text="{Binding SelectedTouristRoute.Name}"
+               FontSize="20"
+               HorizontalOptions="Center" />
+
+        <!-- CollectionView для отображения списка достопримечательностей выбранного маршрута -->
+        <CollectionView ItemsSource="{Binding Attractions}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="attract:Attraction">
+                    <Border Stroke="{Binding EntranceFee, Converter={StaticResource EntranceFeeToColorConverter}}"
+                    Margin="0,1" StrokeThickness="2" StrokeShape="RoundRectangle 25,25,25,25">
+                        <Grid Padding="10">
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer 
+                            Command="{Binding Source={RelativeSource AncestorType={x:Type vm:TouristRoutesViewModel}}, Path=ShowDetailsCommand}"
+                            CommandParameter="{Binding}"/>
+                            </Grid.GestureRecognizers>
+                            <VerticalStackLayout>
+                                <Label Text="{Binding Name}" FontSize="16" />
+                                <Label Text="{Binding EntranceFee, StringFormat='Стоимость: {0:C}'}" FontSize="14"/>
+                            </VerticalStackLayout>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <!-- Кнопка создания нового туристического маршрута -->
+        <Button Text="Создать новый маршрут"
+            Command="{Binding CreateNewTouristRouteCommand}" />
+
+        <!-- Кнопка создания новой достопримечательности в выбранном маршруте -->
+        <Button Text="Добавить новую достопримечательность"
+            Command="{Binding CreateNewAttractionCommand}" />
+
+        <Button Text="Удалить маршрут"
+                    Command="{Binding DeleteTouristRouteCommand}"
+                    BackgroundColor="Red" TextColor="White"/>
+    </StackLayout>
+</ContentPage>

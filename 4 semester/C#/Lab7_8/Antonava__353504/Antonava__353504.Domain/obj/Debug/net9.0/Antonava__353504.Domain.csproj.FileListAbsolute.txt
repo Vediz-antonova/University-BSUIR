@@ -1,0 +1,11 @@
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\Antonava__353504.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\Antonava__353504.Domain.AssemblyInfoInputs.cache
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\Antonava__353504.Domain.AssemblyInfo.cs
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\Antonava__353504.Domain.csproj.CoreCompileInputs.cache
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\bin\Debug\net9.0\Antonava__353504.Domain.deps.json
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\bin\Debug\net9.0\Antonava__353504.Domain.dll
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\bin\Debug\net9.0\Antonava__353504.Domain.pdb
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\Antonava__353504.Domain.dll
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\refint\Antonava__353504.Domain.dll
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\Antonava__353504.Domain.pdb
+D:\University\C#_4 sem\Lab7_8\Antonava__353504\Antonava__353504.Domain\obj\Debug\net9.0\ref\Antonava__353504.Domain.dll

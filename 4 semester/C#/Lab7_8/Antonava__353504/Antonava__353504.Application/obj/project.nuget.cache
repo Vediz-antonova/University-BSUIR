@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UcE3kLv3Ccc=",
+  "success": true,
+  "projectFilePath": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\Antonava__353504.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

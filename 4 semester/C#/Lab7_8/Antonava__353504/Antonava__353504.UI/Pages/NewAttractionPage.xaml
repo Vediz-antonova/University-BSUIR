@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    x:Class="Antonava__353504.UI.Pages.NewAttractionPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:Antonava__353504.UI.ViewModels"
+    x:DataType="vm:NewAttractionViewModel"
+    Title="Создание достопримечательности">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20" Spacing="15">
+                <Label Text="Название достопримечательности" />
+                <Entry Text="{Binding AttractionName}" Placeholder="Введите название" />
+
+                <Label Text="Стоимость входного билета" />
+                <Entry Text="{Binding EntranceFee}" Keyboard="Numeric" />
+
+                <!-- При создании допустимо скрыть идентификатор маршрута,
+                     этот параметр передается через навигацию -->
+                <Label Text="Маршрут" IsVisible="False" />
+                <Label Text="{Binding TouristRouteId}" IsVisible="False" />
+
+                <Button Text="Создать достопримечательность"
+                        Command="{Binding SaveNewAttractionCommand}" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,867 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\moveattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\moveattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\valueconverters\\idtoimagesourcevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\valueconverters\\idtoimagesourcevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\touristroutespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\touristroutespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\touristroutespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\touristroutespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\attractiondetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\attractiondetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\attractiondetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\attractiondetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\moveattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\moveattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\editattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\editattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\viewmodels\\moveattractionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\viewmodels\\moveattractionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\viewmodels\\editattractionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\viewmodels\\editattractionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\viewmodels\\attractiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\viewmodels\\attractiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\moveattractionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\moveattractionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.domain\\entities\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|solutionrelative:antonava__353504.domain\\entities\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.persistense\\unitofwork\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|solutionrelative:antonava__353504.persistense\\unitofwork\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\editattractionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\editattractionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.domain\\entities\\touristroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|solutionrelative:antonava__353504.domain\\entities\\touristroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\editattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\editattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|solutionrelative:antonava__353504.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\newtouristroutepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\newtouristroutepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\newattractionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\newattractionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\dependencyinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\dependencyinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\moveattractionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\moveattractionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\editattractionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\editattractionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|solutionrelative:antonava__353504.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.persistense\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|solutionrelative:antonava__353504.persistense\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.persistense\\repository\\fakeattractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|solutionrelative:antonava__353504.persistense\\repository\\fakeattractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.persistense\\repository\\faketouristrouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|solutionrelative:antonava__353504.persistense\\repository\\faketouristrouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\viewmodels\\touristroutesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\viewmodels\\touristroutesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\viewmodels\\newattractionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\viewmodels\\newattractionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\touristrouteusecases\\commands\\deletetouristroutecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\touristrouteusecases\\commands\\deletetouristroutecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\deleteattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\deleteattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\deleteattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\deleteattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\addattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\addattractioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\commands\\addattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\commands\\addattractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\newtouristroutepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\newtouristroutepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\pages\\newattractionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\pages\\newattractionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\viewmodels\\newtouristrouteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\viewmodels\\newtouristrouteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\valueconverters\\entrancefeetocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\valueconverters\\entrancefeetocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.persistense\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|solutionrelative:antonava__353504.persistense\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\antonava__353504.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\antonava__353504.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\antonava__353504.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\antonava__353504.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.persistense\\antonava__353504.persistense.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1FAC91F3-FE82-469C-813B-92E9E9476112}|Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj|solutionrelative:antonava__353504.persistense\\antonava__353504.persistense.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\queries\\getattractionsbytouristroutequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\queries\\getattractionsbytouristroutequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.application\\attractionsusecases\\queries\\getattractionsbytouristroutequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D46AC6-9008-4DA0-AEDB-7FA34597A749}|Antonava__353504.Application\\Antonava__353504.Application.csproj|solutionrelative:antonava__353504.application\\attractionsusecases\\queries\\getattractionsbytouristroutequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A556405-54E8-426A-895D-260A496549F1}|Antonava__353504.UI\\Antonava__353504.UI.csproj|solutionrelative:antonava__353504.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|d:\\university\\c#_4 sem\\lab7_8\\antonava__353504\\antonava__353504.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAE936-F59B-49B4-8CD3-8AF82EF602C6}|Antonava__353504.Domain\\Antonava__353504.Domain.csproj|solutionrelative:antonava__353504.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdToImageSourceValueConverter.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ValueConverters\\IdToImageSourceValueConverter.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ValueConverters\\IdToImageSourceValueConverter.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ValueConverters\\IdToImageSourceValueConverter.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ValueConverters\\IdToImageSourceValueConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:13:27.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttractionDetailsPage.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:59:33.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\MauiProgram.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\MauiProgram.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:51:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TouristRoutesPage.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:06:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveAttractionCommand.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommand.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommand.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommand.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:11:50.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TouristRoutesPage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\TouristRoutesPage.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T15:05:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttractionDetailsPage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\AttractionDetailsPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T22:58:50.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveAttractionCommandHandler.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommandHandler.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommandHandler.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\MoveAttractionCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:12:08.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditAttractionCommandHandler.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommandHandler.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommandHandler.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:10:55.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditAttractionViewModel.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\EditAttractionViewModel.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ViewModels\\EditAttractionViewModel.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\EditAttractionViewModel.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ViewModels\\EditAttractionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:54:38.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoveAttractionViewModel.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\MoveAttractionViewModel.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ViewModels\\MoveAttractionViewModel.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\MoveAttractionViewModel.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ViewModels\\MoveAttractionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:09:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttractionDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\AttractionDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ViewModels\\AttractionDetailsViewModel.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\AttractionDetailsViewModel.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ViewModels\\AttractionDetailsViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEsAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:58:01.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoveAttractionPage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T00:09:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Entities\\Attraction.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Domain\\Entities\\Attraction.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Entities\\Attraction.cs",
+              "RelativeToolTip": "Antonava__353504.Domain\\Entities\\Attraction.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:58:00.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TouristRoute.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Entities\\TouristRoute.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Domain\\Entities\\TouristRoute.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Entities\\TouristRoute.cs",
+              "RelativeToolTip": "Antonava__353504.Domain\\Entities\\TouristRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:08:21.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\DbInitializer.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\DbInitializer.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:19:22.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditAttractionCommand.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommand.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommand.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommand.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\EditAttractionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:10:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditAttractionPage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\EditAttractionPage.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\EditAttractionPage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\EditAttractionPage.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\EditAttractionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T23:56:13.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EfUnitOfWork.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\UnitOfWork\\EfUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Persistense\\UnitOfWork\\EfUnitOfWork.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\UnitOfWork\\EfUnitOfWork.cs",
+              "RelativeToolTip": "Antonava__353504.Persistense\\UnitOfWork\\EfUnitOfWork.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:55:33.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Antonava__353504.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:56:31.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewTouristRoutePage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T23:15:45.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewAttractionPage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewAttractionPage.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\NewAttractionPage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewAttractionPage.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\NewAttractionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T23:17:32.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjectionExtensions.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\DependencyInjectionExtensions.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\DependencyInjectionExtensions.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\DependencyInjectionExtensions.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\DependencyInjectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:27:50.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\AppShell.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\AppShell.xaml.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:01:57.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MoveAttractionPage.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\MoveAttractionPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:33:52.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditAttractionPage.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\EditAttractionPage.xaml.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\EditAttractionPage.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\EditAttractionPage.xaml.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\EditAttractionPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:33:18.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Domain\\Abstractions\\IRepository.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Antonava__353504.Domain\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:16:16.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Persistense\\Repository\\EfRepository.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "Antonava__353504.Persistense\\Repository\\EfRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:14:25.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FakeAttractionRepository.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Repository\\FakeAttractionRepository.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Persistense\\Repository\\FakeAttractionRepository.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Repository\\FakeAttractionRepository.cs",
+              "RelativeToolTip": "Antonava__353504.Persistense\\Repository\\FakeAttractionRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:14:22.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FakeTouristRouteRepository.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Repository\\FakeTouristRouteRepository.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Persistense\\Repository\\FakeTouristRouteRepository.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Repository\\FakeTouristRouteRepository.cs",
+              "RelativeToolTip": "Antonava__353504.Persistense\\Repository\\FakeTouristRouteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:14:21.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\MainPage.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\MainPage.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T14:55:16.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TouristRoutesViewModel.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\TouristRoutesViewModel.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ViewModels\\TouristRoutesViewModel.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\TouristRoutesViewModel.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ViewModels\\TouristRoutesViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:07:27.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NewAttractionViewModel.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\NewAttractionViewModel.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ViewModels\\NewAttractionViewModel.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\NewAttractionViewModel.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ViewModels\\NewAttractionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:17:59.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteTouristRouteCommandHandler.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\TouristRouteUseCases\\Commands\\DeleteTouristRouteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\TouristRouteUseCases\\Commands\\DeleteTouristRouteCommandHandler.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\TouristRouteUseCases\\Commands\\DeleteTouristRouteCommandHandler.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\TouristRouteUseCases\\Commands\\DeleteTouristRouteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:25:51.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteAttractionCommandHandler.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommandHandler.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommandHandler.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:41:58.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddAttractionCommandHandler.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommandHandler.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommandHandler.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:41:48.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteAttractionCommand.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommand.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommand.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommand.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\DeleteAttractionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:41:53.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddAttractionCommand.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommand.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommand.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommand.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Commands\\AddAttractionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:41:39.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NewAttractionPage.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewAttractionPage.xaml.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\NewAttractionPage.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewAttractionPage.xaml.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\NewAttractionPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:18:49.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NewTouristRoutePage.xaml.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\Pages\\NewTouristRoutePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:16:24.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NewTouristRouteViewModel.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\NewTouristRouteViewModel.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ViewModels\\NewTouristRouteViewModel.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ViewModels\\NewTouristRouteViewModel.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ViewModels\\NewTouristRouteViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:16:50.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\GlobalUsings.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\GlobalUsings.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:53:16.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Persistense\\DependencyInjection.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\DependencyInjection.cs",
+              "RelativeToolTip": "Antonava__353504.Persistense\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:18:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EntranceFeeToColorValueConverter.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ValueConverters\\EntranceFeeToColorValueConverter.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\ValueConverters\\EntranceFeeToColorValueConverter.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\ValueConverters\\EntranceFeeToColorValueConverter.cs",
+              "RelativeToolTip": "Antonava__353504.UI\\ValueConverters\\EntranceFeeToColorValueConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:20:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\appsettings.json",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\appsettings.json",
+              "RelativeToolTip": "Antonava__353504.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T20:15:56.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Antonava__353504.UI.csproj",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Antonava__353504.UI.csproj",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\Antonava__353504.UI.csproj",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\Antonava__353504.UI.csproj",
+              "RelativeToolTip": "Antonava__353504.UI\\Antonava__353504.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T18:27:42.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Antonava__353504.Application",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\Antonava__353504.Application.csproj",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\Antonava__353504.Application.csproj",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\Antonava__353504.Application.csproj",
+              "RelativeToolTip": "Antonava__353504.Application\\Antonava__353504.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T17:44:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Antonava__353504.Persistense",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj",
+              "RelativeDocumentMoniker": "Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj",
+              "RelativeToolTip": "Antonava__353504.Persistense\\Antonava__353504.Persistense.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T17:44:35.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetAttractionsByTouristRouteQueryHandler.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQueryHandler.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQueryHandler.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQueryHandler.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:42:16.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetAttractionsByTouristRouteQuery.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQuery.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQuery.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQuery.cs",
+              "RelativeToolTip": "Antonava__353504.Application\\AttractionsUseCases\\Queries\\GetAttractionsByTouristRouteQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:42:13.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Microsoft.NET.Sdk.ImportWorkloads.props",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-19T15:27:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Antonava__353504.UI\\AppShell.xaml",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.UI\\AppShell.xaml",
+              "RelativeToolTip": "Antonava__353504.UI\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T15:04:12.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Antonava__353504.Domain\\Entities\\Entity.cs",
+              "ToolTip": "D:\\University\\C#_4 sem\\Lab7_8\\Antonava__353504\\Antonava__353504.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "Antonava__353504.Domain\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:32:12.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

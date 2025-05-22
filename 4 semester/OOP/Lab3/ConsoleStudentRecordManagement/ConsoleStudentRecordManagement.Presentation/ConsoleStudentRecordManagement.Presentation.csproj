@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ConsoleStudentRecordManagement.Application\ConsoleStudentRecordManagement.Application.csproj" />
+      <ProjectReference Include="..\ConsoleStudentRecordManagement.DataAccess\ConsoleStudentRecordManagement.DataAccess.csproj" />
+      <ProjectReference Include="..\ConsoleStudentRecordManagement.DTO\ConsoleStudentRecordManagement.DTO.csproj" />
+      <ProjectReference Include="..\ConsoleStudentRecordManagement.Integration\ConsoleStudentRecordManagement.Integration.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Postman.Runner" Version="0.3.1" />
+    </ItemGroup>
+
+</Project>

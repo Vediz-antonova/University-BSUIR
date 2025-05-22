@@ -1,0 +1,13 @@
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\bin\Debug\net9.0\ConsoleStudentRecordManagement.DTO.deps.json
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\bin\Debug\net9.0\ConsoleStudentRecordManagement.DTO.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\bin\Debug\net9.0\ConsoleStudentRecordManagement.DTO.pdb
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.AssemblyInfoInputs.cache
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.AssemblyInfo.cs
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.csproj.CoreCompileInputs.cache
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.sourcelink.json
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\refint\ConsoleStudentRecordManagement.DTO.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.pdb
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ref\ConsoleStudentRecordManagement.DTO.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.DTO\obj\Debug\net9.0\ConsoleStudentRecordManagement.DTO.csproj.AssemblyReference.cache

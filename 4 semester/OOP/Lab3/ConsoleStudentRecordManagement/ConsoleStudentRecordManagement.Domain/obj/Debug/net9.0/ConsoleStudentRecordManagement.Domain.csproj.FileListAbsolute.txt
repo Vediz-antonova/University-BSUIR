@@ -1,0 +1,13 @@
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\bin\Debug\net9.0\ConsoleStudentRecordManagement.Domain.deps.json
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\bin\Debug\net9.0\ConsoleStudentRecordManagement.Domain.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\bin\Debug\net9.0\ConsoleStudentRecordManagement.Domain.pdb
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.AssemblyInfoInputs.cache
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.AssemblyInfo.cs
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.csproj.CoreCompileInputs.cache
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.sourcelink.json
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\refint\ConsoleStudentRecordManagement.Domain.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.pdb
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ref\ConsoleStudentRecordManagement.Domain.dll
+C:\OOP_labs\ConsoleStudentRecordManagement\ConsoleStudentRecordManagement.Domain\obj\Debug\net9.0\ConsoleStudentRecordManagement.Domain.csproj.AssemblyReference.cache

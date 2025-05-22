@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="791px" preserveAspectRatio="none" style="width:1260px;height:791px;background:#FFFFFF;" version="1.1" viewBox="0 0 1260 791" width="1260px" zoomAndPan="magnify"><defs/><g><!--MD5=[121a8bf1197281ab89ed693fab589f94]
+cluster Domain--><g id="cluster_Domain"><path d="M8.5,6 L67.5,6 A3.75,3.75 0 0 1 70,8.5 L77,28.2969 L233.5,28.2969 A2.5,2.5 0 0 1 236,30.7969 L236,394 A2.5,2.5 0 0 1 233.5,396.5 L8.5,396.5 A2.5,2.5 0 0 1 6,394 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="77" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="10" y="20.9951">Domain</text></g><!--MD5=[114f4823940f317c08f5bedd633c9afd]
+cluster Entities--><g id="cluster_Entities"><path d="M32.5,49 L91.5,49 A3.75,3.75 0 0 1 94,51.5 L101,71.2969 L209.5,71.2969 A2.5,2.5 0 0 1 212,73.7969 L212,194.5 A2.5,2.5 0 0 1 209.5,197 L32.5,197 A2.5,2.5 0 0 1 30,194.5 L30,51.5 A2.5,2.5 0 0 1 32.5,49 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="30" x2="101" y1="71.2969" y2="71.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="34" y="63.9951">Entities</text></g><!--MD5=[f85ea1e2177e5adb5db234deb17b37e1]
+cluster Validation--><g id="cluster_Validation"><path d="M34.5,257.5 L112.5,257.5 A3.75,3.75 0 0 1 115,260 L122,279.7969 L207.5,279.7969 A2.5,2.5 0 0 1 210,282.2969 L210,370 A2.5,2.5 0 0 1 207.5,372.5 L34.5,372.5 A2.5,2.5 0 0 1 32,370 L32,260 A2.5,2.5 0 0 1 34.5,257.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="32" x2="122" y1="279.7969" y2="279.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="77" x="36" y="272.4951">Validation</text></g><!--MD5=[7b8bc9ee8bb84b99fb3a3f9477c19238]
+cluster DTO--><g id="cluster_DTO"><path d="M36.5,478 L70.5,478 A3.75,3.75 0 0 1 73,480.5 L80,500.2969 L362.5,500.2969 A2.5,2.5 0 0 1 365,502.7969 L365,773.5 A2.5,2.5 0 0 1 362.5,776 L36.5,776 A2.5,2.5 0 0 1 34,773.5 L34,480.5 A2.5,2.5 0 0 1 36.5,478 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="34" x2="80" y1="500.2969" y2="500.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="33" x="38" y="492.9951">DTO</text></g><!--MD5=[8ae7c0495e081ecf23c9be957bdf96e4]
+cluster Integration--><g id="cluster_Integration"><path d="M543.5,486.5 L630.5,486.5 A3.75,3.75 0 0 1 633,489 L640,508.7969 L940.5,508.7969 A2.5,2.5 0 0 1 943,511.2969 L943,765 A2.5,2.5 0 0 1 940.5,767.5 L543.5,767.5 A2.5,2.5 0 0 1 541,765 L541,489 A2.5,2.5 0 0 1 543.5,486.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="541" x2="640" y1="508.7969" y2="508.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="86" x="545" y="501.4951">Integration</text></g><!--MD5=[93ce16611c0b47fad12d5dedffeae361]
+cluster DataAccess--><g id="cluster_DataAccess"><path d="M969.5,478 L1062.5,478 A3.75,3.75 0 0 1 1065,480.5 L1072,500.2969 L1250.5,500.2969 A2.5,2.5 0 0 1 1253,502.7969 L1253,781.5 A2.5,2.5 0 0 1 1250.5,784 L969.5,784 A2.5,2.5 0 0 1 967,781.5 L967,480.5 A2.5,2.5 0 0 1 969.5,478 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="967" x2="1072" y1="500.2969" y2="500.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="92" x="971" y="492.9951">DataAccess</text></g><!--MD5=[d64883541e3d62e3241c4d12decf100d]
+cluster Application--><g id="cluster_Application"><path d="M262.5,22.5 L350.5,22.5 A3.75,3.75 0 0 1 353,25 L360,44.7969 L1097.5,44.7969 A2.5,2.5 0 0 1 1100,47.2969 L1100,426.5 A2.5,2.5 0 0 1 1097.5,429 L262.5,429 A2.5,2.5 0 0 1 260,426.5 L260,25 A2.5,2.5 0 0 1 262.5,22.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="260" x2="360" y1="44.7969" y2="44.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="87" x="264" y="37.4951">Application</text></g><!--MD5=[7c76d2c3a8a2b6b7f38b9d3310256c36]
+cluster Commands--><g id="cluster_Commands"><path d="M286.5,65.5 L374.5,65.5 A3.75,3.75 0 0 1 377,68 L384,87.7969 L1073.5,87.7969 A2.5,2.5 0 0 1 1076,90.2969 L1076,402.5 A2.5,2.5 0 0 1 1073.5,405 L286.5,405 A2.5,2.5 0 0 1 284,402.5 L284,68 A2.5,2.5 0 0 1 286.5,65.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="284" x2="384" y1="87.7969" y2="87.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="87" x="288" y="80.4951">Commands</text></g><!--MD5=[d6181cb537bdc20c0a3007a98a56832d]
+class Student--><g id="elem_Student"><rect codeLine="4" fill="#F1F1F1" height="96.8906" id="Student" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="150" x="46" y="84"/><ellipse cx="89.35" cy="100" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M92.3188,105.6406 Q91.7406,105.9375 91.1,106.0781 Q90.4594,106.2344 89.7563,106.2344 Q87.2563,106.2344 85.9281,104.5938 Q84.6156,102.9375 84.6156,99.8125 Q84.6156,96.6875 85.9281,95.0313 Q87.2563,93.375 89.7563,93.375 Q90.4594,93.375 91.1,93.5313 Q91.7563,93.6875 92.3188,93.9844 L92.3188,96.7031 Q91.6938,96.125 91.1,95.8594 Q90.5063,95.5781 89.8813,95.5781 Q88.5375,95.5781 87.85,96.6563 Q87.1625,97.7188 87.1625,99.8125 Q87.1625,101.9063 87.85,102.9844 Q88.5375,104.0469 89.8813,104.0469 Q90.5063,104.0469 91.1,103.7813 Q91.6938,103.5 92.3188,102.9219 L92.3188,105.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="109.65" y="104.8467">Student</text><line style="stroke:#181818;stroke-width:0.5;" x1="47" x2="195" y1="116" y2="116"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="54" y="126.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="66" y="132.9951">Name : string</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="54" y="142.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="66" y="149.292">Grade : double</text><line style="stroke:#181818;stroke-width:0.5;" x1="47" x2="195" y1="156.5938" y2="156.5938"/><ellipse cx="57" cy="170.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="66" y="173.5889">Create() : Student</text></g><!--MD5=[2d7a1570f1b9ec1122e1bcbf442711eb]
+class StudentValidator--><g id="elem_StudentValidator"><rect codeLine="11" fill="#F1F1F1" height="64.2969" id="StudentValidator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="146" x="48" y="292.5"/><ellipse cx="63" cy="308.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M65.9688,314.1406 Q65.3906,314.4375 64.75,314.5781 Q64.1094,314.7344 63.4063,314.7344 Q60.9063,314.7344 59.5781,313.0938 Q58.2656,311.4375 58.2656,308.3125 Q58.2656,305.1875 59.5781,303.5313 Q60.9063,301.875 63.4063,301.875 Q64.1094,301.875 64.75,302.0313 Q65.4063,302.1875 65.9688,302.4844 L65.9688,305.2031 Q65.3438,304.625 64.75,304.3594 Q64.1563,304.0781 63.5313,304.0781 Q62.1875,304.0781 61.5,305.1563 Q60.8125,306.2188 60.8125,308.3125 Q60.8125,310.4063 61.5,311.4844 Q62.1875,312.5469 63.5313,312.5469 Q64.1563,312.5469 64.75,312.2813 Q65.3438,312 65.9688,311.4219 L65.9688,314.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="77" y="313.3467">StudentValidator</text><line style="stroke:#181818;stroke-width:0.5;" x1="49" x2="193" y1="324.5" y2="324.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="49" x2="193" y1="332.5" y2="332.5"/><ellipse cx="59" cy="346.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="68" y="349.4951">Validate() : void</text></g><!--MD5=[8285a501f1f18985f5f97cb1b633c25c]
+class StudentDTO--><g id="elem_StudentDTO"><rect codeLine="21" fill="#F1F1F1" height="80.5938" id="StudentDTO" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="129" x="219.5" y="679"/><ellipse cx="239.45" cy="695" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M242.4188,700.6406 Q241.8406,700.9375 241.2,701.0781 Q240.5594,701.2344 239.8563,701.2344 Q237.3563,701.2344 236.0281,699.5938 Q234.7156,697.9375 234.7156,694.8125 Q234.7156,691.6875 236.0281,690.0313 Q237.3563,688.375 239.8563,688.375 Q240.5594,688.375 241.2,688.5313 Q241.8563,688.6875 242.4188,688.9844 L242.4188,691.7031 Q241.7938,691.125 241.2,690.8594 Q240.6063,690.5781 239.9813,690.5781 Q238.6375,690.5781 237.95,691.6563 Q237.2625,692.7188 237.2625,694.8125 Q237.2625,696.9063 237.95,697.9844 Q238.6375,699.0469 239.9813,699.0469 Q240.6063,699.0469 241.2,698.7813 Q241.7938,698.5 242.4188,697.9219 L242.4188,700.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="254.55" y="699.8467">StudentDTO</text><line style="stroke:#181818;stroke-width:0.5;" x1="220.5" x2="347.5" y1="711" y2="711"/><ellipse cx="230.5" cy="724.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="239.5" y="727.9951">Name : string</text><ellipse cx="230.5" cy="740.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="239.5" y="744.292">Grade : double</text><line style="stroke:#181818;stroke-width:0.5;" x1="220.5" x2="347.5" y1="751.5938" y2="751.5938"/></g><!--MD5=[436d217048c49bca6eeeb78b1351ae19]
+class QuoteDTO--><g id="elem_QuoteDTO"><rect codeLine="25" fill="#F1F1F1" height="80.5938" id="QuoteDTO" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="50" y="679"/><ellipse cx="77.6" cy="695" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M80.5688,700.6406 Q79.9906,700.9375 79.35,701.0781 Q78.7094,701.2344 78.0063,701.2344 Q75.5063,701.2344 74.1781,699.5938 Q72.8656,697.9375 72.8656,694.8125 Q72.8656,691.6875 74.1781,690.0313 Q75.5063,688.375 78.0063,688.375 Q78.7094,688.375 79.35,688.5313 Q80.0063,688.6875 80.5688,688.9844 L80.5688,691.7031 Q79.9438,691.125 79.35,690.8594 Q78.7563,690.5781 78.1313,690.5781 Q76.7875,690.5781 76.1,691.6563 Q75.4125,692.7188 75.4125,694.8125 Q75.4125,696.9063 76.1,697.9844 Q76.7875,699.0469 78.1313,699.0469 Q78.7563,699.0469 79.35,698.7813 Q79.9438,698.5 80.5688,697.9219 L80.5688,700.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="94.4" y="699.8467">QuoteDTO</text><line style="stroke:#181818;stroke-width:0.5;" x1="51" x2="183" y1="711" y2="711"/><ellipse cx="61" cy="724.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="70" y="727.9951">Content : string</text><ellipse cx="61" cy="740.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="70" y="744.292">Author : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="51" x2="183" y1="751.5938" y2="751.5938"/></g><!--MD5=[f82c16bc90b696fd10d13753b7f076f2]
+class DTOFactory--><g id="elem_DTOFactory"><rect codeLine="29" fill="#F1F1F1" height="80.5938" id="DTOFactory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="267" x="50.5" y="513"/><ellipse cx="139.25" cy="529" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M142.2188,534.6406 Q141.6406,534.9375 141,535.0781 Q140.3594,535.2344 139.6563,535.2344 Q137.1563,535.2344 135.8281,533.5938 Q134.5156,531.9375 134.5156,528.8125 Q134.5156,525.6875 135.8281,524.0313 Q137.1563,522.375 139.6563,522.375 Q140.3594,522.375 141,522.5313 Q141.6563,522.6875 142.2188,522.9844 L142.2188,525.7031 Q141.5938,525.125 141,524.8594 Q140.4063,524.5781 139.7813,524.5781 Q138.4375,524.5781 137.75,525.6563 Q137.0625,526.7188 137.0625,528.8125 Q137.0625,530.9063 137.75,531.9844 Q138.4375,533.0469 139.7813,533.0469 Q140.4063,533.0469 141,532.7813 Q141.5938,532.5 142.2188,531.9219 L142.2188,534.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="159.75" y="533.8467">DTOFactory</text><line style="stroke:#181818;stroke-width:0.5;" x1="51.5" x2="316.5" y1="545" y2="545"/><line style="stroke:#181818;stroke-width:0.5;" x1="51.5" x2="316.5" y1="553" y2="553"/><ellipse cx="61.5" cy="566.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="241" x="70.5" y="569.9951">CreateStudentDTO() : StudentDTO</text><ellipse cx="61.5" cy="582.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="217" x="70.5" y="586.292">CreateQuoteDTO() : QuoteDTO</text></g><!--MD5=[8bc6d417a413cf48c53fdae4ae44c269]
+class IQuoteApiAdapter--><g id="elem_IQuoteApiAdapter"><rect codeLine="40" fill="#F1F1F1" height="64.2969" id="IQuoteApiAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="370" x="557" y="521.5"/><ellipse cx="677.25" cy="537.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M673.1719,533.2656 L673.1719,531.1094 L680.5625,531.1094 L680.5625,533.2656 L678.0938,533.2656 L678.0938,541.3438 L680.5625,541.3438 L680.5625,543.5 L673.1719,543.5 L673.1719,541.3438 L675.6406,541.3438 L675.6406,533.2656 L673.1719,533.2656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="121" x="697.75" y="542.3467">IQuoteApiAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="558" x2="926" y1="553.5" y2="553.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="558" x2="926" y1="561.5" y2="561.5"/><ellipse cx="568" cy="575.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="344" x="577" y="578.4951">GetMotivationalQuoteAsync() : Task&lt;QuoteDTO&gt;</text></g><!--MD5=[08ec71fb5592b7f01937db67442641e4]
+class QuoteApiAdapter--><g id="elem_QuoteApiAdapter"><rect codeLine="43" fill="#F1F1F1" height="64.2969" id="QuoteApiAdapter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="370" x="557" y="687.5"/><ellipse cx="678.75" cy="703.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M681.7188,709.1406 Q681.1406,709.4375 680.5,709.5781 Q679.8594,709.7344 679.1563,709.7344 Q676.6563,709.7344 675.3281,708.0938 Q674.0156,706.4375 674.0156,703.3125 Q674.0156,700.1875 675.3281,698.5313 Q676.6563,696.875 679.1563,696.875 Q679.8594,696.875 680.5,697.0313 Q681.1563,697.1875 681.7188,697.4844 L681.7188,700.2031 Q681.0938,699.625 680.5,699.3594 Q679.9063,699.0781 679.2813,699.0781 Q677.9375,699.0781 677.25,700.1563 Q676.5625,701.2188 676.5625,703.3125 Q676.5625,705.4063 677.25,706.4844 Q677.9375,707.5469 679.2813,707.5469 Q679.9063,707.5469 680.5,707.2813 Q681.0938,707 681.7188,706.4219 L681.7188,709.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="699.25" y="708.3467">QuoteApiAdapter</text><line style="stroke:#181818;stroke-width:0.5;" x1="558" x2="926" y1="719.5" y2="719.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="558" x2="926" y1="727.5" y2="727.5"/><ellipse cx="568" cy="741.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="344" x="577" y="744.4951">GetMotivationalQuoteAsync() : Task&lt;QuoteDTO&gt;</text></g><!--MD5=[fd9ec4d6fae2f2ff0290bbcf890abf2d]
+class IDataRepository--><g id="elem_IDataRepository"><rect codeLine="51" fill="#F1F1F1" height="80.5938" id="IDataRepository" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="254" x="983" y="513"/><ellipse cx="1051.25" cy="529" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1047.1719,524.7656 L1047.1719,522.6094 L1054.5625,522.6094 L1054.5625,524.7656 L1052.0938,524.7656 L1052.0938,532.8438 L1054.5625,532.8438 L1054.5625,535 L1047.1719,535 L1047.1719,532.8438 L1049.6406,532.8438 L1049.6406,524.7656 L1047.1719,524.7656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="109" x="1071.75" y="533.8467">IDataRepository</text><line style="stroke:#181818;stroke-width:0.5;" x1="984" x2="1236" y1="545" y2="545"/><line style="stroke:#181818;stroke-width:0.5;" x1="984" x2="1236" y1="553" y2="553"/><ellipse cx="994" cy="566.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="228" x="1003" y="569.9951">GetAllStudents() : List&lt;Student&gt;</text><ellipse cx="994" cy="582.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="1003" y="586.292">SaveStudents() : void</text></g><!--MD5=[3bf9f1af3bda2288f30287dca2896838]
+class JSONRepository--><g id="elem_JSONRepository"><rect codeLine="55" fill="#F1F1F1" height="96.8906" id="JSONRepository" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="254" x="983" y="671"/><ellipse cx="1052.25" cy="687" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1055.2188,692.6406 Q1054.6406,692.9375 1054,693.0781 Q1053.3594,693.2344 1052.6563,693.2344 Q1050.1563,693.2344 1048.8281,691.5938 Q1047.5156,689.9375 1047.5156,686.8125 Q1047.5156,683.6875 1048.8281,682.0313 Q1050.1563,680.375 1052.6563,680.375 Q1053.3594,680.375 1054,680.5313 Q1054.6563,680.6875 1055.2188,680.9844 L1055.2188,683.7031 Q1054.5938,683.125 1054,682.8594 Q1053.4063,682.5781 1052.7813,682.5781 Q1051.4375,682.5781 1050.75,683.6563 Q1050.0625,684.7188 1050.0625,686.8125 Q1050.0625,688.9063 1050.75,689.9844 Q1051.4375,691.0469 1052.7813,691.0469 Q1053.4063,691.0469 1054,690.7813 Q1054.5938,690.5 1055.2188,689.9219 L1055.2188,692.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="1072.75" y="691.8467">JSONRepository</text><line style="stroke:#181818;stroke-width:0.5;" x1="984" x2="1236" y1="703" y2="703"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="991" y="713.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="1003" y="719.9951">filePath : string</text><line style="stroke:#181818;stroke-width:0.5;" x1="984" x2="1236" y1="727.2969" y2="727.2969"/><ellipse cx="994" cy="740.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="228" x="1003" y="744.292">GetAllStudents() : List&lt;Student&gt;</text><ellipse cx="994" cy="757.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="1003" y="760.5889">SaveStudents() : void</text></g><!--MD5=[11008d568be52109e77f2977709dd853]
+class ICommand--><g id="elem_ICommand"><rect codeLine="67" fill="#F1F1F1" height="64.2969" id="ICommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="179" x="590.5" y="100.5"/><ellipse cx="638.75" cy="116.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M634.6719,112.2656 L634.6719,110.1094 L642.0625,110.1094 L642.0625,112.2656 L639.5938,112.2656 L639.5938,120.3438 L642.0625,120.3438 L642.0625,122.5 L634.6719,122.5 L634.6719,120.3438 L637.1406,120.3438 L637.1406,112.2656 L634.6719,112.2656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="74" x="659.25" y="121.3467">ICommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="591.5" x2="768.5" y1="132.5" y2="132.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="591.5" x2="768.5" y1="140.5" y2="140.5"/><ellipse cx="601.5" cy="154.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="610.5" y="157.4951">ExecuteAsync() : Task</text></g><!--MD5=[d9c7be8826580fc37c15c188abb34aaf]
+class AddStudentCommand--><g id="elem_AddStudentCommand"><rect codeLine="71" fill="#F1F1F1" height="129.4844" id="AddStudentCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="255" x="552.5" y="260"/><ellipse cx="599.25" cy="276" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M602.2188,281.6406 Q601.6406,281.9375 601,282.0781 Q600.3594,282.2344 599.6563,282.2344 Q597.1563,282.2344 595.8281,280.5938 Q594.5156,278.9375 594.5156,275.8125 Q594.5156,272.6875 595.8281,271.0313 Q597.1563,269.375 599.6563,269.375 Q600.3594,269.375 601,269.5313 Q601.6563,269.6875 602.2188,269.9844 L602.2188,272.7031 Q601.5938,272.125 601,271.8594 Q600.4063,271.5781 599.7813,271.5781 Q598.4375,271.5781 597.75,272.6563 Q597.0625,273.7188 597.0625,275.8125 Q597.0625,277.9063 597.75,278.9844 Q598.4375,280.0469 599.7813,280.0469 Q600.4063,280.0469 601,279.7813 Q601.5938,279.5 602.2188,278.9219 L602.2188,281.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="619.75" y="280.8467">AddStudentCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="553.5" x2="806.5" y1="292" y2="292"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="560.5" y="302.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="572.5" y="308.9951">studentDto : StudentDTO</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="560.5" y="318.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="572.5" y="325.292">repository : IDataRepository</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="560.5" y="335.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="229" x="572.5" y="341.5889">quoteAdapter : IQuoteApiAdapter</text><ellipse cx="563.5" cy="354.5391" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="572.5" y="357.8857">Quote : QuoteDTO</text><line style="stroke:#181818;stroke-width:0.5;" x1="553.5" x2="806.5" y1="365.1875" y2="365.1875"/><ellipse cx="563.5" cy="378.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="572.5" y="382.1826">ExecuteAsync() : Task</text></g><!--MD5=[2ac1d3f2bff6244760ed7c1b308e07f7]
+class EditStudentCommand--><g id="elem_EditStudentCommand"><rect codeLine="79" fill="#F1F1F1" height="113.1875" id="EditStudentCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="217" x="300.5" y="268"/><ellipse cx="330.35" cy="284" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M333.3188,289.6406 Q332.7406,289.9375 332.1,290.0781 Q331.4594,290.2344 330.7563,290.2344 Q328.2563,290.2344 326.9281,288.5938 Q325.6156,286.9375 325.6156,283.8125 Q325.6156,280.6875 326.9281,279.0313 Q328.2563,277.375 330.7563,277.375 Q331.4594,277.375 332.1,277.5313 Q332.7563,277.6875 333.3188,277.9844 L333.3188,280.7031 Q332.6938,280.125 332.1,279.8594 Q331.5063,279.5781 330.8813,279.5781 Q329.5375,279.5781 328.85,280.6563 Q328.1625,281.7188 328.1625,283.8125 Q328.1625,285.9063 328.85,286.9844 Q329.5375,288.0469 330.8813,288.0469 Q331.5063,288.0469 332.1,287.7813 Q332.6938,287.5 333.3188,286.9219 L333.3188,289.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="347.65" y="288.8467">EditStudentCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="301.5" x2="516.5" y1="300" y2="300"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="308.5" y="310.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="320.5" y="316.9951">studentIndex : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="308.5" y="326.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="320.5" y="333.292">studentDto : StudentDTO</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="308.5" y="343.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="320.5" y="349.5889">repository : IDataRepository</text><line style="stroke:#181818;stroke-width:0.5;" x1="301.5" x2="516.5" y1="356.8906" y2="356.8906"/><ellipse cx="311.5" cy="370.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="320.5" y="373.8857">ExecuteAsync() : Task</text></g><!--MD5=[c759ce69f830a79b99797ca74ca5751f]
+class ViewStudentCommand--><g id="elem_ViewStudentCommand"><rect codeLine="86" fill="#F1F1F1" height="96.8906" id="ViewStudentCommand" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="217" x="842.5" y="276"/><ellipse cx="869.65" cy="292" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M872.6188,297.6406 Q872.0406,297.9375 871.4,298.0781 Q870.7594,298.2344 870.0563,298.2344 Q867.5563,298.2344 866.2281,296.5938 Q864.9156,294.9375 864.9156,291.8125 Q864.9156,288.6875 866.2281,287.0313 Q867.5563,285.375 870.0563,285.375 Q870.7594,285.375 871.4,285.5313 Q872.0563,285.6875 872.6188,285.9844 L872.6188,288.7031 Q871.9938,288.125 871.4,287.8594 Q870.8063,287.5781 870.1813,287.5781 Q868.8375,287.5781 868.15,288.6563 Q867.4625,289.7188 867.4625,291.8125 Q867.4625,293.9063 868.15,294.9844 Q868.8375,296.0469 870.1813,296.0469 Q870.8063,296.0469 871.4,295.7813 Q871.9938,295.5 872.6188,294.9219 L872.6188,297.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="886.35" y="296.8467">ViewStudentCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="843.5" x2="1058.5" y1="308" y2="308"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="850.5" y="318.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="862.5" y="324.9951">repository : IDataRepository</text><ellipse cx="853.5" cy="337.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="862.5" y="341.292">Students : List&lt;Student&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="843.5" x2="1058.5" y1="348.5938" y2="348.5938"/><ellipse cx="853.5" cy="362.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="862.5" y="365.5889">ExecuteAsync() : Task</text></g><!--MD5=[db382b42abb9dc643177b58cdcda6a01]
+link Student to StudentValidator--><g id="link_Student_StudentValidator"><path codeLine="17" d="M121,181.45 C121,214.28 121,257.16 121,287.18 " fill="none" id="Student-to-StudentValidator" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="121,292.26,125,283.26,121,287.26,117,283.26,121,292.26" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="122" y="226.0669">uses</text></g><!--MD5=[f09ed94fc52369f927c8db5941e87760]
+link DTOFactory to StudentDTO--><g id="link_DTOFactory_StudentDTO"><path codeLine="35" d="M208.21,594.2 C223.02,618.48 241.98,649.59 257.23,674.6 " fill="none" id="DTOFactory-to-StudentDTO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="259.84,678.88,258.5627,669.1143,257.2339,674.6129,251.7353,673.2841,259.84,678.88" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="235" y="637.0669">creates</text></g><!--MD5=[5af8d1e179a162a7771a9433db4a82fb]
+link DTOFactory to QuoteDTO--><g id="link_DTOFactory_QuoteDTO"><path codeLine="36" d="M165.91,594.03 C161.58,603.78 157.04,614.23 153,624 C146.32,640.18 139.38,658.08 133.4,673.92 " fill="none" id="DTOFactory-to-QuoteDTO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="131.58,678.77,138.4854,671.7475,133.3356,674.0884,130.9948,668.9385,131.58,678.77" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="154" y="637.0669">creates</text></g><!--MD5=[56c75e4dee29c57c2730e221b1f90c36]
+reverse link IQuoteApiAdapter to QuoteApiAdapter--><g id="link_IQuoteApiAdapter_QuoteApiAdapter"><path codeLine="46" d="M742,605.82 C742,632.56 742,664.39 742,687.38 " fill="none" id="IQuoteApiAdapter-backto-QuoteApiAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="735,605.73,742,585.73,749,605.73,735,605.73" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[33c84e93a0b52667ebef1c69b54cc7df]
+reverse link IDataRepository to JSONRepository--><g id="link_IDataRepository_JSONRepository"><path codeLine="61" d="M1110,614.33 C1110,632.99 1110,653.3 1110,671 " fill="none" id="IDataRepository-backto-JSONRepository" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1103,614.2,1110,594.2,1117,614.2,1103,614.2" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d588ae88f93af2f7ed19fac940269b73]
+reverse link ICommand to AddStudentCommand--><g id="link_ICommand_AddStudentCommand"><path codeLine="92" d="M680,184.99 C680,208.03 680,235.43 680,259.75 " fill="none" id="ICommand-backto-AddStudentCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="673,184.87,680,164.87,687,184.87,673,184.87" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[12c453c1f43c70df9633120064fbe334]
+reverse link ICommand to EditStudentCommand--><g id="link_ICommand_EditStudentCommand"><path codeLine="93" d="M618.97,176.29 C580.33,203.38 529.96,238.69 488.25,267.94 " fill="none" id="ICommand-backto-EditStudentCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="615.16,170.41,635.55,164.66,623.2,181.87,615.16,170.41" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c999e55b05eadf4f2b4574ebdc82b58f]
+reverse link ICommand to ViewStudentCommand--><g id="link_ICommand_ViewStudentCommand"><path codeLine="94" d="M741.04,176.3 C783.28,205.91 839.52,245.34 883.17,275.94 " fill="none" id="ICommand-backto-ViewStudentCommand" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="736.8,181.87,724.45,164.66,744.84,170.41,736.8,181.87" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8cf4eb87d5bfbf373888f9f18c1ce1db]
+link AddStudentCommand to StudentDTO--><g id="link_AddStudentCommand_StudentDTO"><path codeLine="96" d="M597.87,389.25 C568.68,413.35 536.3,441.79 509,470 C460.15,520.48 457.95,541.75 411,594 C385.73,622.12 355.58,651.82 331,675.16 " fill="none" id="AddStudentCommand-to-StudentDTO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="327.1,678.85,336.3889,675.5763,330.7343,675.416,330.8945,669.7615,327.1,678.85" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="510" y="558.0669">uses</text></g><!--MD5=[5fd43a1be48dce216bb45a6feafcf3e0]
+link AddStudentCommand to IDataRepository--><g id="link_AddStudentCommand_IDataRepository"><path codeLine="97" d="M751.6,389.21 C773.93,406.63 799.44,424.21 825,437 C873.7,461.38 892.15,450.52 943,470 C972.97,481.48 1004.81,496.46 1032.56,510.5 " fill="none" id="AddStudentCommand-to-IDataRepository" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1037.33,512.93,1031.1274,505.2796,1032.8751,510.6597,1027.495,512.4074,1037.33,512.93" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="916" y="458.0669">uses</text></g><!--MD5=[798ec3fbb6cfaac860ffe492ea33492b]
+link AddStudentCommand to IQuoteApiAdapter--><g id="link_AddStudentCommand_IQuoteApiAdapter"><path codeLine="98" d="M697.35,389.03 C708.59,430.16 722.81,482.23 732.14,516.41 " fill="none" id="AddStudentCommand-to-IQuoteApiAdapter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="733.48,521.32,734.9417,511.5802,732.1499,516.5002,727.2299,513.7084,733.48,521.32" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="717" y="458.0669">uses</text></g><!--MD5=[5be48d18e8bc866b35797ea4ad45607b]
+link AddStudentCommand to DTOFactory--><g id="link_AddStudentCommand_DTOFactory"><path codeLine="99" d="M613.81,389.06 C590.62,407.69 563.26,426 535,437 C496.75,451.89 483.46,438.13 443,445 C398.68,452.53 387.04,454.1 345,470 C315.56,481.14 284.51,496.19 257.6,510.4 " fill="none" id="AddStudentCommand-to-DTOFactory" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="252.98,512.85,262.8049,512.1639,257.3965,510.506,259.0545,505.0975,252.98,512.85" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="444" y="458.0669">uses</text></g><!--MD5=[af8ea02340eaa7d7a9c0d2d7f9db6fce]
+link EditStudentCommand to StudentDTO--><g id="link_EditStudentCommand_StudentDTO"><path codeLine="101" d="M395.75,381.11 C382.22,435.83 359.75,521.47 335,594 C325.77,621.05 313.71,650.68 303.64,674.24 " fill="none" id="EditStudentCommand-to-StudentDTO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="301.66,678.87,308.8819,672.1734,303.6296,674.2743,301.5287,669.022,301.66,678.87" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="372" y="558.0669">uses</text></g><!--MD5=[49693ee8c3cab6f37a4a97a9e8fbde9f]
+link EditStudentCommand to IDataRepository--><g id="link_EditStudentCommand_IDataRepository"><path codeLine="102" d="M459.1,381.25 C480.52,401.82 507.02,423.4 535,437 C590.67,464.06 610.45,455.51 672,462 C731.92,468.31 884.54,455.43 943,470 C977.1,478.5 1012.35,494.65 1041.62,510.43 " fill="none" id="EditStudentCommand-to-IDataRepository" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1046.27,512.95,1040.2754,505.1356,1041.8778,510.5608,1036.4526,512.1631,1046.27,512.95" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="673" y="458.0669">uses</text></g><!--MD5=[932f6ddca6784ba6d2b4ad0b37cfc3ad]
+link EditStudentCommand to DTOFactory--><g id="link_EditStudentCommand_DTOFactory"><path codeLine="103" d="M353.96,381.03 C314.92,420.42 263.26,472.53 227.19,508.93 " fill="none" id="EditStudentCommand-to-DTOFactory" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="223.31,512.84,232.4808,509.2488,226.824,509.2831,226.7898,503.6264,223.31,512.84" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="290" y="458.0669">uses</text></g><!--MD5=[dbd21450190db447f372dda6b93a28bb]
+link ViewStudentCommand to IDataRepository--><g id="link_ViewStudentCommand_IDataRepository"><path codeLine="105" d="M984.33,373.09 C1012.36,413.1 1052.1,469.84 1079.35,508.74 " fill="none" id="ViewStudentCommand-to-IDataRepository" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1082.28,512.92,1080.3935,503.2535,1079.4117,508.8245,1073.8407,507.8427,1082.28,512.92" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="1045" y="458.0669">uses</text></g><!--MD5=[568c00c5e73855dcb8445d99ca99233e]
+@startuml
+' ==== Domain Layer ====
+package "Domain" {
+    package "Entities" {
+        class Student {
+            - Name : string
+            - Grade : double
+            + Create() : Student
+        }
+    }
+    package "Validation" {
+        class StudentValidator {
+            + Validate() : void
+        }
+    }
+}
+
+Student ..> StudentValidator : uses
+
+' ==== DTO Layer ====
+package "DTO" {
+    class StudentDTO {
+        + Name : string
+        + Grade : double
+    }
+    class QuoteDTO {
+        + Content : string
+        + Author : string
+    }
+    class DTOFactory {
+        + CreateStudentDTO() : StudentDTO
+        + CreateQuoteDTO() : QuoteDTO
+    }
+}
+
+DTOFactory ..> StudentDTO : creates
+DTOFactory ..> QuoteDTO : creates
+
+' ==== Integration Layer ====
+package "Integration" {
+    interface IQuoteApiAdapter {
+        + GetMotivationalQuoteAsync() : Task<QuoteDTO>
+    }
+    class QuoteApiAdapter {
+        + GetMotivationalQuoteAsync() : Task<QuoteDTO>
+    }
+    IQuoteApiAdapter <|.. QuoteApiAdapter
+}
+
+' ==== Data Access Layer ====
+package "DataAccess" {
+    interface IDataRepository {
+        + GetAllStudents() : List<Student>
+        + SaveStudents() : void
+    }
+    class JSONRepository {
+        - filePath : string
+        + GetAllStudents() : List<Student>
+        + SaveStudents() : void
+    }
+    
+    IDataRepository <|.. JSONRepository
+}
+
+' ==== Application Layer ====
+package "Application" {
+    package "Commands" {
+        interface ICommand {
+            + ExecuteAsync() : Task
+        }
+        
+        class AddStudentCommand {
+            - studentDto : StudentDTO
+            - repository : IDataRepository
+            - quoteAdapter : IQuoteApiAdapter
+            + Quote : QuoteDTO
+            + ExecuteAsync() : Task
+        }
+        
+        class EditStudentCommand {
+            - studentIndex : int
+            - studentDto : StudentDTO
+            - repository : IDataRepository
+            + ExecuteAsync() : Task
+        }
+        
+        class ViewStudentCommand {
+            - repository : IDataRepository
+            + Students : List<Student>
+            + ExecuteAsync() : Task
+        }
+        
+        ICommand <|.. AddStudentCommand
+        ICommand <|.. EditStudentCommand
+        ICommand <|.. ViewStudentCommand
+        
+        AddStudentCommand ..> StudentDTO : uses
+        AddStudentCommand ..> IDataRepository : uses
+        AddStudentCommand ..> IQuoteApiAdapter : uses
+        AddStudentCommand ..> DTOFactory : uses
+        
+        EditStudentCommand ..> StudentDTO : uses
+        EditStudentCommand ..> IDataRepository : uses
+        EditStudentCommand ..> DTOFactory : uses
+        
+        ViewStudentCommand ..> IDataRepository : uses
+    }
+}
+@enduml
+
+@startuml
+package "Domain" {
+    package "Entities" {
+        class Student {
+            - Name : string
+            - Grade : double
+            + Create() : Student
+        }
+    }
+    package "Validation" {
+        class StudentValidator {
+            + Validate() : void
+        }
+    }
+}
+
+Student ..> StudentValidator : uses
+
+package "DTO" {
+    class StudentDTO {
+        + Name : string
+        + Grade : double
+    }
+    class QuoteDTO {
+        + Content : string
+        + Author : string
+    }
+    class DTOFactory {
+        + CreateStudentDTO() : StudentDTO
+        + CreateQuoteDTO() : QuoteDTO
+    }
+}
+
+DTOFactory ..> StudentDTO : creates
+DTOFactory ..> QuoteDTO : creates
+
+package "Integration" {
+    interface IQuoteApiAdapter {
+        + GetMotivationalQuoteAsync() : Task<QuoteDTO>
+    }
+    class QuoteApiAdapter {
+        + GetMotivationalQuoteAsync() : Task<QuoteDTO>
+    }
+    IQuoteApiAdapter <|.. QuoteApiAdapter
+}
+
+package "DataAccess" {
+    interface IDataRepository {
+        + GetAllStudents() : List<Student>
+        + SaveStudents() : void
+    }
+    class JSONRepository {
+        - filePath : string
+        + GetAllStudents() : List<Student>
+        + SaveStudents() : void
+    }
+    
+    IDataRepository <|.. JSONRepository
+}
+
+package "Application" {
+    package "Commands" {
+        interface ICommand {
+            + ExecuteAsync() : Task
+        }
+        
+        class AddStudentCommand {
+            - studentDto : StudentDTO
+            - repository : IDataRepository
+            - quoteAdapter : IQuoteApiAdapter
+            + Quote : QuoteDTO
+            + ExecuteAsync() : Task
+        }
+        
+        class EditStudentCommand {
+            - studentIndex : int
+            - studentDto : StudentDTO
+            - repository : IDataRepository
+            + ExecuteAsync() : Task
+        }
+        
+        class ViewStudentCommand {
+            - repository : IDataRepository
+            + Students : List<Student>
+            + ExecuteAsync() : Task
+        }
+        
+        ICommand <|.. AddStudentCommand
+        ICommand <|.. EditStudentCommand
+        ICommand <|.. ViewStudentCommand
+        
+        AddStudentCommand ..> StudentDTO : uses
+        AddStudentCommand ..> IDataRepository : uses
+        AddStudentCommand ..> IQuoteApiAdapter : uses
+        AddStudentCommand ..> DTOFactory : uses
+        
+        EditStudentCommand ..> StudentDTO : uses
+        EditStudentCommand ..> IDataRepository : uses
+        EditStudentCommand ..> DTOFactory : uses
+        
+        ViewStudentCommand ..> IDataRepository : uses
+    }
+}
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

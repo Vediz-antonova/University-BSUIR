@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5bfa81f6_002D3528_002D4504_002Dace4_002Da69119dda403/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StudentManagementTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D1C6DF52-2BBF-4AAD-A589-EF51E1ED2DDC::net9.0::ConsoleStudentRecordManagement.Tests.StudentManagementTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d391bf55_002Dba3c_002D4e6a_002Daf79_002Dd9fce928a236/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StudentManagementTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D1C6DF52-2BBF-4AAD-A589-EF51E1ED2DDC::net9.0::ConsoleStudentRecordManagement.Tests.StudentManagementTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -26,3 +26,12 @@
 - [ИСП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/C%23) (Гламаздин И.И.)
 - [ИГИ](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/ИГИ) (Жвакина А.В.)
 - [Метрология](https://github.com/Vediz-antonova/University-BSUIR/tree/main/4%20semester/Метрология) (Болтак С.В.)
+
+### [Пятый семестр (2025)](https://github.com/Vediz-antonova/University-BSUIR/tree/main/5%20semester)
+- [Курсовая работа АВС]() (Марков А.Н.)
+- [АВС](https://github.com/Vediz-antonova/University-BSUIR/tree/main/5%20semester/ABC) (Калиновская А.А.)
+- [МДиСУБД](https://github.com/Vediz-antonova/University-BSUIR/tree/main/5%20semester/МДиСУБД) (Скиба И.Г.)
+- [ОСиСП](https://github.com/Vediz-antonova/University-BSUIR/tree/main/5%20semester/ОСиСП) (Гриценко Н.Ю.)
+- [СППР](https://github.com/Vediz-antonova/University-BSUIR/tree/main/5%20semester/СППР) (Гламаздин И.И.)
+- [СТРweb](https://github.com/Vediz-antonova/University-BSUIR/tree/main/5%20semester/СТРweb) (Жвакина А.В.)
+

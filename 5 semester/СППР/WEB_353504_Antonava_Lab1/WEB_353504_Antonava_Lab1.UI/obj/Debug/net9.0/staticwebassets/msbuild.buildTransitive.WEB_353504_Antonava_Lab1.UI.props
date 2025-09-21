@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WEB_353504_Antonava_Lab1.UI.props" />
+</Project>

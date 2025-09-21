@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h1>@ViewData["TitleText"]</h1>
+<h2>Список</h2>
+<ol>
+    @for (int i = 1; i <= 5; i++)
+    {
+        <li>Элемент @i</li>
+    }
+</ol>
+
+<h2>Форма</h2>
+<form method="post">
+    <div class="row">
+        <div class="col-sm-10 offset-sm-2">
+            <select asp-items="ViewBag.SelectList" name="selectedId"></select>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="login" class="col-sm-2 col-form-label">Логин:</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="login" name="login" placeholder="Введите имя">
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="password" class="col-sm-2 col-form-label">Пароль:</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" id="password" name="password" placeholder="Введите пароль">
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Отправить</button>
+</form>

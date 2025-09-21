@@ -1,0 +1,12 @@
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\bin\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.deps.json
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\bin\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.dll
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\bin\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.pdb
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.AssemblyInfoInputs.cache
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.AssemblyInfo.cs
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.csproj.CoreCompileInputs.cache
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.dll
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\refint\WEB_353504_Antonava_Lab3.Domain.dll
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.pdb
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\ref\WEB_353504_Antonava_Lab3.Domain.dll
+D:\University\СППР\WEB_353504_Antonava_Lab3\WEB_353504_Antonava_Lab3.Domain\obj\Debug\net9.0\WEB_353504_Antonava_Lab3.Domain.csproj.AssemblyReference.cache

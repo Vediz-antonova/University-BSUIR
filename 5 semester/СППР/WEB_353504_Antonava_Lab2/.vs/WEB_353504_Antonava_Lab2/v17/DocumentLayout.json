@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab2\\web_353504_antonava_lab2.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab2.UI\\WEB_353504_Antonava_Lab2.UI.csproj|solutionrelative:web_353504_antonava_lab2.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T16:14:46.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T16:14:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T16:13:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T16:12:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T16:11:47.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T16:11:44.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Controllers\\Home.cs",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Controllers\\Home.cs",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Controllers\\Home.cs",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Controllers\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:38:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T00:39:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:39:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListDemo.cs",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Models\\ListDemo.cs",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Models\\ListDemo.cs",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Models\\ListDemo.cs",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Models\\ListDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:38:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab2.UI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab2\\WEB_353504_Antonava_Lab2.UI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab2.UI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:38:56.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

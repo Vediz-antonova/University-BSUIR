@@ -1,0 +1,5 @@
+﻿@model CartInfo
+
+<a asp-controller="Cart" asp-action="Index" class="navbar-text ms-auto">
+    @Model.Total руб <i class="bi bi-cart"></i> (@Model.Count)
+</a>

@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h1 class="mt-4">Лабораторная работа 1</h1>
+
+<h2>Список</h2>
+<ol type="A" class="mb-4">
+    <li>элемент 1 списка</li>
+    <li>элемент 2 списка</li>
+</ol>
+
+<h2>Форма</h2>
+<form method="post">
+    <div class="row">
+        <div class="col-sm-10 offset-sm-2">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="checkbox1" id="checkbox1">
+                <label class="form-check-label" for="checkbox1">Чек-бокс 1</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="checkbox2" id="checkbox2">
+                <label class="form-check-label" for="checkbox2">Чек-бокс 2</label>
+            </div>
+
+
+            <fieldset class="mb-3">
+                <legend class="fs-6">Выберите вариант:</legend>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="radioGroup" id="radio1" value="1" checked>
+                    <label class="form-check-label" for="radio1">Радио-1</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="radioGroup" id="radio2" value="2">
+                    <label class="form-check-label" for="radio2">Радио-2</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="radioGroup" id="radio3" value="3">
+                    <label class="form-check-label" for="radio3">Радио-3</label>
+                </div>
+            </fieldset>
+        </<div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="login" class="col-sm-2 col-form-label">Логин:</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="login" name="login" placeholder="Введите имя">
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="password" class="col-sm-2 col-form-label">Пароль:</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" id="password" name="password" placeholder="Введите пароль">
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Отправить</button>
+</form>

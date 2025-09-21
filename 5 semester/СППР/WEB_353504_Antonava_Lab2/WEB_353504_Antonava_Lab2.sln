@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_353504_Antonava_Lab2.UI", "WEB_353504_Antonava_Lab2.UI\WEB_353504_Antonava_Lab2.UI.csproj", "{B4619906-5C7A-436A-913C-59C93806342C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4619906-5C7A-436A-913C-59C93806342C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4619906-5C7A-436A-913C-59C93806342C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4619906-5C7A-436A-913C-59C93806342C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4619906-5C7A-436A-913C-59C93806342C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9358A7A1-5A70-420A-B4F8-8D8865A88B06}
+	EndGlobalSection
+EndGlobal

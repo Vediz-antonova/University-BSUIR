@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WEB_353504_Antonava_Lab2.UI/1.0.0": {
+        "runtime": {
+          "WEB_353504_Antonava_Lab2.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WEB_353504_Antonava_Lab2.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

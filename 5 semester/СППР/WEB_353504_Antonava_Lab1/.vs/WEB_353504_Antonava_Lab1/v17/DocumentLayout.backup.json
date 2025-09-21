@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab1\\web_353504_antonava_lab1.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|solutionrelative:web_353504_antonava_lab1.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab1\\web_353504_antonava_lab1.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|solutionrelative:web_353504_antonava_lab1.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab1\\web_353504_antonava_lab1.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|solutionrelative:web_353504_antonava_lab1.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|d:\\university\\\u0441\u043F\u043F\u0440\\web_353504_antonava_lab1\\web_353504_antonava_lab1.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4619906-5C7A-436A-913C-59C93806342C}|WEB_353504_Antonava_Lab1.UI\\WEB_353504_Antonava_Lab1.UI.csproj|solutionrelative:web_353504_antonava_lab1.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab1.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab1.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T13:28:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab1.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab1.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T13:28:01.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab1.UI\\Program.cs",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Program.cs",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab1.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:38:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Controllers\\Home.cs",
+              "RelativeDocumentMoniker": "WEB_353504_Antonava_Lab1.UI\\Controllers\\Home.cs",
+              "ToolTip": "D:\\University\\\u0421\u041F\u041F\u0420\\WEB_353504_Antonava_Lab1\\WEB_353504_Antonava_Lab1.UI\\Controllers\\Home.cs",
+              "RelativeToolTip": "WEB_353504_Antonava_Lab1.UI\\Controllers\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:37:55.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
